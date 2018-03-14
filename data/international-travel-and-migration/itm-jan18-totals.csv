@@ -1,0 +1,925 @@
+"Period","Direction","Passenger_type","Count"
+200702,"Arrival","NZ Resident",123076
+200702,"Arrival","Overseas visitor",267569
+200702,"Arrival","PLT",8538
+200702,"Departure","NZ Resident",96331
+200702,"Departure","Overseas visitor",251465
+200702,"Departure","PLT",6422
+200702,"Net migration","PLT",2116
+200703,"Arrival","NZ Resident",122056
+200703,"Arrival","Overseas visitor",239203
+200703,"Arrival","PLT",6115
+200703,"Departure","NZ Resident",132414
+200703,"Departure","Overseas visitor",280660
+200703,"Departure","PLT",7159
+200703,"Net migration","PLT",-1044
+200704,"Arrival","NZ Resident",156762
+200704,"Arrival","Overseas visitor",193229
+200704,"Arrival","PLT",5385
+200704,"Departure","NZ Resident",163682
+200704,"Departure","Overseas visitor",229367
+200704,"Departure","PLT",6641
+200704,"Net migration","PLT",-1256
+200705,"Arrival","NZ Resident",152564
+200705,"Arrival","Overseas visitor",140755
+200705,"Arrival","PLT",5053
+200705,"Departure","NZ Resident",171348
+200705,"Departure","Overseas visitor",163139
+200705,"Departure","PLT",6617
+200705,"Net migration","PLT",-1564
+200706,"Arrival","NZ Resident",161807
+200706,"Arrival","Overseas visitor",145498
+200706,"Arrival","PLT",5970
+200706,"Departure","NZ Resident",208309
+200706,"Departure","Overseas visitor",132246
+200706,"Departure","PLT",6354
+200706,"Net migration","PLT",-384
+200707,"Arrival","NZ Resident",222375
+200707,"Arrival","Overseas visitor",173046
+200707,"Arrival","PLT",7159
+200707,"Departure","NZ Resident",185472
+200707,"Departure","Overseas visitor",170753
+200707,"Departure","PLT",6932
+200707,"Net migration","PLT",227
+200708,"Arrival","NZ Resident",175485
+200708,"Arrival","Overseas visitor",164775
+200708,"Arrival","PLT",6700
+200708,"Departure","NZ Resident",177853
+200708,"Departure","Overseas visitor",178788
+200708,"Departure","PLT",5972
+200708,"Net migration","PLT",728
+200709,"Arrival","NZ Resident",186796
+200709,"Arrival","Overseas visitor",168838
+200709,"Arrival","PLT",7478
+200709,"Departure","NZ Resident",208467
+200709,"Departure","Overseas visitor",152443
+200709,"Departure","PLT",5237
+200709,"Net migration","PLT",2241
+200710,"Arrival","NZ Resident",222329
+200710,"Arrival","Overseas visitor",179947
+200710,"Arrival","PLT",6632
+200710,"Departure","NZ Resident",168092
+200710,"Departure","Overseas visitor",175716
+200710,"Departure","PLT",5071
+200710,"Net migration","PLT",1561
+200711,"Arrival","NZ Resident",153043
+200711,"Arrival","Overseas visitor",228813
+200711,"Arrival","PLT",7048
+200711,"Departure","NZ Resident",159493
+200711,"Departure","Overseas visitor",204610
+200711,"Departure","PLT",5248
+200711,"Net migration","PLT",1800
+200712,"Arrival","NZ Resident",112743
+200712,"Arrival","Overseas visitor",317259
+200712,"Arrival","PLT",7454
+200712,"Departure","NZ Resident",199693
+200712,"Departure","Overseas visitor",213503
+200712,"Departure","PLT",7560
+200712,"Net migration","PLT",-106
+200801,"Arrival","NZ Resident",200718
+200801,"Arrival","Overseas visitor",253515
+200801,"Arrival","PLT",8936
+200801,"Departure","NZ Resident",111226
+200801,"Departure","Overseas visitor",321096
+200801,"Departure","PLT",8456
+200801,"Net migration","PLT",480
+200802,"Arrival","NZ Resident",134335
+200802,"Arrival","Overseas visitor",280513
+200802,"Arrival","PLT",9366
+200802,"Departure","NZ Resident",107861
+200802,"Departure","Overseas visitor",261099
+200802,"Departure","PLT",7406
+200802,"Net migration","PLT",1960
+200803,"Arrival","NZ Resident",133425
+200803,"Arrival","Overseas visitor",250806
+200803,"Arrival","PLT",6338
+200803,"Departure","NZ Resident",134818
+200803,"Departure","Overseas visitor",289882
+200803,"Departure","PLT",7347
+200803,"Net migration","PLT",-1009
+200804,"Arrival","NZ Resident",132865
+200804,"Arrival","Overseas visitor",179388
+200804,"Arrival","PLT",5859
+200804,"Departure","NZ Resident",164309
+200804,"Departure","Overseas visitor",221359
+200804,"Departure","PLT",7127
+200804,"Net migration","PLT",-1268
+200805,"Arrival","NZ Resident",167626
+200805,"Arrival","Overseas visitor",140483
+200805,"Arrival","PLT",5907
+200805,"Departure","NZ Resident",173983
+200805,"Departure","Overseas visitor",160012
+200805,"Departure","PLT",7206
+200805,"Net migration","PLT",-1299
+200806,"Arrival","NZ Resident",169055
+200806,"Arrival","Overseas visitor",142413
+200806,"Arrival","PLT",6362
+200806,"Departure","NZ Resident",186038
+200806,"Departure","Overseas visitor",136128
+200806,"Departure","PLT",6945
+200806,"Net migration","PLT",-583
+200807,"Arrival","NZ Resident",208381
+200807,"Arrival","Overseas visitor",175738
+200807,"Arrival","PLT",7993
+200807,"Departure","NZ Resident",202166
+200807,"Departure","Overseas visitor",167148
+200807,"Departure","PLT",7297
+200807,"Net migration","PLT",696
+200808,"Arrival","NZ Resident",184033
+200808,"Arrival","Overseas visitor",162485
+200808,"Arrival","PLT",7333
+200808,"Departure","NZ Resident",176291
+200808,"Departure","Overseas visitor",178748
+200808,"Departure","PLT",6868
+200808,"Net migration","PLT",465
+200809,"Arrival","NZ Resident",174176
+200809,"Arrival","Overseas visitor",157704
+200809,"Arrival","PLT",7429
+200809,"Departure","NZ Resident",192020
+200809,"Departure","Overseas visitor",139623
+200809,"Departure","PLT",5723
+200809,"Net migration","PLT",1706
+200810,"Arrival","NZ Resident",217137
+200810,"Arrival","Overseas visitor",173938
+200810,"Arrival","PLT",7328
+200810,"Departure","NZ Resident",175854
+200810,"Departure","Overseas visitor",167132
+200810,"Departure","PLT",5841
+200810,"Net migration","PLT",1487
+200811,"Arrival","NZ Resident",152023
+200811,"Arrival","Overseas visitor",219313
+200811,"Arrival","PLT",7046
+200811,"Departure","NZ Resident",155231
+200811,"Departure","Overseas visitor",199499
+200811,"Departure","PLT",6006
+200811,"Net migration","PLT",1040
+200812,"Arrival","NZ Resident",111024
+200812,"Arrival","Overseas visitor",322207
+200812,"Arrival","PLT",7566
+200812,"Departure","NZ Resident",187329
+200812,"Departure","Overseas visitor",214008
+200812,"Departure","PLT",7427
+200812,"Net migration","PLT",139
+200901,"Arrival","NZ Resident",191892
+200901,"Arrival","Overseas visitor",244030
+200901,"Arrival","PLT",9674
+200901,"Departure","NZ Resident",105115
+200901,"Departure","Overseas visitor",317491
+200901,"Departure","PLT",8470
+200901,"Net migration","PLT",1204
+200902,"Arrival","NZ Resident",122527
+200902,"Arrival","Overseas visitor",256559
+200902,"Arrival","PLT",9759
+200902,"Departure","NZ Resident",96678
+200902,"Departure","Overseas visitor",244074
+200902,"Departure","PLT",6177
+200902,"Net migration","PLT",3582
+200903,"Arrival","NZ Resident",122973
+200903,"Arrival","Overseas visitor",226461
+200903,"Arrival","PLT",6617
+200903,"Departure","NZ Resident",126721
+200903,"Departure","Overseas visitor",271397
+200903,"Departure","PLT",6304
+200903,"Net migration","PLT",313
+200904,"Arrival","NZ Resident",149241
+200904,"Arrival","Overseas visitor",195883
+200904,"Arrival","PLT",5975
+200904,"Departure","NZ Resident",162384
+200904,"Departure","Overseas visitor",224810
+200904,"Departure","PLT",5549
+200904,"Net migration","PLT",426
+200905,"Arrival","NZ Resident",145046
+200905,"Arrival","Overseas visitor",141916
+200905,"Arrival","PLT",5785
+200905,"Departure","NZ Resident",163686
+200905,"Departure","Overseas visitor",165006
+200905,"Departure","PLT",5058
+200905,"Net migration","PLT",727
+200906,"Arrival","NZ Resident",157359
+200906,"Arrival","Overseas visitor",135162
+200906,"Arrival","PLT",5746
+200906,"Departure","NZ Resident",176313
+200906,"Departure","Overseas visitor",130848
+200906,"Departure","PLT",5016
+200906,"Net migration","PLT",730
+200907,"Arrival","NZ Resident",206275
+200907,"Arrival","Overseas visitor",176198
+200907,"Arrival","PLT",8101
+200907,"Departure","NZ Resident",198367
+200907,"Departure","Overseas visitor",169281
+200907,"Departure","PLT",5432
+200907,"Net migration","PLT",2669
+200908,"Arrival","NZ Resident",185281
+200908,"Arrival","Overseas visitor",161100
+200908,"Arrival","PLT",6470
+200908,"Departure","NZ Resident",176320
+200908,"Departure","Overseas visitor",177050
+200908,"Departure","PLT",4851
+200908,"Net migration","PLT",1619
+200909,"Arrival","NZ Resident",175059
+200909,"Arrival","Overseas visitor",172425
+200909,"Arrival","PLT",7142
+200909,"Departure","NZ Resident",193267
+200909,"Departure","Overseas visitor",155152
+200909,"Departure","PLT",4035
+200909,"Net migration","PLT",3107
+200910,"Arrival","NZ Resident",215931
+200910,"Arrival","Overseas visitor",187372
+200910,"Arrival","PLT",6820
+200910,"Departure","NZ Resident",176482
+200910,"Departure","Overseas visitor",177310
+200910,"Departure","PLT",3816
+200910,"Net migration","PLT",3004
+200911,"Arrival","NZ Resident",154893
+200911,"Arrival","Overseas visitor",219939
+200911,"Arrival","PLT",6878
+200911,"Departure","NZ Resident",158441
+200911,"Departure","Overseas visitor",198512
+200911,"Departure","PLT",4377
+200911,"Net migration","PLT",2501
+200912,"Arrival","NZ Resident",109170
+200912,"Arrival","Overseas visitor",341337
+200912,"Arrival","PLT",7443
+200912,"Departure","NZ Resident",184542
+200912,"Departure","Overseas visitor",222549
+200912,"Departure","PLT",6072
+200912,"Net migration","PLT",1371
+201001,"Arrival","NZ Resident",192658
+201001,"Arrival","Overseas visitor",256652
+201001,"Arrival","PLT",9274
+201001,"Departure","NZ Resident",106787
+201001,"Departure","Overseas visitor",343330
+201001,"Departure","PLT",6735
+201001,"Net migration","PLT",2539
+201002,"Arrival","NZ Resident",123613
+201002,"Arrival","Overseas visitor",267855
+201002,"Arrival","PLT",8593
+201002,"Departure","NZ Resident",104009
+201002,"Departure","Overseas visitor",260096
+201002,"Departure","PLT",5981
+201002,"Net migration","PLT",2612
+201003,"Arrival","NZ Resident",128168
+201003,"Arrival","Overseas visitor",243263
+201003,"Arrival","PLT",6109
+201003,"Departure","NZ Resident",142732
+201003,"Departure","Overseas visitor",274596
+201003,"Departure","PLT",6441
+201003,"Net migration","PLT",-332
+201004,"Arrival","NZ Resident",157862
+201004,"Arrival","Overseas visitor",187962
+201004,"Arrival","PLT",5259
+201004,"Departure","NZ Resident",162996
+201004,"Departure","Overseas visitor",231443
+201004,"Departure","PLT",5852
+201004,"Net migration","PLT",-593
+201005,"Arrival","NZ Resident",152032
+201005,"Arrival","Overseas visitor",141336
+201005,"Arrival","PLT",5015
+201005,"Departure","NZ Resident",165397
+201005,"Departure","Overseas visitor",170603
+201005,"Departure","PLT",6275
+201005,"Net migration","PLT",-1260
+201006,"Arrival","NZ Resident",164159
+201006,"Arrival","Overseas visitor",145825
+201006,"Arrival","PLT",5201
+201006,"Departure","NZ Resident",198835
+201006,"Departure","Overseas visitor",133652
+201006,"Departure","PLT",5934
+201006,"Net migration","PLT",-733
+201007,"Arrival","NZ Resident",219688
+201007,"Arrival","Overseas visitor",182904
+201007,"Arrival","PLT",7685
+201007,"Departure","NZ Resident",207992
+201007,"Departure","Overseas visitor",178963
+201007,"Departure","PLT",6299
+201007,"Net migration","PLT",1386
+201008,"Arrival","NZ Resident",191401
+201008,"Arrival","Overseas visitor",168081
+201008,"Arrival","PLT",6687
+201008,"Departure","NZ Resident",180155
+201008,"Departure","Overseas visitor",186408
+201008,"Departure","PLT",5782
+201008,"Net migration","PLT",905
+201009,"Arrival","NZ Resident",184216
+201009,"Arrival","Overseas visitor",174157
+201009,"Arrival","PLT",7448
+201009,"Departure","NZ Resident",209995
+201009,"Departure","Overseas visitor",153187
+201009,"Departure","PLT",4934
+201009,"Net migration","PLT",2514
+201010,"Arrival","NZ Resident",232255
+201010,"Arrival","Overseas visitor",184898
+201010,"Arrival","PLT",7116
+201010,"Departure","NZ Resident",180588
+201010,"Departure","Overseas visitor",180547
+201010,"Departure","PLT",5416
+201010,"Net migration","PLT",1700
+201011,"Arrival","NZ Resident",155364
+201011,"Arrival","Overseas visitor",226455
+201011,"Arrival","PLT",6857
+201011,"Departure","NZ Resident",160847
+201011,"Departure","Overseas visitor",205821
+201011,"Departure","PLT",5447
+201011,"Net migration","PLT",1410
+201012,"Arrival","NZ Resident",121384
+201012,"Arrival","Overseas visitor",345656
+201012,"Arrival","PLT",7225
+201012,"Departure","NZ Resident",205960
+201012,"Departure","Overseas visitor",221729
+201012,"Departure","PLT",6922
+201012,"Net migration","PLT",303
+201101,"Arrival","NZ Resident",207437
+201101,"Arrival","Overseas visitor",265553
+201101,"Arrival","PLT",9238
+201101,"Departure","NZ Resident",117700
+201101,"Departure","Overseas visitor",352027
+201101,"Departure","PLT",8461
+201101,"Net migration","PLT",777
+201102,"Arrival","NZ Resident",129860
+201102,"Arrival","Overseas visitor",268259
+201102,"Arrival","PLT",8932
+201102,"Departure","NZ Resident",103521
+201102,"Departure","Overseas visitor",263970
+201102,"Departure","PLT",6760
+201102,"Net migration","PLT",2172
+201103,"Arrival","NZ Resident",131825
+201103,"Arrival","Overseas visitor",215553
+201103,"Arrival","PLT",6352
+201103,"Departure","NZ Resident",143105
+201103,"Departure","Overseas visitor",266269
+201103,"Departure","PLT",8379
+201103,"Net migration","PLT",-2027
+201104,"Arrival","NZ Resident",157388
+201104,"Arrival","Overseas visitor",197777
+201104,"Arrival","PLT",5700
+201104,"Departure","NZ Resident",182568
+201104,"Departure","Overseas visitor",218384
+201104,"Departure","PLT",7339
+201104,"Net migration","PLT",-1639
+201105,"Arrival","NZ Resident",179063
+201105,"Arrival","Overseas visitor",140741
+201105,"Arrival","PLT",5340
+201105,"Departure","NZ Resident",181850
+201105,"Departure","Overseas visitor",174076
+201105,"Departure","PLT",7483
+201105,"Net migration","PLT",-2143
+201106,"Arrival","NZ Resident",168694
+201106,"Arrival","Overseas visitor",131269
+201106,"Arrival","PLT",5436
+201106,"Departure","NZ Resident",192415
+201106,"Departure","Overseas visitor",126431
+201106,"Departure","PLT",6927
+201106,"Net migration","PLT",-1491
+201107,"Arrival","NZ Resident",227214
+201107,"Arrival","Overseas visitor",176084
+201107,"Arrival","PLT",8314
+201107,"Departure","NZ Resident",231600
+201107,"Departure","Overseas visitor",173471
+201107,"Departure","PLT",7928
+201107,"Net migration","PLT",386
+201108,"Arrival","NZ Resident",213975
+201108,"Arrival","Overseas visitor",175909
+201108,"Arrival","PLT",7129
+201108,"Departure","NZ Resident",191023
+201108,"Departure","Overseas visitor",181404
+201108,"Departure","PLT",6834
+201108,"Net migration","PLT",295
+201109,"Arrival","NZ Resident",175919
+201109,"Arrival","Overseas visitor",219940
+201109,"Arrival","PLT",7162
+201109,"Departure","NZ Resident",167367
+201109,"Departure","Overseas visitor",178348
+201109,"Departure","PLT",6132
+201109,"Net migration","PLT",1030
+201110,"Arrival","NZ Resident",205249
+201110,"Arrival","Overseas visitor",215902
+201110,"Arrival","PLT",6587
+201110,"Departure","NZ Resident",188069
+201110,"Departure","Overseas visitor",238243
+201110,"Departure","PLT",5763
+201110,"Net migration","PLT",824
+201111,"Arrival","NZ Resident",166552
+201111,"Arrival","Overseas visitor",230292
+201111,"Arrival","PLT",7027
+201111,"Departure","NZ Resident",174555
+201111,"Departure","Overseas visitor",210567
+201111,"Departure","PLT",6082
+201111,"Net migration","PLT",945
+201112,"Arrival","NZ Resident",127356
+201112,"Arrival","Overseas visitor",364165
+201112,"Arrival","PLT",6970
+201112,"Departure","NZ Resident",218882
+201112,"Departure","Overseas visitor",232670
+201112,"Departure","PLT",7954
+201112,"Net migration","PLT",-984
+201201,"Arrival","NZ Resident",224359
+201201,"Arrival","Overseas visitor",266839
+201201,"Arrival","PLT",8641
+201201,"Departure","NZ Resident",129084
+201201,"Departure","Overseas visitor",364362
+201201,"Departure","PLT",9143
+201201,"Net migration","PLT",-502
+201202,"Arrival","NZ Resident",145388
+201202,"Arrival","Overseas visitor",259083
+201202,"Arrival","PLT",9288
+201202,"Departure","NZ Resident",116391
+201202,"Departure","Overseas visitor",261230
+201202,"Departure","PLT",8050
+201202,"Net migration","PLT",1238
+201203,"Arrival","NZ Resident",137348
+201203,"Arrival","Overseas visitor",239929
+201203,"Arrival","PLT",6790
+201203,"Departure","NZ Resident",152987
+201203,"Departure","Overseas visitor",269751
+201203,"Departure","PLT",8132
+201203,"Net migration","PLT",-1342
+201204,"Arrival","NZ Resident",178690
+201204,"Arrival","Overseas visitor",195668
+201204,"Arrival","PLT",5123
+201204,"Departure","NZ Resident",183232
+201204,"Departure","Overseas visitor",236509
+201204,"Departure","PLT",7385
+201204,"Net migration","PLT",-2262
+201205,"Arrival","NZ Resident",158362
+201205,"Arrival","Overseas visitor",140841
+201205,"Arrival","PLT",5322
+201205,"Departure","NZ Resident",179331
+201205,"Departure","Overseas visitor",163556
+201205,"Departure","PLT",7112
+201205,"Net migration","PLT",-1790
+201206,"Arrival","NZ Resident",173475
+201206,"Arrival","Overseas visitor",151074
+201206,"Arrival","PLT",6049
+201206,"Departure","NZ Resident",221065
+201206,"Departure","Overseas visitor",138175
+201206,"Departure","PLT",7078
+201206,"Net migration","PLT",-1029
+201207,"Arrival","NZ Resident",246907
+201207,"Arrival","Overseas visitor",173539
+201207,"Arrival","PLT",7588
+201207,"Departure","NZ Resident",205573
+201207,"Departure","Overseas visitor",179638
+201207,"Departure","PLT",7810
+201207,"Net migration","PLT",-222
+201208,"Arrival","NZ Resident",190103
+201208,"Arrival","Overseas visitor",178298
+201208,"Arrival","PLT",6674
+201208,"Departure","NZ Resident",193456
+201208,"Departure","Overseas visitor",188239
+201208,"Departure","PLT",6698
+201208,"Net migration","PLT",-24
+201209,"Arrival","NZ Resident",197229
+201209,"Arrival","Overseas visitor",179069
+201209,"Arrival","PLT",7570
+201209,"Departure","NZ Resident",208004
+201209,"Departure","Overseas visitor",157417
+201209,"Departure","PLT",5702
+201209,"Net migration","PLT",1868
+201210,"Arrival","NZ Resident",238230
+201210,"Arrival","Overseas visitor",184200
+201210,"Arrival","PLT",7293
+201210,"Departure","NZ Resident",190059
+201210,"Departure","Overseas visitor",188080
+201210,"Departure","PLT",5508
+201210,"Net migration","PLT",1785
+201211,"Arrival","NZ Resident",161596
+201211,"Arrival","Overseas visitor",232119
+201211,"Arrival","PLT",7341
+201211,"Departure","NZ Resident",173185
+201211,"Departure","Overseas visitor",206009
+201211,"Departure","PLT",5644
+201211,"Net migration","PLT",1697
+201212,"Arrival","NZ Resident",128022
+201212,"Arrival","Overseas visitor",363959
+201212,"Arrival","PLT",7576
+201212,"Departure","NZ Resident",216782
+201212,"Departure","Overseas visitor",232359
+201212,"Departure","PLT",8158
+201212,"Net migration","PLT",-582
+201301,"Arrival","NZ Resident",223210
+201301,"Arrival","Overseas visitor",260637
+201301,"Arrival","PLT",9045
+201301,"Departure","NZ Resident",120982
+201301,"Departure","Overseas visitor",358994
+201301,"Departure","PLT",8370
+201301,"Net migration","PLT",675
+201302,"Arrival","NZ Resident",131652
+201302,"Arrival","Overseas visitor",281233
+201302,"Arrival","PLT",9202
+201302,"Departure","NZ Resident",110664
+201302,"Departure","Overseas visitor",272559
+201302,"Departure","PLT",6781
+201302,"Net migration","PLT",2421
+201303,"Arrival","NZ Resident",140703
+201303,"Arrival","Overseas visitor",270740
+201303,"Arrival","PLT",7243
+201303,"Departure","NZ Resident",155875
+201303,"Departure","Overseas visitor",290709
+201303,"Departure","PLT",7238
+201303,"Net migration","PLT",5
+201304,"Arrival","NZ Resident",161244
+201304,"Arrival","Overseas visitor",200583
+201304,"Arrival","PLT",6314
+201304,"Departure","NZ Resident",184859
+201304,"Departure","Overseas visitor",255399
+201304,"Departure","PLT",6342
+201304,"Net migration","PLT",-28
+201305,"Arrival","NZ Resident",182210
+201305,"Arrival","Overseas visitor",153034
+201305,"Arrival","PLT",5883
+201305,"Departure","NZ Resident",182414
+201305,"Departure","Overseas visitor",178123
+201305,"Departure","PLT",6207
+201305,"Net migration","PLT",-324
+201306,"Arrival","NZ Resident",181861
+201306,"Arrival","Overseas visitor",159485
+201306,"Arrival","PLT",6506
+201306,"Departure","NZ Resident",198800
+201306,"Departure","Overseas visitor",148408
+201306,"Departure","PLT",5870
+201306,"Net migration","PLT",636
+201307,"Arrival","NZ Resident",240793
+201307,"Arrival","Overseas visitor",183718
+201307,"Arrival","PLT",8628
+201307,"Departure","NZ Resident",237048
+201307,"Departure","Overseas visitor",189868
+201307,"Departure","PLT",6188
+201307,"Net migration","PLT",2440
+201308,"Arrival","NZ Resident",211225
+201308,"Arrival","Overseas visitor",189284
+201308,"Arrival","PLT",7728
+201308,"Departure","NZ Resident",205058
+201308,"Departure","Overseas visitor",202103
+201308,"Departure","PLT",5473
+201308,"Net migration","PLT",2255
+201309,"Arrival","NZ Resident",206645
+201309,"Arrival","Overseas visitor",191056
+201309,"Arrival","PLT",8428
+201309,"Departure","NZ Resident",211407
+201309,"Departure","Overseas visitor",173596
+201309,"Departure","PLT",4234
+201309,"Net migration","PLT",4194
+201310,"Arrival","NZ Resident",241700
+201310,"Arrival","Overseas visitor",194973
+201310,"Arrival","PLT",8249
+201310,"Departure","NZ Resident",193808
+201310,"Departure","Overseas visitor",194523
+201310,"Departure","PLT",4148
+201310,"Net migration","PLT",4101
+201311,"Arrival","NZ Resident",169504
+201311,"Arrival","Overseas visitor",251060
+201311,"Arrival","PLT",8225
+201311,"Departure","NZ Resident",171335
+201311,"Departure","Overseas visitor",224501
+201311,"Departure","PLT",4540
+201311,"Net migration","PLT",3685
+201312,"Arrival","NZ Resident",134782
+201312,"Arrival","Overseas visitor",381892
+201312,"Arrival","PLT",8514
+201312,"Departure","NZ Resident",221184
+201312,"Departure","Overseas visitor",255768
+201312,"Departure","PLT",6106
+201312,"Net migration","PLT",2408
+201401,"Arrival","NZ Resident",228202
+201401,"Arrival","Overseas visitor",292446
+201401,"Arrival","PLT",10241
+201401,"Departure","NZ Resident",127842
+201401,"Departure","Overseas visitor",379519
+201401,"Departure","PLT",6368
+201401,"Net migration","PLT",3873
+201402,"Arrival","NZ Resident",143163
+201402,"Arrival","Overseas visitor",301165
+201402,"Arrival","PLT",10893
+201402,"Departure","NZ Resident",116931
+201402,"Departure","Overseas visitor",307038
+201402,"Departure","PLT",5116
+201402,"Net migration","PLT",5777
+201403,"Arrival","NZ Resident",152432
+201403,"Arrival","Overseas visitor",253561
+201403,"Arrival","PLT",8386
+201403,"Departure","NZ Resident",147981
+201403,"Departure","Overseas visitor",306999
+201403,"Departure","PLT",5489
+201403,"Net migration","PLT",2897
+201404,"Arrival","NZ Resident",165128
+201404,"Arrival","Overseas visitor",224194
+201404,"Arrival","PLT",7130
+201404,"Departure","NZ Resident",199251
+201404,"Departure","Overseas visitor",255892
+201404,"Departure","PLT",4706
+201404,"Net migration","PLT",2424
+201405,"Arrival","NZ Resident",196231
+201405,"Arrival","Overseas visitor",161355
+201405,"Arrival","PLT",6946
+201405,"Departure","NZ Resident",198225
+201405,"Departure","Overseas visitor",191626
+201405,"Departure","PLT",5239
+201405,"Net migration","PLT",1707
+201406,"Arrival","NZ Resident",189792
+201406,"Arrival","Overseas visitor",162122
+201406,"Arrival","PLT",7416
+201406,"Departure","NZ Resident",206537
+201406,"Departure","Overseas visitor",158518
+201406,"Departure","PLT",4839
+201406,"Net migration","PLT",2577
+201407,"Arrival","NZ Resident",247393
+201407,"Arrival","Overseas visitor",196856
+201407,"Arrival","PLT",10239
+201407,"Departure","NZ Resident",233140
+201407,"Departure","Overseas visitor",196207
+201407,"Departure","PLT",5094
+201407,"Net migration","PLT",5145
+201408,"Arrival","NZ Resident",217096
+201408,"Arrival","Overseas visitor",188849
+201408,"Arrival","PLT",9208
+201408,"Departure","NZ Resident",208442
+201408,"Departure","Overseas visitor",210203
+201408,"Departure","PLT",4513
+201408,"Net migration","PLT",4695
+201409,"Arrival","NZ Resident",209771
+201409,"Arrival","Overseas visitor",193329
+201409,"Arrival","PLT",10021
+201409,"Departure","NZ Resident",219737
+201409,"Departure","Overseas visitor",172447
+201409,"Departure","PLT",3896
+201409,"Net migration","PLT",6125
+201410,"Arrival","NZ Resident",254701
+201410,"Arrival","Overseas visitor",210597
+201410,"Arrival","PLT",9978
+201410,"Departure","NZ Resident",206996
+201410,"Departure","Overseas visitor",204831
+201410,"Departure","PLT",3607
+201410,"Net migration","PLT",6371
+201411,"Arrival","NZ Resident",182726
+201411,"Arrival","Overseas visitor",270408
+201411,"Arrival","PLT",9866
+201411,"Departure","NZ Resident",177810
+201411,"Departure","Overseas visitor",250719
+201411,"Departure","PLT",4029
+201411,"Net migration","PLT",5837
+201412,"Arrival","NZ Resident",136259
+201412,"Arrival","Overseas visitor",402518
+201412,"Arrival","PLT",8993
+201412,"Departure","NZ Resident",230785
+201412,"Departure","Overseas visitor",271384
+201412,"Departure","PLT",5499
+201412,"Net migration","PLT",3494
+201501,"Arrival","NZ Resident",246806
+201501,"Arrival","Overseas visitor",302432
+201501,"Arrival","PLT",12446
+201501,"Departure","NZ Resident",133772
+201501,"Departure","Overseas visitor",404241
+201501,"Departure","PLT",5698
+201501,"Net migration","PLT",6748
+201502,"Arrival","NZ Resident",143015
+201502,"Arrival","Overseas visitor",343457
+201502,"Arrival","PLT",11985
+201502,"Departure","NZ Resident",123913
+201502,"Departure","Overseas visitor",323134
+201502,"Departure","PLT",4884
+201502,"Net migration","PLT",7101
+201503,"Arrival","NZ Resident",162966
+201503,"Arrival","Overseas visitor",291784
+201503,"Arrival","PLT",9561
+201503,"Departure","NZ Resident",168168
+201503,"Departure","Overseas visitor",349469
+201503,"Departure","PLT",5510
+201503,"Net migration","PLT",4051
+201504,"Arrival","NZ Resident",198714
+201504,"Arrival","Overseas visitor",237966
+201504,"Arrival","PLT",7776
+201504,"Departure","NZ Resident",202346
+201504,"Departure","Overseas visitor",284485
+201504,"Departure","PLT",4814
+201504,"Net migration","PLT",2962
+201505,"Arrival","NZ Resident",189138
+201505,"Arrival","Overseas visitor",176697
+201505,"Arrival","PLT",7603
+201505,"Departure","NZ Resident",209408
+201505,"Departure","Overseas visitor",211029
+201505,"Departure","PLT",4887
+201505,"Net migration","PLT",2716
+201506,"Arrival","NZ Resident",201422
+201506,"Arrival","Overseas visitor",176961
+201506,"Arrival","PLT",7979
+201506,"Departure","NZ Resident",220759
+201506,"Departure","Overseas visitor",173591
+201506,"Departure","PLT",4965
+201506,"Net migration","PLT",3014
+201507,"Arrival","NZ Resident",266351
+201507,"Arrival","Overseas visitor",207984
+201507,"Arrival","PLT",11716
+201507,"Departure","NZ Resident",251238
+201507,"Departure","Overseas visitor",212008
+201507,"Departure","PLT",5191
+201507,"Net migration","PLT",6525
+201508,"Arrival","NZ Resident",232600
+201508,"Arrival","Overseas visitor",202879
+201508,"Arrival","PLT",9942
+201508,"Departure","NZ Resident",218522
+201508,"Departure","Overseas visitor",225502
+201508,"Departure","PLT",4596
+201508,"Net migration","PLT",5346
+201509,"Arrival","NZ Resident",219293
+201509,"Arrival","Overseas visitor",216984
+201509,"Arrival","PLT",11037
+201509,"Departure","NZ Resident",235623
+201509,"Departure","Overseas visitor",191896
+201509,"Departure","PLT",3968
+201509,"Net migration","PLT",7069
+201510,"Arrival","NZ Resident",271450
+201510,"Arrival","Overseas visitor",229379
+201510,"Arrival","PLT",11219
+201510,"Departure","NZ Resident",217036
+201510,"Departure","Overseas visitor",225584
+201510,"Departure","PLT",3605
+201510,"Net migration","PLT",7614
+201511,"Arrival","NZ Resident",192971
+201511,"Arrival","Overseas visitor",300521
+201511,"Arrival","PLT",10634
+201511,"Departure","NZ Resident",182427
+201511,"Departure","Overseas visitor",275961
+201511,"Departure","PLT",3615
+201511,"Net migration","PLT",7019
+201512,"Arrival","NZ Resident",144173
+201512,"Arrival","Overseas visitor",444883
+201512,"Arrival","PLT",10039
+201512,"Departure","NZ Resident",245756
+201512,"Departure","Overseas visitor",306822
+201512,"Departure","PLT",5274
+201512,"Net migration","PLT",4765
+201601,"Arrival","NZ Resident",262570
+201601,"Arrival","Overseas visitor",343446
+201601,"Arrival","PLT",13472
+201601,"Departure","NZ Resident",145708
+201601,"Departure","Overseas visitor",444943
+201601,"Departure","PLT",5743
+201601,"Net migration","PLT",7729
+201602,"Arrival","NZ Resident",159399
+201602,"Arrival","Overseas visitor",373376
+201602,"Arrival","PLT",13267
+201602,"Departure","NZ Resident",127081
+201602,"Departure","Overseas visitor",374813
+201602,"Departure","PLT",4686
+201602,"Net migration","PLT",8581
+201603,"Arrival","NZ Resident",164752
+201603,"Arrival","Overseas visitor",344387
+201603,"Arrival","PLT",9385
+201603,"Departure","NZ Resident",172848
+201603,"Departure","Overseas visitor",375400
+201603,"Departure","PLT",5106
+201603,"Net migration","PLT",4279
+201604,"Arrival","NZ Resident",194126
+201604,"Arrival","Overseas visitor",256685
+201604,"Arrival","PLT",8376
+201604,"Departure","NZ Resident",217797
+201604,"Departure","Overseas visitor",318687
+201604,"Departure","PLT",4923
+201604,"Net migration","PLT",3453
+201605,"Arrival","NZ Resident",214781
+201605,"Arrival","Overseas visitor",193643
+201605,"Arrival","PLT",7762
+201605,"Departure","NZ Resident",210628
+201605,"Departure","Overseas visitor",236862
+201605,"Departure","PLT",4724
+201605,"Net migration","PLT",3038
+201606,"Arrival","NZ Resident",214579
+201606,"Arrival","Overseas visitor",196223
+201606,"Arrival","PLT",8206
+201606,"Departure","NZ Resident",239402
+201606,"Departure","Overseas visitor",186902
+201606,"Departure","PLT",4534
+201606,"Net migration","PLT",3672
+201607,"Arrival","NZ Resident",286053
+201607,"Arrival","Overseas visitor",237872
+201607,"Arrival","PLT",11656
+201607,"Departure","NZ Resident",278222
+201607,"Departure","Overseas visitor",242987
+201607,"Departure","PLT",5206
+201607,"Net migration","PLT",6450
+201608,"Arrival","NZ Resident",247585
+201608,"Arrival","Overseas visitor",221181
+201608,"Arrival","PLT",9950
+201608,"Departure","NZ Resident",235184
+201608,"Departure","Overseas visitor",241243
+201608,"Departure","PLT",4500
+201608,"Net migration","PLT",5450
+201609,"Arrival","NZ Resident",240404
+201609,"Arrival","Overseas visitor",245089
+201609,"Arrival","PLT",11676
+201609,"Departure","NZ Resident",267938
+201609,"Departure","Overseas visitor",207477
+201609,"Departure","PLT",3772
+201609,"Net migration","PLT",7904
+201610,"Arrival","NZ Resident",294808
+201610,"Arrival","Overseas visitor",260246
+201610,"Arrival","PLT",11694
+201610,"Departure","NZ Resident",231046
+201610,"Departure","Overseas visitor",257694
+201610,"Departure","PLT",3752
+201610,"Net migration","PLT",7942
+201611,"Arrival","NZ Resident",206046
+201611,"Arrival","Overseas visitor",333598
+201611,"Arrival","PLT",11174
+201611,"Departure","NZ Resident",208397
+201611,"Departure","Overseas visitor",297184
+201611,"Departure","PLT",4083
+201611,"Net migration","PLT",7091
+201612,"Arrival","NZ Resident",156094
+201612,"Arrival","Overseas visitor",494193
+201612,"Arrival","PLT",10687
+201612,"Departure","NZ Resident",281115
+201612,"Departure","Overseas visitor",341731
+201612,"Departure","PLT",5688
+201612,"Net migration","PLT",4999
+201701,"Arrival","NZ Resident",288306
+201701,"Arrival","Overseas visitor",381068
+201701,"Arrival","PLT",14457
+201701,"Departure","NZ Resident",165673
+201701,"Departure","Overseas visitor",478032
+201701,"Departure","PLT",6011
+201701,"Net migration","PLT",8446
+201702,"Arrival","NZ Resident",184547
+201702,"Arrival","Overseas visitor",380034
+201702,"Arrival","PLT",13793
+201702,"Departure","NZ Resident",147377
+201702,"Departure","Overseas visitor",386317
+201702,"Departure","PLT",5184
+201702,"Net migration","PLT",8609
+201703,"Arrival","NZ Resident",179276
+201703,"Arrival","Overseas visitor",343799
+201703,"Arrival","PLT",10087
+201703,"Departure","NZ Resident",192234
+201703,"Departure","Overseas visitor",395581
+201703,"Departure","PLT",5209
+201703,"Net migration","PLT",4878
+201704,"Arrival","NZ Resident",221345
+201704,"Arrival","Overseas visitor",311866
+201704,"Arrival","PLT",8637
+201704,"Departure","NZ Resident",244233
+201704,"Departure","Overseas visitor",347567
+201704,"Departure","PLT",5231
+201704,"Net migration","PLT",3406
+201705,"Arrival","NZ Resident",220392
+201705,"Arrival","Overseas visitor",209170
+201705,"Arrival","PLT",8386
+201705,"Departure","NZ Resident",233063
+201705,"Departure","Overseas visitor",256096
+201705,"Departure","PLT",5269
+201705,"Net migration","PLT",3117
+201706,"Arrival","NZ Resident",224810
+201706,"Arrival","Overseas visitor",230088
+201706,"Arrival","PLT",9158
+201706,"Departure","NZ Resident",261813
+201706,"Departure","Overseas visitor",199756
+201706,"Departure","PLT",5145
+201706,"Net migration","PLT",4013
+201707,"Arrival","NZ Resident",311944
+201707,"Arrival","Overseas visitor",246945
+201707,"Arrival","PLT",12390
+201707,"Departure","NZ Resident",302412
+201707,"Departure","Overseas visitor",266231
+201707,"Departure","PLT",5843
+201707,"Net migration","PLT",6547
+201708,"Arrival","NZ Resident",258628
+201708,"Arrival","Overseas visitor",233991
+201708,"Arrival","PLT",10014
+201708,"Departure","NZ Resident",252117
+201708,"Departure","Overseas visitor",250732
+201708,"Departure","PLT",4894
+201708,"Net migration","PLT",5120
+201709,"Arrival","NZ Resident",259036
+201709,"Arrival","Overseas visitor",252746
+201709,"Arrival","PLT",11121
+201709,"Departure","NZ Resident",273569
+201709,"Departure","Overseas visitor",217447
+201709,"Departure","PLT",4303
+201709,"Net migration","PLT",6818
+201710,"Arrival","NZ Resident",319931
+201710,"Arrival","Overseas visitor",270515
+201710,"Arrival","PLT",11740
+201710,"Departure","NZ Resident",263850
+201710,"Departure","Overseas visitor",267072
+201710,"Departure","PLT",4090
+201710,"Net migration","PLT",7650
+201711,"Arrival","NZ Resident",214488
+201711,"Arrival","Overseas visitor",360136
+201711,"Arrival","PLT",11073
+201711,"Departure","NZ Resident",222971
+201711,"Departure","Overseas visitor",319968
+201711,"Departure","PLT",4322
+201711,"Net migration","PLT",6751
+201712,"Arrival","NZ Resident",167066
+201712,"Arrival","Overseas visitor",513349
+201712,"Arrival","PLT",10710
+201712,"Departure","NZ Resident",300242
+201712,"Departure","Overseas visitor",358750
+201712,"Departure","PLT",6049
+201712,"Net migration","PLT",4661
+201801,"Arrival","NZ Resident",316840
+201801,"Arrival","Overseas visitor",379228
+201801,"Arrival","PLT",14889
+201801,"Departure","NZ Resident",173745
+201801,"Departure","Overseas visitor",489650
+201801,"Departure","PLT",6312
+201801,"Net migration","PLT",8577
