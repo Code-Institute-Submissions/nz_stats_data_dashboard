@@ -1,6 +1,6 @@
 queue()
-    .defer(d3.csv, "/data/international-travel-and-migration/itm-jan18-totals.csv")
-    .defer(d3.csv, "/data/international-travel-and-migration/itm-jan18-plt-key-series.csv")
+    .defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-totals.csv")
+    .defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-plt-key-series.csv")
     .await(makeTravelGraphs);
     
     function makeTravelGraphs(error, travelData, travelData2) {
