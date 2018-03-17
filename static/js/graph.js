@@ -1,6 +1,9 @@
 queue()
-    .defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-totals.csv")
-    .defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-plt-key-series.csv")
+    .defer(d3.csv, "data/international-travel-and-migration/itm-jan18-totals.csv")
+    .defer(d3.csv, "data/international-travel-and-migration/itm-jan18-plt-key-series.csv")
+    //*required for deployment to github pages due to relative path issue
+    //.defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-totals.csv")
+    //.defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-plt-key-series.csv")
     .await(makeTravelGraphs);
     
     function makeTravelGraphs(error, travelData, travelData2) {
@@ -86,10 +89,15 @@ function show_citizenship_type_country_selector(ndx2) {
 //**piecharts**
 
 function show_arrivals_pie_chart(ndx) {
-    var directionDim = ndx.dimension(dc.pluck("Direction"));
-    directionDim.filterExact("Arrival");
-    var passengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
-    var numPassengerType = passengerTypeDim.group().reduceSum(dc.pluck("Count"));
+    var arrivalDirectionDim = ndx.dimension(dc.pluck("Direction"));
+    var arrivalPassengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
+    var numArrivalPassengerType = arrivalPassengerTypeDim.group().reduceSum(function(d) {
+        if (d.Direction == "Arrival") {
+            return d.Count;
+        } else {
+            return 0;
+        }
+    });
     
     var arrivalsPieChart = dc.pieChart("#arrivals-passenger-type-chart");
     
@@ -99,8 +107,8 @@ function show_arrivals_pie_chart(ndx) {
         .radius(180)
         .innerRadius(80)
         .transitionDuration(1500)
-        .dimension(directionDim)
-        .group(numPassengerType)
+        .dimension(arrivalDirectionDim)
+        .group(numArrivalPassengerType)
         .legend(dc.legend());
       // example of formatting the legend via svg
       // http://stackoverflow.com/questions/38430632/how-can-we-add-legends-value-beside-of-legend-with-proper-alignment
@@ -118,10 +126,15 @@ function show_arrivals_pie_chart(ndx) {
 }
 
 function show_departures_pie_chart(ndx) {
-    var directionDim = ndx.dimension(dc.pluck("Direction"));
-    directionDim.filterExact("Departure");
-    var passengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
-    var numPassengerType = passengerTypeDim.group().reduceSum(dc.pluck("Count"));
+    var departureDirectionDim = ndx.dimension(dc.pluck("Direction"));
+    var departurePassengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
+    var numDeparturePassengerType = departurePassengerTypeDim.group().reduceSum(function(d) {
+        if (d.Direction == "Departure") {
+            return d.Count;
+        } else {
+            return 0;
+        }
+    });
     
     var departuresPieChart = dc.pieChart("#departures-passenger-type-chart");
     
@@ -131,8 +144,8 @@ function show_departures_pie_chart(ndx) {
         .radius(180)
         .innerRadius(80)
         .transitionDuration(1500)
-        .dimension(directionDim)
-        .group(numPassengerType)
+        .dimension(departureDirectionDim)
+        .group(numDeparturePassengerType)
         .legend(dc.legend());
       // example of formatting the legend via svg
       // http://stackoverflow.com/questions/38430632/how-can-we-add-legends-value-beside-of-legend-with-proper-alignment
@@ -161,8 +174,8 @@ function show_total_travel_pie_chart(ndx) {
     totalTravelPieChart
         .ordinalColors(["#79CED7", "#66AFB2", "#C96A23", "#D3D1C5", "#F5821F"])
         .height(500)
-        .radius(275)
-        .innerRadius(75)
+        .radius(400)
+        .innerRadius(50)
         .transitionDuration(1500)
         .dimension(directionDim)
         .group(numPassengerType)
@@ -187,9 +200,14 @@ function show_total_travel_pie_chart(ndx) {
 
 function show_arrivals_row_chart(ndx) {
     var directionDim = ndx.dimension(dc.pluck("Direction"));
-    directionDim.filterExact("Arrival");
     var passengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
-    var numPassengerType = passengerTypeDim.group().reduceSum(dc.pluck("Count"));
+    var numPassengerType = passengerTypeDim.group().reduceSum(function(d) {
+        if (d.Direction == "Arrival") {
+            return d.Count;
+        } else {
+            return 0;
+        }
+    });
     
     var arrivalsRowChart = dc.rowChart("#arrivals-passenger-type-chart");
     
@@ -205,9 +223,14 @@ function show_arrivals_row_chart(ndx) {
     
 function show_departures_row_chart(ndx) {
     var directionDim = ndx.dimension(dc.pluck("Direction"));
-    directionDim.filterExact("Departure");
     var passengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
-    var numPassengerType = passengerTypeDim.group().reduceSum(dc.pluck("Count"));
+    var numPassengerType = passengerTypeDim.group().reduceSum(function(d) {
+        if (d.Direction == "Departure") {
+            return d.Count;
+        } else {
+            return 0;
+        }
+    });
     
     var departuresRowChart = dc.rowChart("#departures-passenger-type-chart");
     
