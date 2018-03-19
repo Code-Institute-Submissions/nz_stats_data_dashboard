@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NZ Stats Dashboard</title>
+    
+    <link rel="stylesheet" href="static/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="static/css/dc.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="static/css/style.css" type="text/css" />
+    
+    
+    <script type="text/javascript" src="static/js/d3.min.js"></script>
+    <script type="text/javascript" src="static/js/crossfilter.min.js"></script>
+    <script type="text/javascript" src="static/js/dc.min.js"></script>
+    <script type="text/javascript" src="static/js/queue.min.js"></script>
+    <script type="text/javascript" src="static/js/graph.js"></script>
+
+</head>
+
+
+<body>
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">Data Dashboard using statistical data from stats.gov.nz</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="travel.html">Travel <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="travel-composite.html">Travel - Citizenship Type</a></li>
+          <li><a href="travel-map.html">Travel - World Map</a></li>
+          <li><a href="#">Travel-3</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Food Prices</a></li>
+      <li><a href="#">Serious Injuries</a></li>
+    </ul>
+  </div>
+</nav>
+
+    <main>
+      <div class="container">
+        <section class="section">
+            <div class="col-xs-12 col-sm-12">
+              <h1 class="section-heading">International Travel and Migration</h1>
+            </div>
+            <article>
+                
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                              <div id="passenger-type-direction-selector"></div>
+                              <div id="passenger-type-period-selector"></div>
+                              <p class="section-paragraph">Total Arrivals/Departures by Passenger type for last ten years:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="total-travel-passenger-type-row-chart" class="custom-chart"></div>
+                </div>
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                              <p class="section-paragraph">Total Arrivals/Departures by Passenger type for last ten years:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="total-travel-passenger-type-pie-chart" class="custom-chart"></div>
+                </div>
+                <!--
+                <div class="row">
+                          <div class="col-xs-12 col-sm-12">
+                              <p class="section-paragraph">Arrivals by Passenger type for last ten years:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="arrivals-passenger-type-chart" class="custom-chart"></div>
+                </div>
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                              <p class="section-paragraph">Departures by Passenger type for last ten years:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="departures-passenger-type-chart" class="custom-chart"></div>
+                </div>
+                -->
+            </article>
+            <article>
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                           <div id="citizenship-type-direction-selector"></div>
+                           <div id="citizenship-type-country-selector"></div>
+                              <p class="section-paragraph">Citizenship comparison for Arrivals/Departures per month:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="citizenship-composite-chart" class="custom-chart"></div>
+                </div>
+            </article>
+        </section>
+      </div>
+    </main>
+</body>
+</html>

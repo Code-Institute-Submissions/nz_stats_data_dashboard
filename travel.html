@@ -18,7 +18,7 @@
     <script type="text/javascript" src="static/js/crossfilter.min.js"></script>
     <script type="text/javascript" src="static/js/dc.min.js"></script>
     <script type="text/javascript" src="static/js/queue.min.js"></script>
-    <script type="text/javascript" src="static/js/graph.js"></script>
+    <script type="text/javascript" src="static/js/travel.js"></script>
 
 </head>
 
@@ -50,6 +50,23 @@
             <div class="col-xs-12 col-sm-12">
               <h1 class="section-heading">International Travel and Migration</h1>
             </div>
+            <article>
+                
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                              <div id="passenger-type-direction-selector"></div>
+                              <div id="passenger-type-period-selector"></div>
+                              <p class="section-paragraph">Total Arrivals/Departures by Passenger type for last ten years:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="total-travel-passenger-type-row-chart" class="custom-chart"></div>
+                </div>
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                              <p class="section-paragraph">Total Arrivals/Departures by Passenger type for last ten years:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="total-travel-passenger-type-pie-chart" class="custom-chart"></div>
+                </div>
+            </article>
         </section>
       </div>
     </main>
