@@ -1,8 +1,5 @@
 queue()
-    //*required to run in c9
     .defer(d3.csv, "data/international-travel-and-migration/itm-jan18-totals.csv")
-    //*required for deployment to github pages due to relative path issue
-    //.defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-totals.csv")
     .await(makeTravelGraphs);
     
     function makeTravelGraphs(error, travelData) {

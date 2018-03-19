@@ -1,7 +1,4 @@
 queue()
-        //for gitpages
-        //.defer(d3.csv, "/nz_stats_data_dashboard/data/international-travel-and-migration/itm-jan18-plt-by-country.csv")
-        //for c9
         .defer(d3.csv, "data/international-travel-and-migration/itm-jan18-plt-by-country.csv")
         .defer(d3.json, "https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json")
         .await(makeGraphs);
