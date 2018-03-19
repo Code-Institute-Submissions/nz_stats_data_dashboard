@@ -18,7 +18,7 @@
     <script type="text/javascript" src="static/js/crossfilter.min.js"></script>
     <script type="text/javascript" src="static/js/dc.min.js"></script>
     <script type="text/javascript" src="static/js/queue.min.js"></script>
-    <script type="text/javascript" src="static/js/graph.js"></script>
+    <script type="text/javascript" src="static/js/food.js"></script>
 
 </head>
 
@@ -54,8 +54,17 @@
       <div class="container">
         <section class="section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">International Travel and Migration</h1>
+              <h1 class="section-heading">Food Price Index</h1>
             </div>
+            <article>
+                <div class="row">
+                         <div class="col-xs-12 col-sm-12">
+                           <div id="food-type-group-selector"></div>
+                              <p class="section-paragraph">Food Price Index change over time by group:</p>
+                          </div>
+                   <div class="col-xs-12 col-sm-4 text-center" id="food-type-line-chart" class="custom-chart"></div>
+                </div>
+            </article>
         </section>
       </div>
     </main>
