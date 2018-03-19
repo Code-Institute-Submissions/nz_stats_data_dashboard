@@ -41,16 +41,32 @@ function show_food_type_line_chart(ndx){
     var maxDate = dateDim.top(1)[0].Period;
     var dataValueGroup = dateDim.group().reduceSum(dc.pluck("Data_value"));
     
+    function remove_empty_bins(source_group) {
+    return {
+        all:function () {
+            return source_group.all().filter(function(d) {
+                return d.value != 0;
+            });
+        }
+    };
+}
+
+
+var filtered_group = remove_empty_bins(dataValueGroup);
+    
         
     var lineChart = dc.lineChart('#food-type-line-chart');
         lineChart
             .width(1090)
             .height(400)
             .dimension(dateDim)
-            .group(dataValueGroup)
-            .x(d3.time.scale().domain([minDate, maxDate]))
+            .group(filtered_group)
+            //.x(d3.time.scale().domain([minDate, maxDate]))
+            .elasticX(true)
+            .x(d3.time.scale())
             .yAxisLabel("Food Price Index Value")
             .elasticY(true)
+            
             .brushOn(false);
     
 }
