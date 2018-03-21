@@ -29,9 +29,13 @@ function show_food_type_group_selector(ndx) {
     var groupDim = ndx.dimension(dc.pluck("Series_title_1"));
     var groupSelect = groupDim.group();
 
-    dc.selectMenu("#food-type-group-selector")
+    var select = dc.selectMenu("#food-type-group-selector")
         .dimension(groupDim)
         .group(groupSelect);
+        
+        select.title(function (d){
+               return d.key;
+                 })
 }
 
 //**composite chart

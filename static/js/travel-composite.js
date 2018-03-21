@@ -30,18 +30,26 @@ function show_citizenship_type_direction_selector(ndx2) {
     var directionDim = ndx2.dimension(dc.pluck("Direction"));
     var directionSelect = directionDim.group();
 
-    dc.selectMenu("#citizenship-type-direction-selector")
+    var select = dc.selectMenu("#citizenship-type-direction-selector")
         .dimension(directionDim)
         .group(directionSelect);
+        
+        select.title(function (d){
+               return d.key;
+                })
 }
 
 function show_citizenship_type_country_selector(ndx2) {
     var countryDim = ndx2.dimension(dc.pluck("Country"));
     var countrySelect = countryDim.group();
 
-    dc.selectMenu("#citizenship-type-country-selector")
+    var select = dc.selectMenu("#citizenship-type-country-selector")
         .dimension(countryDim)
         .group(countrySelect);
+        
+        select.title(function (d){
+                return d.key;
+                 })
 }
 
 //**composite chart

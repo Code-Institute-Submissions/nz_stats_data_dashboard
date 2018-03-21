@@ -31,9 +31,13 @@ function show_food_item_group_selector(ndx) {
     var itemDim = ndx.dimension(dc.pluck("Series_title_1"));
     var itemSelect = itemDim.group();
 
-    dc.selectMenu("#food-item-group-selector")
+    var select = dc.selectMenu("#food-item-group-selector")
         .dimension(itemDim)
         .group(itemSelect);
+        
+        select.title(function (d){
+                 return d.key;
+                   })
 }
 
 //**composite chart
@@ -48,6 +52,7 @@ function show_food_item_line_chart(ndx){
     return {
         all:function () {
             return source_group.all().filter(function(d) {
+                console.log("d.value:"+d.value)
                 return d.value != 0;
             });
         }

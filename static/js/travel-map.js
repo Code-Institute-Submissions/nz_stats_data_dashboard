@@ -27,18 +27,26 @@ queue()
     var directionDim = ndx.dimension(dc.pluck("Direction"));
     var directionSelect = directionDim.group();
 
-    dc.selectMenu("#passenger-type-direction-selector")
+    var select = dc.selectMenu("#passenger-type-direction-selector")
         .dimension(directionDim)
         .group(directionSelect);
+        
+        select.title(function (d){
+                return d.key;
+                 })
     }
 
     function show_passenger_type_period_selector(ndx) {
         var periodDim = ndx.dimension(dc.pluck("Period"));
         var periodSelect = periodDim.group();
     
-        dc.selectMenu("#passenger-type-period-selector")
+        var select = dc.selectMenu("#passenger-type-period-selector")
             .dimension(periodDim)
             .group(periodSelect);
+            
+            select.title(function (d){
+                return d.key;
+                 })
     }
     
     function show_map_of_world(ndx, worldJson) {
@@ -86,12 +94,27 @@ queue()
     function show_row_chart(ndx) {
         var countryDim = ndx.dimension(dc.pluck('Country'));
         var group = countryDim.group().reduceSum(dc.pluck('Count'));
+        
+        function remove_empty_bins(source_group) {
+    return {
+        all:function () {
+            return source_group.all().filter(function(d) {
+                console.log("d.value:"+d.value)
+                return d.value != 0;
+            });
+        }
+    };
+}
+
+
+var filtered_group = remove_empty_bins(group);
+        
         dc.rowChart("#country-row-chart")
             .width(1200)
             .height(2400)
             .margins({top: 10, right: 20, bottom: 50, left: 20})
             .dimension(countryDim)
-            .group(group)
+            .group(filtered_group)
             .transitionDuration(500)
             .x(d3.scale.ordinal())
             .elasticX(true)

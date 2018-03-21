@@ -31,25 +31,31 @@ function show_passenger_type_direction_selector(ndx) {
     var directionDim = ndx.dimension(dc.pluck("Direction"));
     var directionSelect = directionDim.group();
 
-    dc.selectMenu("#passenger-type-direction-selector")
+    var select = dc.selectMenu("#passenger-type-direction-selector")
         .dimension(directionDim)
         .group(directionSelect);
+        
+        select.title(function (d){
+    return d.key;
+     })
 }
 
 function show_passenger_type_period_selector(ndx) {
     var periodDim = ndx.dimension(dc.pluck("Period"));
     var periodSelect = periodDim.group();
 
-    dc.selectMenu("#passenger-type-period-selector")
+    var select = dc.selectMenu("#passenger-type-period-selector")
         .dimension(periodDim)
         .group(periodSelect);
+        
+        select.title(function (d){
+    return d.key;
+     })
 }
 
 //**piecharts**
 
 function show_total_travel_pie_chart(ndx) {
-    var directionDim = ndx.dimension(dc.pluck("Direction"));
-    //directionDim.filterExact("Arrival");
     var passengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
     var numPassengerType = passengerTypeDim.group().reduceSum(dc.pluck("Count"));
     
@@ -61,7 +67,7 @@ function show_total_travel_pie_chart(ndx) {
         .radius(400)
         .innerRadius(50)
         .transitionDuration(1500)
-        .dimension(directionDim)
+        .dimension(passengerTypeDim)
         .group(numPassengerType)
         .legend(dc.legend());
       // example of formatting the legend via svg
@@ -83,8 +89,6 @@ function show_total_travel_pie_chart(ndx) {
 //**row charts**
     
     function show_total_travel_row_chart(ndx) {
-    var directionDim = ndx.dimension(dc.pluck("Direction"));
-    //directionDim.filterExact("Departure");
     var passengerTypeDim = ndx.dimension(dc.pluck("Passenger_type"));
     var numPassengerType = passengerTypeDim.group().reduceSum(dc.pluck("Count"));
     
@@ -94,7 +98,7 @@ function show_total_travel_pie_chart(ndx) {
         .ordinalColors(["#79CED7", "#66AFB2", "#C96A23", "#D3D1C5", "#F5821F"])
         .width(900)
         .height(450)
-        .dimension(directionDim)
+        .dimension(passengerTypeDim)
         .group(numPassengerType)
         .elasticX(true)
         .renderLabel(false)
