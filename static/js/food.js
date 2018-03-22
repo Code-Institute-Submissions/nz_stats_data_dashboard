@@ -12,7 +12,7 @@ queue()
     //cleanse data
       
       foodData.forEach(function(d){
-        d.Data_value = parseInt(d.Data_value);
+        //d.Data_value = parseInt(d.Data_value);
         d.Period = parseDate(d.Period);
             
       });
@@ -41,15 +41,15 @@ function show_food_type_group_selector(ndx) {
 //**composite chart
 function show_food_type_line_chart(ndx){
     var dateDim = ndx.dimension(dc.pluck("Period"));
-    var minDate = dateDim.bottom(1)[0].Period;
-    var maxDate = dateDim.top(1)[0].Period;
+    //var minDate = dateDim.bottom(1)[0].Period;
+    //var maxDate = dateDim.top(1)[0].Period;
     var dataValueGroup = dateDim.group().reduceSum(dc.pluck("Data_value"));
     
     function remove_empty_bins(source_group) {
     return {
         all:function () {
             return source_group.all().filter(function(d) {
-                return d.value != 0;
+                return d.value >= .001;
             });
         }
     };
@@ -66,6 +66,7 @@ var filtered_group = remove_empty_bins(dataValueGroup);
             .dimension(dateDim)
             .group(filtered_group)
             //.x(d3.time.scale().domain([minDate, maxDate]))
+            .margins({top: 10, right: 10, bottom: 30, left: 50})
             .elasticX(true)
             .x(d3.time.scale())
             .yAxisLabel("Food Price Index Value")

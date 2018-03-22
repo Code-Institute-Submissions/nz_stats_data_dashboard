@@ -26,8 +26,8 @@ queue()
     dc.renderAll();
 }
 
-function show_citizenship_type_direction_selector(ndx2) {
-    var directionDim = ndx2.dimension(dc.pluck("Direction"));
+function show_citizenship_type_direction_selector(ndx) {
+    var directionDim = ndx.dimension(dc.pluck("Direction"));
     var directionSelect = directionDim.group();
 
     var select = dc.selectMenu("#citizenship-type-direction-selector")
@@ -39,8 +39,8 @@ function show_citizenship_type_direction_selector(ndx2) {
                 })
 }
 
-function show_citizenship_type_country_selector(ndx2) {
-    var countryDim = ndx2.dimension(dc.pluck("Country"));
+function show_citizenship_type_country_selector(ndx) {
+    var countryDim = ndx.dimension(dc.pluck("Country"));
     var countrySelect = countryDim.group();
 
     var select = dc.selectMenu("#citizenship-type-country-selector")
@@ -53,8 +53,8 @@ function show_citizenship_type_country_selector(ndx2) {
 }
 
 //**composite chart
-function show_citizenship_type_composite_chart(ndx2){
-    var dateDim = ndx2.dimension(dc.pluck("Period"));
+function show_citizenship_type_composite_chart(ndx){
+    var dateDim = ndx.dimension(dc.pluck("Period"));
     var minDate = dateDim.bottom(1)[0].Period;
     var maxDate = dateDim.top(1)[0].Period;
     //&& d.Country === "All countries"
@@ -81,6 +81,7 @@ function show_citizenship_type_composite_chart(ndx2){
         compositeChart
             .width(1090)
             .height(400)
+            .margins({top: 10, right: 10, bottom: 30, left: 45})
             .dimension(dateDim)
             .x(d3.time.scale().domain([minDate, maxDate]))
             .yAxisLabel("No. of Travellers")

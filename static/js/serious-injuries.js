@@ -7,12 +7,12 @@ queue()
     //Create a Crossfilter instance    
     var ndx = crossfilter(seriousInjuryData);
     
-    var parseDate = d3.time.format("%Y-%y").parse;
+    var parseDate = d3.time.format("%Y").parse;
     
     //cleanse data
       
       seriousInjuryData.forEach(function(d){
-        d.Data_value = parseInt(d.Data_value);
+        //d.Data_value = parseInt(d.Data_value);
         d.Period = parseDate(d.Period);
             
       });
@@ -83,15 +83,21 @@ function show_serious_injury_severity_group_selector(ndx) {
 //**composite chart
 function show_serious_injury_type_line_chart(ndx){
     var dateDim = ndx.dimension(dc.pluck("Period"));
-    var minDate = dateDim.bottom(1)[0].Period;
-    var maxDate = dateDim.top(1)[0].Period;
-    var dataValueGroup = dateDim.group().reduceSum(dc.pluck("Data_value"));
+    //var minDate = dateDim.bottom(1)[0].Period;
+    //var maxDate = dateDim.top(1)[0].Period;
+    var dataValueGroup = dateDim.group().reduceSum(function(d) {
+        if (d.Type == "Single year") {
+            return d.Data_value;
+        } else {
+            return 0;
+        }
+    });
     
     function remove_empty_bins(source_group) {
     return {
         all:function () {
             return source_group.all().filter(function(d) {
-                return d.value != 0;
+                return d.value >= .001;
             });
         }
     };
@@ -105,6 +111,7 @@ var filtered_group = remove_empty_bins(dataValueGroup);
         lineChart
             .width(1090)
             .height(400)
+            .margins({top: 10, right: 10, bottom: 30, left: 55})
             .dimension(dateDim)
             .group(filtered_group)
             //.x(d3.time.scale().domain([minDate, maxDate]))

@@ -12,8 +12,8 @@ queue()
     //cleanse data
       
       foodData.forEach(function(d){
-        d.Data_value = Math.round(d.Data_value);
-        //console.log(d.Data_value);
+        //d.Data_value = Math.round(d.Data_value);
+        console.log(d.Data_value);
         d.Period = parseDate(d.Period);
         console.log(d.Period);
             
@@ -53,7 +53,7 @@ function show_food_item_line_chart(ndx){
         all:function () {
             return source_group.all().filter(function(d) {
                 console.log("d.value:"+d.value)
-                return d.value != 0;
+                return d.value >= .001;
             });
         }
     };
