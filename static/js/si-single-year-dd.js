@@ -8,7 +8,7 @@ queue()
     var ndx = crossfilter(seriousInjuryData);
     
     
-    var parseDate = d3.time.format("%Y-%y").parse;
+    var parseDate = d3.time.format("%Y").parse;
     
     //cleanse data
     seriousInjuryData.forEach(function(d){
@@ -62,7 +62,7 @@ function show_serious_injury_indicator_group_selector(ndx) {
     function show_serious_injury_dd_bar_chart(ndx) {
     var dateDim = ndx.dimension(dc.pluck("Period"));
     var dataValueGroup = dateDim.group().reduceSum(function(d) {
-        if (d.Type == "Moving average") {
+        if (d.Type == "Single year") {
             return d.Data_value;
         } else {
             return 0;
@@ -71,7 +71,7 @@ function show_serious_injury_indicator_group_selector(ndx) {
     
     var seriousInjuryDDBarChart = dc.barChart("#serious-injury-dd-bar-chart");
     
-    var yearsMovingAverage = ["2000-02","2001-03","2002-04","2003-05","2004-06","2005-07","2006-08","2007-09","2008-10","2009-11","2010-12","2011-13","2012-14","2013-15","2014-16"]
+    var yearsMovingAverage = ["2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016"]
     
     seriousInjuryDDBarChart
         .ordinalColors(["#79CED7", "#66AFB2", "#C96A23", "#D3D1C5", "#F5821F"])
@@ -85,6 +85,7 @@ function show_serious_injury_indicator_group_selector(ndx) {
         .yAxisLabel("Average No. of Serious Injuries")
         .elasticY(true)
         .brushOn(false);
+        
         
         
     }

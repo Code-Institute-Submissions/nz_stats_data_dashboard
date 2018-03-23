@@ -18,7 +18,7 @@
     <script type="text/javascript" src="static/js/crossfilter.min.js"></script>
     <script type="text/javascript" src="static/js/dc.min.js"></script>
     <script type="text/javascript" src="static/js/queue.min.js"></script>
-    <script type="text/javascript" src="static/js/food-item.js"></script>
+    <script type="text/javascript" src="static/js/si-single-year-dd.js"></script>
 
 </head>
 
@@ -40,15 +40,15 @@
       </li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Food <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="food.html">Food - Group</a></li>
+           <li><a href="food.html">Food - Group</a></li>
           <li><a href="food-item.html">Food - Item</a></li>
         </ul>
       </li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Serious Injuries <span class="caret"></span></a>
         <ul class="dropdown-menu">
-           <li><a href="serious-injuries.html">Serious Injuries - Overall</a></li>
+          <li><a href="serious-injuries.html">Serious Injuries - Overall</a></li>
           <li><a href="si-moving-average-dd.html">Serious Injuries - Moving Average Dashboard</a></li>
-          <li><a href="si-single-year-dd.html">Serious Injuries - Single Year Dashboard</a></li>
+          <li><a href="si-single-year-dd.html">Serious Injuries - Moving Average Dashboard</a></li>
         </ul>
       </li>
       <li><a href="income-and-work.html">Income and Work</a></li>
@@ -60,15 +60,22 @@
       <div class="container">
         <section class="section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">Food Price Index</h1>
+              <h1 class="section-heading">Serious Injuries</h1>
             </div>
             <article>
+              <div class="row">
+                    <div class="col-xs-12 col-sm-12">
+                        <div id="serious-injury-units-group-selector"></div>
+                        <div id="serious-injury-indicator-group-selector"></div>
+                           <p class="section-paragraph">Single Year Data Dashboard</p>
+                       </div>
+                    <div class="col-xs-12 col-sm-8 text-center" id="serious-injury-dd-bar-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="cause-row-chart" class="custom-chart"></div>
+                </div>
                 <div class="row">
-                         <div class="col-xs-12 col-sm-12">
-                           <div id="food-item-group-selector"></div>
-                              <p class="section-paragraph">Food Price Index change over time by item:</p>
-                          </div>
-                   <div class="col-xs-12 col-sm-4 text-center" id="food-item-line-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="severity-row-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="population-pie-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="age-pie-chart" class="custom-chart"></div>
                 </div>
             </article>
         </section>
