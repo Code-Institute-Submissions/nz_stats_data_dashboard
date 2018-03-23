@@ -91,10 +91,10 @@ function show_citizenship_type_composite_chart(ndx){
             //.xAxis().ticks(d3.timeMonth)
             .compose([
                 dc.lineChart(compositeChart)
-                    .colors('green')
+                    .colors('black')
                     .group(citizenshipNZ, 'NZ'),
                 dc.lineChart(compositeChart)
-                    .colors('blue')
+                    .colors('blueviolet')
                     .group(citizenshipNonNZ, 'non-NZ')
             ])
             .brushOn(false);
