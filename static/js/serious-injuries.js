@@ -18,6 +18,8 @@ queue()
       });
     
     show_serious_injury_cause_group_selector(ndx);
+    show_serious_injury_units_group_selector(ndx);
+    show_serious_injury_indicator_group_selector(ndx);
     show_serious_injury_population_group_selector(ndx);
     show_serious_injury_age_group_selector(ndx);
     show_serious_injury_severity_group_selector(ndx);
@@ -33,6 +35,32 @@ function show_serious_injury_cause_group_selector(ndx) {
     var groupSelect = groupDim.group();
 
     var select = dc.selectMenu("#serious-injury-cause-group-selector")
+        .dimension(groupDim)
+        .group(groupSelect);
+        
+        select.title(function (d){
+               return d.key;
+                 })
+}
+
+function show_serious_injury_units_group_selector(ndx) {
+    var groupDim = ndx.dimension(dc.pluck("Units"));
+    var groupSelect = groupDim.group();
+
+    var select = dc.selectMenu("#serious-injury-units-group-selector")
+        .dimension(groupDim)
+        .group(groupSelect);
+        
+        select.title(function (d){
+               return d.key;
+                 })
+}
+
+function show_serious_injury_indicator_group_selector(ndx) {
+    var groupDim = ndx.dimension(dc.pluck("Indicator"));
+    var groupSelect = groupDim.group();
+
+    var select = dc.selectMenu("#serious-injury-indicator-group-selector")
         .dimension(groupDim)
         .group(groupSelect);
         

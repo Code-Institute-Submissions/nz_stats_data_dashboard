@@ -18,7 +18,7 @@
     <script type="text/javascript" src="static/js/crossfilter.min.js"></script>
     <script type="text/javascript" src="static/js/dc.min.js"></script>
     <script type="text/javascript" src="static/js/queue.min.js"></script>
-    <script type="text/javascript" src="static/js/income-and-work.js"></script>
+    <script type="text/javascript" src="static/js/si-moving-average-dd.js"></script>
 
 </head>
 
@@ -59,16 +59,22 @@
       <div class="container">
         <section class="section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">Labour Market</h1>
-              <h3 class="section-paragraph">Gender comparison</h3>
+              <h1 class="section-heading">Serious Injuries</h1>
             </div>
             <article>
+              <div class="row">
+                    <div class="col-xs-12 col-sm-12">
+                        <div id="serious-injury-units-group-selector"></div>
+                        <div id="serious-injury-indicator-group-selector"></div>
+                           <p class="section-paragraph">Moving Average Data Dashboard</p>
+                       </div>
+                    <div class="col-xs-12 col-sm-8 text-center" id="serious-injury-dd-bar-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="cause-row-chart" class="custom-chart"></div>
+                </div>
                 <div class="row">
-                         <div class="col-xs-12 col-sm-12">
-                           <div id="labour-sector-group-selector">Sector/Industry</div>
-                           <div id="labour-pay-type-group-selector">Pay Type </div>
-                          </div>
-                   <div class="col-xs-12 col-sm-4 text-center" id="labour-gender-composite-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="severity-row-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="population-pie-chart" class="custom-chart"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" id="age-pie-chart" class="custom-chart"></div>
                 </div>
             </article>
         </section>
