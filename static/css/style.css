@@ -3,3 +3,10 @@
 }
 
 .dc-chart text.pie-slice {fill: black;}
+
+#travelDashboard {padding-top:50px;}
+#citizenshipType {padding-top:50px;}
+#worldMap {padding-top:50px;}
+#foodPriceIndex {padding-top:50px}
+#seriousInjuries {padding-top:50px;}
+#incomeAndWork {padding-top:50px;}
