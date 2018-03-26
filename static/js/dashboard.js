@@ -111,6 +111,7 @@ queue()
     console.log(labourData);
     
     dc.renderAll();
+    d3.select("#loader").classed("hidden", true);
 }
 
 

@@ -10,3 +10,36 @@
 #foodPriceIndex {padding-top:50px}
 #seriousInjuries {padding-top:50px;}
 #incomeAndWork {padding-top:50px;}
+
+#loader {
+    position: absolute;
+    z-index: 1;
+    background-color: #000;
+    color: #fff;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#spinner {
+    border: 40px solid #22344b;
+    border-top: 40px solid #1E90FF;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.hidden#loader {
+    display: none;
+}
