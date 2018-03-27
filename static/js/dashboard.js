@@ -230,6 +230,7 @@ queue()
             
         }
 
+        /*
         resetTravelDD = function() {
             travelDDBarChart.filter(null);
             passengerTypePieChart.filter(null);
@@ -237,6 +238,7 @@ queue()
             totalTravelRowChart.filter(null);
             dc.redrawAll();
         }
+        */
 
 
     //**travelCompositeData charts**
@@ -521,7 +523,7 @@ queue()
                 .group(dataValueGroup)
                 .x(d3.scale.ordinal().domain(yearsMovingAverage))
                 .xUnits(dc.units.ordinal)  // required for graph to display correctly with ordinal scale
-                .yAxisLabel("Average No. of Serious Injuries")
+                .yAxisLabel("Number of Serious Injuries")
                 .elasticY(true)
                 .brushOn(false);
                 
