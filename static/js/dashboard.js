@@ -217,8 +217,8 @@ queue()
         
         totalTravelRowChart
             .ordinalColors(["#79CED7", "#66AFB2", "#C96A23", "#D3D1C5", "#F5821F"])
-            .width(450)
-            .height(600)
+            .width(365)
+            .height(690)
             .dimension(countryDim)
             .group(countryCount)
             .rowsCap(20)

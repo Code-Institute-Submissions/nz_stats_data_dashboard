@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="static/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="static/css/dc.min.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/introjs.min.css" type="text/css" />
+    <link rel="stylesheet" href="static/css/keen-dashboards.css"" type="text/css" />
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="static/css/style.css" type="text/css" />
     
@@ -23,41 +24,7 @@
 
 </head>
 
-
-<!--<body>
-    <nav class="navbar navbar-inverse">
-      <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="index.html">Data Dashboard using statistical data from stats.gov.nz</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Travel <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="travel-dd.html">Travel - Dashboard</a></li>
-          <li><a href="travel.html">Travel - Passenger Type</a></li>
-          <li><a href="travel-composite.html">Travel - Citizenship Type</a></li>
-          <li><a href="travel-map.html">Travel - World Map</a></li>
-        </ul>
-      </li>
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Food <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="food.html">Food - Group</a></li>
-          <li><a href="food-item.html">Food - Item</a></li>
-        </ul>
-      </li>
-      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Serious Injuries <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-           <li><a href="serious-injuries.html">Serious Injuries - Overall</a></li>
-          <li><a href="si-moving-average-dd.html">Serious Injuries - Moving Average Dashboard</a></li>
-          <li><a href="si-single-year-dd.html">Serious Injuries - Single Year Dashboard</a></li>
-        </ul>
-      </li>
-      <li><a href="income-and-work.html">Income and Work</a></li>
-    </ul>
-  </div>
-</nav>-->
-
-<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<body class="application" data-spy="scroll" data-target=".navbar" data-offset="50">
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
@@ -108,19 +75,70 @@
                 Show me the step-by-step guide!</button>
                 
                 <div class="row">
+                    <h1 class="section-heading">International Travel and Migration</h1>
+                    <p class="section-paragraph">Travel Data Dashboard</p>
                     <div class="col-xs-8">
-                        <h1 class="section-heading">International Travel and Migration</h1>
-                        <p class="section-paragraph">Travel Data Dashboard</p>
                     <div class="row">
-                        <div class="col-xs-12 col-sm-12 text-center" id="travel-dd-bar-chart" class="custom-chart" data-step="3" data-intro="This bar chart shows change over time in the number of travellers per month"></div>
+                        <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="3" data-intro="This bar chart shows change over time in the number of travellers per month">
+                            <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                  <div id="grid-1-1">
+                                    <!-- chart goes here! -->
+                                    <div id="travel-dd-bar-chart"></div>
+                                  </div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                              </div>
+                        </div>
                     </div>
                     <div class="row">
-                        <div class="col-xs-12 col-sm-6 text-center" id="passenger-type-pie-chart" class="custom-chart" data-step="4" data-intro="This pie chart shows the passenger type i.e. NZ resident or Oversears Visitor"></div>
-                        <div class="col-xs-12 col-sm-6 text-center" id="direction-pie-chart" class="custom-chart" data-step="5" data-intro="This pie chart shows the direction i.e. arrival or departure"></div>
+                        <div class="col-xs-12 col-sm-6 text-center" class="custom-chart" data-step="4" data-intro="This pie chart shows the passenger type i.e. NZ resident or Oversears Visitor">
+                            <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                    <div id="passenger-type-pie-chart"></div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 text-center" class="custom-chart" data-step="5" data-intro="This pie chart shows the direction i.e. arrival or departure">
+                            <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                    <div id="direction-pie-chart"></div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                              </div>
+                        </div>
                     </div>
                     </div>
                     <div class="col-xs-4">
-                    <div class="col-xs-12 col-sm-4 text-center" id="country-row-chart" class="custom-chart" data-step="6" data-intro="This row chart shows the most common countries"></div>
+                    <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="6" data-intro="This row chart shows the most common countries">
+                        <div class="chart-wrapper">
+                            <div class="chart-title">
+                              Chart Title
+                            </div>
+                            <div class="chart-stage">
+                                <div id="country-row-chart"></div>
+                            </div>
+                            <div class="chart-notes">
+                              Notes about this chart (optional)
+                            </div>
+                          </div>
+                    </div>
                     </div>
                 </div>
             </article>
@@ -132,11 +150,49 @@
             </div>
             <article>
                 <div class="row">
-                         <div class="col-xs-12 col-sm-12">
-                           <div id="citizenship-type-direction-selector" data-step="8" data-intro="This selector is for direction i.e. arrival or departure"></div>
-                           <div id="citizenship-type-country-selector" data-step="9" data-intro="This selector is for country i.e. all countries or australia"></div>
+                         <div class="col-xs-12 col-sm-6">
+                           <div data-step="8" data-intro="This selector is for direction i.e. arrival or departure">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="citizenship-type-direction-selector"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                                </div>
+                           </div>
+                         </div>
+                         <div class="col-xs-12 col-sm-6">
+                           <div data-step="9" data-intro="This selector is for country i.e. all countries or australia">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="citizenship-type-country-selector"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                                </div>
+                           </div>
                           </div>
-                   <div class="col-xs-12 col-sm-4 text-center" id="citizenship-composite-chart" class="custom-chart" data-step="7" data-intro="This is the citizenship type composite chart. It shows a comparison of citizenship type for the selected traveller data and its change over time "></div>
+                   <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="7" data-intro="This is the citizenship type composite chart. It shows a comparison of citizenship type for the selected traveller data and its change over time ">
+                      <div class="chart-wrapper">
+                          <div class="chart-title">
+                            Chart Title
+                          </div>
+                          <div class="chart-stage">
+                              <div id="citizenship-composite-chart"></div>
+                          </div>
+                          <div class="chart-notes">
+                            Notes about this chart (optional)
+                          </div>
+                      </div>
+                   </div>
                 </div>
             </article>
         </section>
@@ -147,14 +203,60 @@
             </div>
             <article>
                 <div class="row">
-                         <div class="col-xs-12 col-sm-8">
-                           <div id="passenger-type-direction-selector" data-step="11" data-intro="Direction Selector"></div>
-                           <div id="passenger-type-period-selector" data-step="12" data-intro="Month Selector"></div>
-                           <div id="world-map" data-step="10" data-intro="This is the Interactive World Map showing the number of travellers by country, colour darkness is proportional to the number of travellers"></div>
-                        </div>
-                        <div class="col-xs-12 col-sm-4">
-                           <div id="world-map-country-row-chart" class="custom-chart" data-step="13" data-intro="This row chart shows the number of travellers from each country in the current selection"></div>
-                        </div>
+                           <div class="col-xs-12 col-sm-6" data-step="11" data-intro="Direction Selector">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="passenger-type-direction-selector"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                              </div>
+                           </div>
+                           <div class="col-xs-12 col-sm-6" data-step="12" data-intro="Month Selector">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="passenger-type-period-selector"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                              </div>
+                           </div>
+              </div>
+              <div class="row">
+                           <div class="col-xs-12 col-sm-8" data-step="10" data-intro="This is the Interactive World Map showing the number of travellers by country, colour darkness is proportional to the number of travellers">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="world-map"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                              </div>
+                            </div>
+                           <div class="col-xs-12 col-sm-4" data-step="13" data-intro="This row chart shows the number of travellers from each country in the current selection">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="world-map-country-row-chart"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                              </div>
+                           </div>
                    <!--<div class="col-xs-12 col-sm-4 text-center" id="country-bar-chart" class="custom-chart"></div>-->
                 </div>
             </article>
@@ -166,10 +268,34 @@
             </div>
             <article>
                 <div class="row">
-                         <div class="col-xs-12 col-sm-12">
-                           <div id="food-item-group-selector" data-step="15" data-intro="Food Item Selector"></div>
+                         <div class="col-xs-12 col-sm-6">
+                           <div data-step="15" data-intro="Food Item Selector">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="food-item-group-selector"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                              </div>
+                           </div>
                           </div>
-                   <div class="col-xs-12 col-sm-4 text-center" id="food-item-line-chart" class="custom-chart" data-step="14" data-intro="This line chart shows changes in the Food Price Index over time"></div>
+                   <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="14" data-intro="This line chart shows changes in the Food Price Index over time">
+                      <div class="chart-wrapper">
+                          <div class="chart-title">
+                            Chart Title
+                          </div>
+                          <div class="chart-stage">
+                              <div id="food-item-line-chart"></div>
+                          </div>
+                          <div class="chart-notes">
+                            Notes about this chart (optional)
+                          </div>
+                      </div>
+                   </div>
                 </div>
             </article>
         </section>
@@ -180,17 +306,101 @@
             </div>
             <article>
               <div class="row">
-                    <div class="col-xs-12 col-sm-12">
-                        <div id="serious-injury-units-group-selector" data-step="18" data-intro="Units Selector"></div>
-                        <div id="serious-injury-indicator-group-selector" data-step="19" data-intro="Indicator Selector"></div>
-                       </div>
-                    <div class="col-xs-12 col-sm-8 text-center" id="serious-injury-dd-bar-chart" class="custom-chart" data-step="17" data-intro="This bar chart shows change in the number of serious injuries over time"></div>
-                    <div class="col-xs-12 col-sm-4 text-center" id="cause-row-chart" class="custom-chart" data-step="20" data-intro="This row chart shows the cause type"></div>
+                        <div class="col-xs-12 col-sm-6" data-step="18" data-intro="Units Selector">
+                            <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                    <div id="serious-injury-units-group-selector"></div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6" data-step="19" data-intro="Indicator Selector">
+                            <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                    <div id="serious-injury-indicator-group-selector"></div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                            </div>
+                        </div>
+              </div>
+              <div class="row">
+                    <div class="col-xs-12 col-sm-8 text-center" class="custom-chart" data-step="17" data-intro="This bar chart shows change in the number of serious injuries over time">
+                        <div class="chart-wrapper">
+                            <div class="chart-title">
+                              Chart Title
+                            </div>
+                            <div class="chart-stage">
+                                <div id="serious-injury-dd-bar-chart"></div>
+                            </div>
+                            <div class="chart-notes">
+                              Notes about this chart (optional)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="20" data-intro="This row chart shows the cause type">
+                        <div class="chart-wrapper">
+                            <div class="chart-title">
+                              Chart Title
+                            </div>
+                            <div class="chart-stage">
+                                <div id="cause-row-chart"></div>
+                            </div>
+                            <div class="chart-notes">
+                              Notes about this chart (optional)
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-12 col-sm-4 text-center" id="severity-row-chart" class="custom-chart" data-step="21" data-intro="This row chart shows the severity type"></div>
-                    <div class="col-xs-12 col-sm-4 text-center" id="population-pie-chart" class="custom-chart" data-step="22" data-intro="This pie chart shows the population type"></div>
-                    <div class="col-xs-12 col-sm-4 text-center" id="age-pie-chart" class="custom-chart" data-step="23" data-intro="This pie chart shows the age type"></div>
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="21" data-intro="This row chart shows the severity type">
+                        <div class="chart-wrapper">
+                            <div class="chart-title">
+                              Chart Title
+                            </div>
+                            <div class="chart-stage">
+                                <div id="severity-row-chart"></div>
+                            </div>
+                            <div class="chart-notes">
+                              Notes about this chart (optional)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="22" data-intro="This pie chart shows the population type">
+                        <div class="chart-wrapper">
+                            <div class="chart-title">
+                              Chart Title
+                            </div>
+                            <div class="chart-stage">
+                                <div id="population-pie-chart"></div>
+                            </div>
+                            <div class="chart-notes">
+                              Notes about this chart (optional)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="23" data-intro="This pie chart shows the age type">
+                        <div class="chart-wrapper">
+                            <div class="chart-title">
+                              Chart Title
+                            </div>
+                            <div class="chart-stage">
+                                <div id="age-pie-chart"></div>
+                            </div>
+                            <div class="chart-notes">
+                              Notes about this chart (optional)
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </article>
         </section>
@@ -201,12 +411,48 @@
             </div>
             <article>
                 <div class="row">
-                         <div class="col-xs-12 col-sm-12">
-                           <div id="labour-sector-group-selector" data-step="25" data-intro="Labour Sector Selector">Sector/Industry</div>
-                           <div id="labour-pay-type-group-selector" data-step="26" data-intro="Pay Type Selector">Pay Type </div>
+                          <div class="col-xs-12 col-sm-6" data-step="25" data-intro="Labour Sector Selector">
+                             <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                    <div id="labour-sector-group-selector"></div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                            </div>
                           </div>
-                   <div class="col-xs-12 col-sm-4 text-center" id="labour-gender-composite-chart" class="custom-chart" data-step="24" data-intro="This composite charts shows a gender comparison of the selected income and work data and its change over time"></div>
-                </div>
+                           <div class="col-xs-12 col-sm-6" data-step="26" data-intro="Pay Type Selector">
+                              <div class="chart-wrapper">
+                                  <div class="chart-title">
+                                    Chart Title
+                                  </div>
+                                  <div class="chart-stage">
+                                      <div id="labour-pay-type-group-selector"></div>
+                                  </div>
+                                  <div class="chart-notes">
+                                    Notes about this chart (optional)
+                                  </div>
+                              </div>
+                           </div>
+                   </div>
+                   <div class="row">
+                        <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="24" data-intro="This composite charts shows a gender comparison of the selected income and work data and its change over time">
+                            <div class="chart-wrapper">
+                                <div class="chart-title">
+                                  Chart Title
+                                </div>
+                                <div class="chart-stage">
+                                    <div id="labour-gender-composite-chart"></div>
+                                </div>
+                                <div class="chart-notes">
+                                  Notes about this chart (optional)
+                                </div>
+                            </div>
+                        </div>
+                   </div>
             </article>
         </section>
       </div>
@@ -243,5 +489,6 @@
         })
         </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/intro.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/keen-js/4.3.0/keen.min.js"></script>
 </body>
 </html>
