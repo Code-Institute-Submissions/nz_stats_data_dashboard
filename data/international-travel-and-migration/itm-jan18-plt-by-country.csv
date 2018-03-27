@@ -21,7 +21,7 @@
 201502,"Arrival","Cameroon",1
 201502,"Arrival","Canada",154
 201502,"Arrival","Chile",58
-201502,"Arrival","China, People's Republic of",1265
+201502,"Arrival","China",1265
 201502,"Arrival","Colombia",15
 201502,"Arrival","Cook Islands",39
 201502,"Arrival","Costa Rica",1
@@ -62,7 +62,7 @@
 201502,"Arrival","Kazakhstan",5
 201502,"Arrival","Kenya",23
 201502,"Arrival","Kiribati",9
-201502,"Arrival","Korea, Republic of",177
+201502,"Arrival","South Korea",177
 201502,"Arrival","Kuwait",12
 201502,"Arrival","Laos",11
 201502,"Arrival","Latvia",3
@@ -154,7 +154,7 @@
 201502,"Departure","Canada",77
 201502,"Departure","Cayman Islands",1
 201502,"Departure","Chile",20
-201502,"Departure","China, People's Republic of",201
+201502,"Departure","China",201
 201502,"Departure","Colombia",3
 201502,"Departure","Cook Islands",24
 201502,"Departure","Czech Republic",24
@@ -180,7 +180,7 @@
 201502,"Departure","Jordan",1
 201502,"Departure","Kenya",2
 201502,"Departure","Kiribati",4
-201502,"Departure","Korea, Republic of",93
+201502,"Departure","South Korea",93
 201502,"Departure","Laos",2
 201502,"Departure","Latvia",1
 201502,"Departure","Lebanon",1
@@ -263,7 +263,7 @@
 201502,"Net migration","Canada",77
 201502,"Net migration","Cayman Islands",-1
 201502,"Net migration","Chile",38
-201502,"Net migration","China, People's Republic of",1064
+201502,"Net migration","China",1064
 201502,"Net migration","Colombia",12
 201502,"Net migration","Cook Islands",15
 201502,"Net migration","Costa Rica",1
@@ -303,7 +303,7 @@
 201502,"Net migration","Kazakhstan",5
 201502,"Net migration","Kenya",21
 201502,"Net migration","Kiribati",5
-201502,"Net migration","Korea, Republic of",84
+201502,"Net migration","South Korea",84
 201502,"Net migration","Kuwait",12
 201502,"Net migration","Laos",9
 201502,"Net migration","Latvia",2
@@ -400,7 +400,7 @@
 201503,"Arrival","Cayman Islands",3
 201503,"Arrival","Chad",3
 201503,"Arrival","Chile",74
-201503,"Arrival","China, People's Republic of",910
+201503,"Arrival","China",910
 201503,"Arrival","Colombia",9
 201503,"Arrival","Cook Islands",22
 201503,"Arrival","Croatia",1
@@ -436,7 +436,7 @@
 201503,"Arrival","Kazakhstan",3
 201503,"Arrival","Kenya",4
 201503,"Arrival","Kiribati",9
-201503,"Arrival","Korea, Republic of",172
+201503,"Arrival","South Korea",172
 201503,"Arrival","Kosovo",1
 201503,"Arrival","Kuwait",5
 201503,"Arrival","Laos",3
@@ -526,7 +526,7 @@
 201503,"Departure","Cambodia",3
 201503,"Departure","Canada",133
 201503,"Departure","Chile",29
-201503,"Departure","China, People's Republic of",208
+201503,"Departure","China",208
 201503,"Departure","Cook Islands",17
 201503,"Departure","Cote d'Ivoire",2
 201503,"Departure","Croatia",3
@@ -559,7 +559,7 @@
 201503,"Departure","Jordan",5
 201503,"Departure","Kenya",2
 201503,"Departure","Kiribati",1
-201503,"Departure","Korea, Republic of",78
+201503,"Departure","South Korea",78
 201503,"Departure","Kuwait",1
 201503,"Departure","Laos",2
 201503,"Departure","Latvia",2
@@ -643,7 +643,7 @@
 201503,"Net migration","Cayman Islands",3
 201503,"Net migration","Chad",3
 201503,"Net migration","Chile",45
-201503,"Net migration","China, People's Republic of",702
+201503,"Net migration","China",702
 201503,"Net migration","Colombia",9
 201503,"Net migration","Cook Islands",5
 201503,"Net migration","Cote d'Ivoire",-2
@@ -678,7 +678,7 @@
 201503,"Net migration","Kazakhstan",3
 201503,"Net migration","Kenya",2
 201503,"Net migration","Kiribati",8
-201503,"Net migration","Korea, Republic of",94
+201503,"Net migration","South Korea",94
 201503,"Net migration","Kosovo",1
 201503,"Net migration","Kuwait",4
 201503,"Net migration","Laos",1
@@ -772,7 +772,7 @@
 201504,"Arrival","Canada",146
 201504,"Arrival","Cayman Islands",10
 201504,"Arrival","Chile",43
-201504,"Arrival","China, People's Republic of",620
+201504,"Arrival","China",620
 201504,"Arrival","Colombia",1
 201504,"Arrival","Cook Islands",16
 201504,"Arrival","Costa Rica",1
@@ -805,7 +805,7 @@
 201504,"Arrival","Jordan",1
 201504,"Arrival","Kenya",10
 201504,"Arrival","Kiribati",2
-201504,"Arrival","Korea, Republic of",146
+201504,"Arrival","South Korea",146
 201504,"Arrival","Kosovo",1
 201504,"Arrival","Kuwait",6
 201504,"Arrival","Laos",3
@@ -882,7 +882,7 @@
 201504,"Departure","Cambodia",8
 201504,"Departure","Canada",110
 201504,"Departure","Chile",6
-201504,"Departure","China, People's Republic of",174
+201504,"Departure","China",174
 201504,"Departure","Colombia",9
 201504,"Departure","Cook Islands",11
 201504,"Departure","Croatia",1
@@ -910,7 +910,7 @@
 201504,"Departure","Jordan",1
 201504,"Departure","Kenya",1
 201504,"Departure","Kiribati",1
-201504,"Departure","Korea, Republic of",82
+201504,"Departure","South Korea",82
 201504,"Departure","Kuwait",1
 201504,"Departure","Laos",5
 201504,"Departure","Latvia",3
@@ -979,7 +979,7 @@
 201504,"Net migration","Canada",36
 201504,"Net migration","Cayman Islands",10
 201504,"Net migration","Chile",37
-201504,"Net migration","China, People's Republic of",446
+201504,"Net migration","China",446
 201504,"Net migration","Colombia",-8
 201504,"Net migration","Cook Islands",5
 201504,"Net migration","Costa Rica",1
@@ -1010,7 +1010,7 @@
 201504,"Net migration","Japan",263
 201504,"Net migration","Kenya",9
 201504,"Net migration","Kiribati",1
-201504,"Net migration","Korea, Republic of",64
+201504,"Net migration","South Korea",64
 201504,"Net migration","Kosovo",1
 201504,"Net migration","Kuwait",5
 201504,"Net migration","Laos",-2
@@ -1096,7 +1096,7 @@
 201505,"Arrival","Cameroon",1
 201505,"Arrival","Canada",161
 201505,"Arrival","Chile",59
-201505,"Arrival","China, People's Republic of",484
+201505,"Arrival","China",484
 201505,"Arrival","Colombia",8
 201505,"Arrival","Congo, the Democratic Republic of the",1
 201505,"Arrival","Cook Islands",20
@@ -1130,7 +1130,7 @@
 201505,"Arrival","Kazakhstan",1
 201505,"Arrival","Kenya",2
 201505,"Arrival","Kiribati",8
-201505,"Arrival","Korea, Republic of",110
+201505,"Arrival","South Korea",110
 201505,"Arrival","Kuwait",3
 201505,"Arrival","Laos",11
 201505,"Arrival","Latvia",3
@@ -1213,7 +1213,7 @@
 201505,"Departure","Canada",127
 201505,"Departure","Cayman Islands",2
 201505,"Departure","Chile",17
-201505,"Departure","China, People's Republic of",175
+201505,"Departure","China",175
 201505,"Departure","Cook Islands",26
 201505,"Departure","Costa Rica",1
 201505,"Departure","Croatia",1
@@ -1241,7 +1241,7 @@
 201505,"Departure","Jordan",5
 201505,"Departure","Kenya",1
 201505,"Departure","Kiribati",7
-201505,"Departure","Korea, Republic of",54
+201505,"Departure","South Korea",54
 201505,"Departure","Macau (Special Administrative Region)",1
 201505,"Departure","Malaysia",50
 201505,"Departure","Marshall Islands",2
@@ -1319,7 +1319,7 @@
 201505,"Net migration","Canada",34
 201505,"Net migration","Cayman Islands",-2
 201505,"Net migration","Chile",42
-201505,"Net migration","China, People's Republic of",309
+201505,"Net migration","China",309
 201505,"Net migration","Colombia",8
 201505,"Net migration","Congo, the Democratic Republic of the",1
 201505,"Net migration","Cook Islands",-6
@@ -1349,7 +1349,7 @@
 201505,"Net migration","Kazakhstan",1
 201505,"Net migration","Kenya",1
 201505,"Net migration","Kiribati",1
-201505,"Net migration","Korea, Republic of",56
+201505,"Net migration","South Korea",56
 201505,"Net migration","Kuwait",3
 201505,"Net migration","Laos",11
 201505,"Net migration","Latvia",3
@@ -1440,7 +1440,7 @@
 201506,"Arrival","Canada",147
 201506,"Arrival","Cayman Islands",3
 201506,"Arrival","Chile",41
-201506,"Arrival","China, People's Republic of",702
+201506,"Arrival","China",702
 201506,"Arrival","Colombia",8
 201506,"Arrival","Cook Islands",17
 201506,"Arrival","Costa Rica",1
@@ -1473,7 +1473,7 @@
 201506,"Arrival","Kazakhstan",3
 201506,"Arrival","Kenya",8
 201506,"Arrival","Kiribati",10
-201506,"Arrival","Korea, Republic of",197
+201506,"Arrival","South Korea",197
 201506,"Arrival","Kuwait",18
 201506,"Arrival","Laos",2
 201506,"Arrival","Latvia",4
@@ -1550,7 +1550,7 @@
 201506,"Departure","Cambodia",6
 201506,"Departure","Canada",173
 201506,"Departure","Chile",21
-201506,"Departure","China, People's Republic of",163
+201506,"Departure","China",163
 201506,"Departure","Colombia",2
 201506,"Departure","Cook Islands",14
 201506,"Departure","Croatia",8
@@ -1585,7 +1585,7 @@
 201506,"Departure","Jordan",1
 201506,"Departure","Kenya",1
 201506,"Departure","Kiribati",4
-201506,"Departure","Korea, Republic of",70
+201506,"Departure","South Korea",70
 201506,"Departure","Kuwait",2
 201506,"Departure","Laos",3
 201506,"Departure","Latvia",3
@@ -1652,7 +1652,7 @@
 201506,"Net migration","Canada",-26
 201506,"Net migration","Cayman Islands",3
 201506,"Net migration","Chile",20
-201506,"Net migration","China, People's Republic of",539
+201506,"Net migration","China",539
 201506,"Net migration","Colombia",6
 201506,"Net migration","Cook Islands",3
 201506,"Net migration","Costa Rica",1
@@ -1685,7 +1685,7 @@
 201506,"Net migration","Kazakhstan",3
 201506,"Net migration","Kenya",7
 201506,"Net migration","Kiribati",6
-201506,"Net migration","Korea, Republic of",127
+201506,"Net migration","South Korea",127
 201506,"Net migration","Kuwait",16
 201506,"Net migration","Laos",-1
 201506,"Net migration","Latvia",1
@@ -1770,7 +1770,7 @@
 201507,"Arrival","Canada",167
 201507,"Arrival","Cayman Islands",1
 201507,"Arrival","Chile",46
-201507,"Arrival","China, People's Republic of",1499
+201507,"Arrival","China",1499
 201507,"Arrival","Colombia",3
 201507,"Arrival","Congo, the Democratic Republic of the",1
 201507,"Arrival","Cook Islands",18
@@ -1806,7 +1806,7 @@
 201507,"Arrival","Kazakhstan",4
 201507,"Arrival","Kenya",11
 201507,"Arrival","Kiribati",6
-201507,"Arrival","Korea, Republic of",211
+201507,"Arrival","South Korea",211
 201507,"Arrival","Kuwait",14
 201507,"Arrival","Laos",3
 201507,"Arrival","Lithuania",2
@@ -1884,7 +1884,7 @@
 201507,"Departure","Cambodia",18
 201507,"Departure","Canada",145
 201507,"Departure","Chile",12
-201507,"Departure","China, People's Republic of",209
+201507,"Departure","China",209
 201507,"Departure","Colombia",10
 201507,"Departure","Cook Islands",34
 201507,"Departure","Costa Rica",2
@@ -1917,7 +1917,7 @@
 201507,"Departure","Japan",64
 201507,"Departure","Kazakhstan",1
 201507,"Departure","Kiribati",3
-201507,"Departure","Korea, Republic of",74
+201507,"Departure","South Korea",74
 201507,"Departure","Kuwait",1
 201507,"Departure","Laos",3
 201507,"Departure","Latvia",1
@@ -1989,7 +1989,7 @@
 201507,"Net migration","Canada",22
 201507,"Net migration","Cayman Islands",1
 201507,"Net migration","Chile",34
-201507,"Net migration","China, People's Republic of",1290
+201507,"Net migration","China",1290
 201507,"Net migration","Colombia",-7
 201507,"Net migration","Congo, the Democratic Republic of the",1
 201507,"Net migration","Cook Islands",-16
@@ -2028,7 +2028,7 @@
 201507,"Net migration","Kazakhstan",3
 201507,"Net migration","Kenya",11
 201507,"Net migration","Kiribati",3
-201507,"Net migration","Korea, Republic of",137
+201507,"Net migration","South Korea",137
 201507,"Net migration","Kuwait",13
 201507,"Net migration","Latvia",-1
 201507,"Net migration","Lithuania",2
@@ -2120,7 +2120,7 @@
 201508,"Arrival","Cambodia",17
 201508,"Arrival","Canada",182
 201508,"Arrival","Chile",47
-201508,"Arrival","China, People's Republic of",1022
+201508,"Arrival","China",1022
 201508,"Arrival","Colombia",7
 201508,"Arrival","Cook Islands",27
 201508,"Arrival","Costa Rica",1
@@ -2157,7 +2157,7 @@
 201508,"Arrival","Jordan",4
 201508,"Arrival","Kenya",4
 201508,"Arrival","Kiribati",1
-201508,"Arrival","Korea, Republic of",137
+201508,"Arrival","South Korea",137
 201508,"Arrival","Kosovo",3
 201508,"Arrival","Kuwait",1
 201508,"Arrival","Laos",9
@@ -2240,7 +2240,7 @@
 201508,"Departure","Cambodia",7
 201508,"Departure","Canada",175
 201508,"Departure","Chile",18
-201508,"Departure","China, People's Republic of",181
+201508,"Departure","China",181
 201508,"Departure","Colombia",1
 201508,"Departure","Cook Islands",18
 201508,"Departure","Croatia",4
@@ -2268,7 +2268,7 @@
 201508,"Departure","Japan",119
 201508,"Departure","Jordan",5
 201508,"Departure","Kazakhstan",2
-201508,"Departure","Korea, Republic of",54
+201508,"Departure","South Korea",54
 201508,"Departure","Kuwait",5
 201508,"Departure","Kyrgyzstan",1
 201508,"Departure","Latvia",2
@@ -2348,7 +2348,7 @@
 201508,"Net migration","Cambodia",10
 201508,"Net migration","Canada",7
 201508,"Net migration","Chile",29
-201508,"Net migration","China, People's Republic of",841
+201508,"Net migration","China",841
 201508,"Net migration","Colombia",6
 201508,"Net migration","Cook Islands",9
 201508,"Net migration","Costa Rica",1
@@ -2388,7 +2388,7 @@
 201508,"Net migration","Kazakhstan",-2
 201508,"Net migration","Kenya",4
 201508,"Net migration","Kiribati",1
-201508,"Net migration","Korea, Republic of",83
+201508,"Net migration","South Korea",83
 201508,"Net migration","Kosovo",3
 201508,"Net migration","Kuwait",-4
 201508,"Net migration","Kyrgyzstan",-1
@@ -2481,7 +2481,7 @@
 201509,"Arrival","Canada",293
 201509,"Arrival","Chad",4
 201509,"Arrival","Chile",25
-201509,"Arrival","China, People's Republic of",893
+201509,"Arrival","China",893
 201509,"Arrival","Colombia",9
 201509,"Arrival","Cook Islands",14
 201509,"Arrival","Costa Rica",1
@@ -2520,7 +2520,7 @@
 201509,"Arrival","Kazakhstan",2
 201509,"Arrival","Kenya",6
 201509,"Arrival","Kiribati",9
-201509,"Arrival","Korea, Republic of",151
+201509,"Arrival","South Korea",151
 201509,"Arrival","Kosovo",6
 201509,"Arrival","Kuwait",3
 201509,"Arrival","Laos",4
@@ -2604,7 +2604,7 @@
 201509,"Departure","Cambodia",5
 201509,"Departure","Canada",90
 201509,"Departure","Chile",10
-201509,"Departure","China, People's Republic of",188
+201509,"Departure","China",188
 201509,"Departure","Colombia",2
 201509,"Departure","Cook Islands",15
 201509,"Departure","Croatia",1
@@ -2630,7 +2630,7 @@
 201509,"Departure","Jordan",1
 201509,"Departure","Kenya",1
 201509,"Departure","Kiribati",3
-201509,"Departure","Korea, Republic of",54
+201509,"Departure","South Korea",54
 201509,"Departure","Kuwait",1
 201509,"Departure","Laos",1
 201509,"Departure","Latvia",1
@@ -2701,7 +2701,7 @@
 201509,"Net migration","Canada",203
 201509,"Net migration","Chad",4
 201509,"Net migration","Chile",15
-201509,"Net migration","China, People's Republic of",705
+201509,"Net migration","China",705
 201509,"Net migration","Colombia",7
 201509,"Net migration","Cook Islands",-1
 201509,"Net migration","Costa Rica",1
@@ -2740,7 +2740,7 @@
 201509,"Net migration","Kazakhstan",2
 201509,"Net migration","Kenya",5
 201509,"Net migration","Kiribati",6
-201509,"Net migration","Korea, Republic of",97
+201509,"Net migration","South Korea",97
 201509,"Net migration","Kosovo",6
 201509,"Net migration","Kuwait",2
 201509,"Net migration","Laos",3
@@ -2831,7 +2831,7 @@
 201510,"Arrival","Canada",273
 201510,"Arrival","Cayman Islands",3
 201510,"Arrival","Chile",157
-201510,"Arrival","China, People's Republic of",940
+201510,"Arrival","China",940
 201510,"Arrival","Colombia",6
 201510,"Arrival","Cook Islands",14
 201510,"Arrival","Costa Rica",1
@@ -2872,7 +2872,7 @@
 201510,"Arrival","Kazakhstan",2
 201510,"Arrival","Kenya",1
 201510,"Arrival","Kiribati",4
-201510,"Arrival","Korea, Republic of",146
+201510,"Arrival","South Korea",146
 201510,"Arrival","Kosovo",1
 201510,"Arrival","Kuwait",7
 201510,"Arrival","Kyrgyzstan",1
@@ -2955,7 +2955,7 @@
 201510,"Departure","Canada",142
 201510,"Departure","Cayman Islands",1
 201510,"Departure","Chile",15
-201510,"Departure","China, People's Republic of",127
+201510,"Departure","China",127
 201510,"Departure","Colombia",4
 201510,"Departure","Cook Islands",22
 201510,"Departure","Cuba",3
@@ -2984,7 +2984,7 @@
 201510,"Departure","Kazakhstan",2
 201510,"Departure","Kenya",1
 201510,"Departure","Kiribati",1
-201510,"Departure","Korea, Republic of",56
+201510,"Departure","South Korea",56
 201510,"Departure","Kosovo",1
 201510,"Departure","Macau (Special Administrative Region)",1
 201510,"Departure","Malaysia",18
@@ -3051,7 +3051,7 @@
 201510,"Net migration","Canada",131
 201510,"Net migration","Cayman Islands",2
 201510,"Net migration","Chile",142
-201510,"Net migration","China, People's Republic of",813
+201510,"Net migration","China",813
 201510,"Net migration","Colombia",2
 201510,"Net migration","Cook Islands",-8
 201510,"Net migration","Costa Rica",1
@@ -3090,7 +3090,7 @@
 201510,"Net migration","Japan",99
 201510,"Net migration","Jordan",4
 201510,"Net migration","Kiribati",3
-201510,"Net migration","Korea, Republic of",90
+201510,"Net migration","South Korea",90
 201510,"Net migration","Kuwait",7
 201510,"Net migration","Kyrgyzstan",1
 201510,"Net migration","Laos",3
@@ -3180,7 +3180,7 @@
 201511,"Arrival","Cameroon",1
 201511,"Arrival","Canada",321
 201511,"Arrival","Chile",106
-201511,"Arrival","China, People's Republic of",712
+201511,"Arrival","China",712
 201511,"Arrival","Colombia",6
 201511,"Arrival","Congo, the Democratic Republic of the",1
 201511,"Arrival","Cook Islands",21
@@ -3218,7 +3218,7 @@
 201511,"Arrival","Kazakhstan",3
 201511,"Arrival","Kenya",3
 201511,"Arrival","Kiribati",3
-201511,"Arrival","Korea, Republic of",137
+201511,"Arrival","South Korea",137
 201511,"Arrival","Kosovo",1
 201511,"Arrival","Kuwait",3
 201511,"Arrival","Laos",1
@@ -3302,7 +3302,7 @@
 201511,"Departure","Cambodia",6
 201511,"Departure","Canada",123
 201511,"Departure","Chile",13
-201511,"Departure","China, People's Republic of",176
+201511,"Departure","China",176
 201511,"Departure","Colombia",3
 201511,"Departure","Cook Islands",28
 201511,"Departure","Costa Rica",3
@@ -3325,7 +3325,7 @@
 201511,"Departure","Japan",59
 201511,"Departure","Jordan",1
 201511,"Departure","Kenya",1
-201511,"Departure","Korea, Republic of",69
+201511,"Departure","South Korea",69
 201511,"Departure","Kuwait",1
 201511,"Departure","Laos",1
 201511,"Departure","Libya",1
@@ -3401,7 +3401,7 @@
 201511,"Net migration","Cameroon",1
 201511,"Net migration","Canada",198
 201511,"Net migration","Chile",93
-201511,"Net migration","China, People's Republic of",536
+201511,"Net migration","China",536
 201511,"Net migration","Colombia",3
 201511,"Net migration","Congo, the Democratic Republic of the",1
 201511,"Net migration","Cook Islands",-7
@@ -3441,7 +3441,7 @@
 201511,"Net migration","Kazakhstan",3
 201511,"Net migration","Kenya",2
 201511,"Net migration","Kiribati",3
-201511,"Net migration","Korea, Republic of",68
+201511,"Net migration","South Korea",68
 201511,"Net migration","Kosovo",1
 201511,"Net migration","Kuwait",2
 201511,"Net migration","Latvia",18
@@ -3537,7 +3537,7 @@
 201512,"Arrival","Canada",245
 201512,"Arrival","Cayman Islands",1
 201512,"Arrival","Chile",54
-201512,"Arrival","China, People's Republic of",598
+201512,"Arrival","China",598
 201512,"Arrival","Colombia",5
 201512,"Arrival","Cook Islands",63
 201512,"Arrival","Costa Rica",1
@@ -3573,7 +3573,7 @@
 201512,"Arrival","Kazakhstan",5
 201512,"Arrival","Kenya",3
 201512,"Arrival","Kiribati",8
-201512,"Arrival","Korea, Republic of",104
+201512,"Arrival","South Korea",104
 201512,"Arrival","Kosovo",2
 201512,"Arrival","Kuwait",4
 201512,"Arrival","Latvia",6
@@ -3661,7 +3661,7 @@
 201512,"Departure","Canada",97
 201512,"Departure","Cayman Islands",3
 201512,"Departure","Chile",25
-201512,"Departure","China, People's Republic of",192
+201512,"Departure","China",192
 201512,"Departure","Colombia",3
 201512,"Departure","Cook Islands",29
 201512,"Departure","Cuba",1
@@ -3689,7 +3689,7 @@
 201512,"Departure","Jordan",2
 201512,"Departure","Kenya",1
 201512,"Departure","Kiribati",5
-201512,"Departure","Korea, Republic of",136
+201512,"Departure","South Korea",136
 201512,"Departure","Kuwait",6
 201512,"Departure","Laos",3
 201512,"Departure","Libya",1
@@ -3767,7 +3767,7 @@
 201512,"Net migration","Canada",148
 201512,"Net migration","Cayman Islands",-2
 201512,"Net migration","Chile",29
-201512,"Net migration","China, People's Republic of",406
+201512,"Net migration","China",406
 201512,"Net migration","Colombia",2
 201512,"Net migration","Cook Islands",34
 201512,"Net migration","Costa Rica",1
@@ -3804,7 +3804,7 @@
 201512,"Net migration","Kazakhstan",5
 201512,"Net migration","Kenya",2
 201512,"Net migration","Kiribati",3
-201512,"Net migration","Korea, Republic of",-32
+201512,"Net migration","South Korea",-32
 201512,"Net migration","Kosovo",2
 201512,"Net migration","Kuwait",-2
 201512,"Net migration","Laos",-3
@@ -3905,7 +3905,7 @@
 201601,"Arrival","Cameroon",4
 201601,"Arrival","Canada",325
 201601,"Arrival","Chile",39
-201601,"Arrival","China, People's Republic of",1690
+201601,"Arrival","China",1690
 201601,"Arrival","Colombia",16
 201601,"Arrival","Congo",1
 201601,"Arrival","Cook Islands",29
@@ -3941,7 +3941,7 @@
 201601,"Arrival","Kazakhstan",2
 201601,"Arrival","Kenya",3
 201601,"Arrival","Kiribati",9
-201601,"Arrival","Korea, Republic of",362
+201601,"Arrival","South Korea",362
 201601,"Arrival","Kuwait",17
 201601,"Arrival","Kyrgyzstan",3
 201601,"Arrival","Laos",9
@@ -4027,7 +4027,7 @@
 201601,"Departure","Canada",95
 201601,"Departure","Cayman Islands",5
 201601,"Departure","Chile",24
-201601,"Departure","China, People's Republic of",217
+201601,"Departure","China",217
 201601,"Departure","Colombia",6
 201601,"Departure","Cook Islands",39
 201601,"Departure","Costa Rica",2
@@ -4058,7 +4058,7 @@
 201601,"Departure","Kazakhstan",4
 201601,"Departure","Kenya",2
 201601,"Departure","Kiribati",6
-201601,"Departure","Korea, Republic of",95
+201601,"Departure","South Korea",95
 201601,"Departure","Laos",4
 201601,"Departure","Latvia",2
 201601,"Departure","Lebanon",1
@@ -4138,7 +4138,7 @@
 201601,"Net migration","Canada",230
 201601,"Net migration","Cayman Islands",-5
 201601,"Net migration","Chile",15
-201601,"Net migration","China, People's Republic of",1473
+201601,"Net migration","China",1473
 201601,"Net migration","Colombia",10
 201601,"Net migration","Congo",1
 201601,"Net migration","Cook Islands",-10
@@ -4175,7 +4175,7 @@
 201601,"Net migration","Kazakhstan",-2
 201601,"Net migration","Kenya",1
 201601,"Net migration","Kiribati",3
-201601,"Net migration","Korea, Republic of",267
+201601,"Net migration","South Korea",267
 201601,"Net migration","Kuwait",17
 201601,"Net migration","Kyrgyzstan",3
 201601,"Net migration","Laos",5
@@ -4269,7 +4269,7 @@
 201602,"Arrival","Cameroon",2
 201602,"Arrival","Canada",222
 201602,"Arrival","Chile",71
-201602,"Arrival","China, People's Republic of",1751
+201602,"Arrival","China",1751
 201602,"Arrival","Colombia",24
 201602,"Arrival","Cook Islands",55
 201602,"Arrival","Costa Rica",1
@@ -4306,7 +4306,7 @@
 201602,"Arrival","Kazakhstan",11
 201602,"Arrival","Kenya",35
 201602,"Arrival","Kiribati",11
-201602,"Arrival","Korea, Republic of",227
+201602,"Arrival","South Korea",227
 201602,"Arrival","Kuwait",9
 201602,"Arrival","Laos",19
 201602,"Arrival","Latvia",6
@@ -4402,7 +4402,7 @@
 201602,"Departure","Canada",82
 201602,"Departure","Cayman Islands",2
 201602,"Departure","Chile",30
-201602,"Departure","China, People's Republic of",150
+201602,"Departure","China",150
 201602,"Departure","Colombia",4
 201602,"Departure","Congo, the Democratic Republic of the",1
 201602,"Departure","Cook Islands",16
@@ -4429,7 +4429,7 @@
 201602,"Departure","Japan",67
 201602,"Departure","Jordan",5
 201602,"Departure","Kiribati",2
-201602,"Departure","Korea, Republic of",80
+201602,"Departure","South Korea",80
 201602,"Departure","Kuwait",2
 201602,"Departure","Laos",3
 201602,"Departure","Latvia",1
@@ -4500,7 +4500,7 @@
 201602,"Net migration","Canada",140
 201602,"Net migration","Cayman Islands",-2
 201602,"Net migration","Chile",41
-201602,"Net migration","China, People's Republic of",1601
+201602,"Net migration","China",1601
 201602,"Net migration","Colombia",20
 201602,"Net migration","Congo, the Democratic Republic of the",-1
 201602,"Net migration","Cook Islands",39
@@ -4539,7 +4539,7 @@
 201602,"Net migration","Kazakhstan",11
 201602,"Net migration","Kenya",35
 201602,"Net migration","Kiribati",9
-201602,"Net migration","Korea, Republic of",147
+201602,"Net migration","South Korea",147
 201602,"Net migration","Kuwait",7
 201602,"Net migration","Laos",16
 201602,"Net migration","Latvia",5
@@ -4641,7 +4641,7 @@
 201603,"Arrival","Cameroon",2
 201603,"Arrival","Canada",158
 201603,"Arrival","Chile",63
-201603,"Arrival","China, People's Republic of",811
+201603,"Arrival","China",811
 201603,"Arrival","Colombia",9
 201603,"Arrival","Cook Islands",33
 201603,"Arrival","Costa Rica",2
@@ -4679,7 +4679,7 @@
 201603,"Arrival","Kazakhstan",4
 201603,"Arrival","Kenya",6
 201603,"Arrival","Kiribati",7
-201603,"Arrival","Korea, Republic of",155
+201603,"Arrival","South Korea",155
 201603,"Arrival","Kuwait",13
 201603,"Arrival","Laos",2
 201603,"Arrival","Latvia",1
@@ -4764,7 +4764,7 @@
 201603,"Departure","Cambodia",14
 201603,"Departure","Canada",147
 201603,"Departure","Chile",24
-201603,"Departure","China, People's Republic of",194
+201603,"Departure","China",194
 201603,"Departure","Colombia",3
 201603,"Departure","Cook Islands",16
 201603,"Departure","Costa Rica",2
@@ -4793,7 +4793,7 @@
 201603,"Departure","Japan",117
 201603,"Departure","Kenya",2
 201603,"Departure","Kiribati",2
-201603,"Departure","Korea, Republic of",59
+201603,"Departure","South Korea",59
 201603,"Departure","Laos",6
 201603,"Departure","Malaysia",39
 201603,"Departure","Maldives",1
@@ -4869,7 +4869,7 @@
 201603,"Net migration","Cameroon",2
 201603,"Net migration","Canada",11
 201603,"Net migration","Chile",39
-201603,"Net migration","China, People's Republic of",617
+201603,"Net migration","China",617
 201603,"Net migration","Colombia",6
 201603,"Net migration","Cook Islands",17
 201603,"Net migration","Croatia",7
@@ -4907,7 +4907,7 @@
 201603,"Net migration","Kazakhstan",4
 201603,"Net migration","Kenya",4
 201603,"Net migration","Kiribati",5
-201603,"Net migration","Korea, Republic of",96
+201603,"Net migration","South Korea",96
 201603,"Net migration","Kuwait",13
 201603,"Net migration","Laos",-4
 201603,"Net migration","Latvia",1
@@ -4992,7 +4992,7 @@
 201604,"Arrival","Canada",151
 201604,"Arrival","Cayman Islands",2
 201604,"Arrival","Chile",66
-201604,"Arrival","China, People's Republic of",641
+201604,"Arrival","China",641
 201604,"Arrival","Colombia",3
 201604,"Arrival","Cook Islands",7
 201604,"Arrival","Croatia",5
@@ -5026,7 +5026,7 @@
 201604,"Arrival","Kazakhstan",7
 201604,"Arrival","Kenya",6
 201604,"Arrival","Kiribati",1
-201604,"Arrival","Korea, Republic of",161
+201604,"Arrival","South Korea",161
 201604,"Arrival","Kuwait",6
 201604,"Arrival","Laos",1
 201604,"Arrival","Latvia",3
@@ -5105,7 +5105,7 @@
 201604,"Departure","Canada",158
 201604,"Departure","Cayman Islands",2
 201604,"Departure","Chile",9
-201604,"Departure","China, People's Republic of",156
+201604,"Departure","China",156
 201604,"Departure","Colombia",3
 201604,"Departure","Cook Islands",28
 201604,"Departure","Costa Rica",4
@@ -5137,7 +5137,7 @@
 201604,"Departure","Jordan",4
 201604,"Departure","Kenya",3
 201604,"Departure","Kiribati",3
-201604,"Departure","Korea, Republic of",57
+201604,"Departure","South Korea",57
 201604,"Departure","Kuwait",2
 201604,"Departure","Laos",6
 201604,"Departure","Latvia",1
@@ -5214,7 +5214,7 @@
 201604,"Net migration","Cambodia",3
 201604,"Net migration","Canada",-7
 201604,"Net migration","Chile",57
-201604,"Net migration","China, People's Republic of",485
+201604,"Net migration","China",485
 201604,"Net migration","Cook Islands",-21
 201604,"Net migration","Costa Rica",-4
 201604,"Net migration","Croatia",2
@@ -5250,7 +5250,7 @@
 201604,"Net migration","Kazakhstan",7
 201604,"Net migration","Kenya",3
 201604,"Net migration","Kiribati",-2
-201604,"Net migration","Korea, Republic of",104
+201604,"Net migration","South Korea",104
 201604,"Net migration","Kuwait",4
 201604,"Net migration","Laos",-5
 201604,"Net migration","Latvia",2
@@ -5337,7 +5337,7 @@
 201605,"Arrival","Cambodia",20
 201605,"Arrival","Canada",167
 201605,"Arrival","Chile",36
-201605,"Arrival","China, People's Republic of",535
+201605,"Arrival","China",535
 201605,"Arrival","Colombia",3
 201605,"Arrival","Cook Islands",10
 201605,"Arrival","Costa Rica",1
@@ -5371,7 +5371,7 @@
 201605,"Arrival","Kazakhstan",4
 201605,"Arrival","Kenya",5
 201605,"Arrival","Kiribati",1
-201605,"Arrival","Korea, Republic of",106
+201605,"Arrival","South Korea",106
 201605,"Arrival","Kuwait",11
 201605,"Arrival","Laos",3
 201605,"Arrival","Latvia",2
@@ -5449,7 +5449,7 @@
 201605,"Departure","Canada",195
 201605,"Departure","Cayman Islands",3
 201605,"Departure","Chile",9
-201605,"Departure","China, People's Republic of",174
+201605,"Departure","China",174
 201605,"Departure","Colombia",9
 201605,"Departure","Cook Islands",14
 201605,"Departure","Costa Rica",1
@@ -5481,7 +5481,7 @@
 201605,"Departure","Japan",70
 201605,"Departure","Kazakhstan",2
 201605,"Departure","Kiribati",4
-201605,"Departure","Korea, Republic of",50
+201605,"Departure","South Korea",50
 201605,"Departure","Laos",3
 201605,"Departure","Latvia",6
 201605,"Departure","Luxembourg",2
@@ -5556,7 +5556,7 @@
 201605,"Net migration","Canada",-28
 201605,"Net migration","Cayman Islands",-3
 201605,"Net migration","Chile",27
-201605,"Net migration","China, People's Republic of",361
+201605,"Net migration","China",361
 201605,"Net migration","Colombia",-6
 201605,"Net migration","Cook Islands",-4
 201605,"Net migration","Cuba",1
@@ -5594,7 +5594,7 @@
 201605,"Net migration","Kazakhstan",2
 201605,"Net migration","Kenya",5
 201605,"Net migration","Kiribati",-3
-201605,"Net migration","Korea, Republic of",56
+201605,"Net migration","South Korea",56
 201605,"Net migration","Kuwait",11
 201605,"Net migration","Latvia",-4
 201605,"Net migration","Lebanon",7
@@ -5678,7 +5678,7 @@
 201606,"Arrival","Cambodia",22
 201606,"Arrival","Canada",156
 201606,"Arrival","Chile",38
-201606,"Arrival","China, People's Republic of",717
+201606,"Arrival","China",717
 201606,"Arrival","Christmas Island",2
 201606,"Arrival","Colombia",3
 201606,"Arrival","Cook Islands",17
@@ -5722,7 +5722,7 @@
 201606,"Arrival","Kazakhstan",6
 201606,"Arrival","Kenya",8
 201606,"Arrival","Kiribati",10
-201606,"Arrival","Korea, Republic of",195
+201606,"Arrival","South Korea",195
 201606,"Arrival","Kuwait",8
 201606,"Arrival","Laos",1
 201606,"Arrival","Latvia",1
@@ -5796,7 +5796,7 @@
 201606,"Departure","Cambodia",9
 201606,"Departure","Canada",192
 201606,"Departure","Chile",12
-201606,"Departure","China, People's Republic of",157
+201606,"Departure","China",157
 201606,"Departure","Colombia",4
 201606,"Departure","Cook Islands",12
 201606,"Departure","Costa Rica",2
@@ -5825,7 +5825,7 @@
 201606,"Departure","Japan",61
 201606,"Departure","Kenya",1
 201606,"Departure","Kiribati",4
-201606,"Departure","Korea, Republic of",50
+201606,"Departure","South Korea",50
 201606,"Departure","Kuwait",1
 201606,"Departure","Laos",2
 201606,"Departure","Latvia",1
@@ -5896,7 +5896,7 @@
 201606,"Net migration","Cambodia",13
 201606,"Net migration","Canada",-36
 201606,"Net migration","Chile",26
-201606,"Net migration","China, People's Republic of",560
+201606,"Net migration","China",560
 201606,"Net migration","Christmas Island",2
 201606,"Net migration","Colombia",-1
 201606,"Net migration","Cook Islands",5
@@ -5939,7 +5939,7 @@
 201606,"Net migration","Kazakhstan",6
 201606,"Net migration","Kenya",7
 201606,"Net migration","Kiribati",6
-201606,"Net migration","Korea, Republic of",145
+201606,"Net migration","South Korea",145
 201606,"Net migration","Kuwait",7
 201606,"Net migration","Laos",-1
 201606,"Net migration","Lebanon",30
@@ -6024,7 +6024,7 @@
 201607,"Arrival","Cambodia",12
 201607,"Arrival","Canada",146
 201607,"Arrival","Chile",36
-201607,"Arrival","China, People's Republic of",1910
+201607,"Arrival","China",1910
 201607,"Arrival","Colombia",10
 201607,"Arrival","Cook Islands",22
 201607,"Arrival","Costa Rica",3
@@ -6063,7 +6063,7 @@
 201607,"Arrival","Kazakhstan",6
 201607,"Arrival","Kenya",12
 201607,"Arrival","Kiribati",3
-201607,"Arrival","Korea, Republic of",266
+201607,"Arrival","South Korea",266
 201607,"Arrival","Kosovo",5
 201607,"Arrival","Kuwait",23
 201607,"Arrival","Latvia",1
@@ -6149,7 +6149,7 @@
 201607,"Departure","Cambodia",14
 201607,"Departure","Canada",154
 201607,"Departure","Chile",16
-201607,"Departure","China, People's Republic of",198
+201607,"Departure","China",198
 201607,"Departure","Colombia",3
 201607,"Departure","Cook Islands",19
 201607,"Departure","Costa Rica",1
@@ -6178,7 +6178,7 @@
 201607,"Departure","Jordan",1
 201607,"Departure","Kenya",2
 201607,"Departure","Kiribati",3
-201607,"Departure","Korea, Republic of",90
+201607,"Departure","South Korea",90
 201607,"Departure","Kuwait",2
 201607,"Departure","Laos",4
 201607,"Departure","Latvia",2
@@ -6255,7 +6255,7 @@
 201607,"Net migration","Cambodia",-2
 201607,"Net migration","Canada",-8
 201607,"Net migration","Chile",20
-201607,"Net migration","China, People's Republic of",1712
+201607,"Net migration","China",1712
 201607,"Net migration","Colombia",7
 201607,"Net migration","Cook Islands",3
 201607,"Net migration","Costa Rica",2
@@ -6292,7 +6292,7 @@
 201607,"Net migration","Jordan",4
 201607,"Net migration","Kazakhstan",6
 201607,"Net migration","Kenya",10
-201607,"Net migration","Korea, Republic of",176
+201607,"Net migration","South Korea",176
 201607,"Net migration","Kosovo",5
 201607,"Net migration","Kuwait",21
 201607,"Net migration","Laos",-4
@@ -6381,7 +6381,7 @@
 201608,"Arrival","Canada",188
 201608,"Arrival","Cayman Islands",2
 201608,"Arrival","Chile",42
-201608,"Arrival","China, People's Republic of",985
+201608,"Arrival","China",985
 201608,"Arrival","Colombia",11
 201608,"Arrival","Cook Islands",22
 201608,"Arrival","Croatia",18
@@ -6416,7 +6416,7 @@
 201608,"Arrival","Kazakhstan",1
 201608,"Arrival","Kenya",1
 201608,"Arrival","Kiribati",2
-201608,"Arrival","Korea, Republic of",196
+201608,"Arrival","South Korea",196
 201608,"Arrival","Kuwait",6
 201608,"Arrival","Kyrgyzstan",4
 201608,"Arrival","Latvia",6
@@ -6498,7 +6498,7 @@
 201608,"Departure","Canada",148
 201608,"Departure","Cayman Islands",2
 201608,"Departure","Chile",10
-201608,"Departure","China, People's Republic of",225
+201608,"Departure","China",225
 201608,"Departure","Colombia",2
 201608,"Departure","Cook Islands",20
 201608,"Departure","Croatia",6
@@ -6528,7 +6528,7 @@
 201608,"Departure","Jordan",8
 201608,"Departure","Kazakhstan",1
 201608,"Departure","Kenya",1
-201608,"Departure","Korea, Republic of",52
+201608,"Departure","South Korea",52
 201608,"Departure","Kuwait",8
 201608,"Departure","Laos",1
 201608,"Departure","Latvia",3
@@ -6604,7 +6604,7 @@
 201608,"Net migration","Cambodia",24
 201608,"Net migration","Canada",40
 201608,"Net migration","Chile",32
-201608,"Net migration","China, People's Republic of",760
+201608,"Net migration","China",760
 201608,"Net migration","Colombia",9
 201608,"Net migration","Cook Islands",2
 201608,"Net migration","Croatia",12
@@ -6639,7 +6639,7 @@
 201608,"Net migration","Japan",97
 201608,"Net migration","Jordan",-1
 201608,"Net migration","Kiribati",2
-201608,"Net migration","Korea, Republic of",144
+201608,"Net migration","South Korea",144
 201608,"Net migration","Kuwait",-2
 201608,"Net migration","Kyrgyzstan",4
 201608,"Net migration","Laos",-1
@@ -6730,7 +6730,7 @@
 201609,"Arrival","Canada",296
 201609,"Arrival","Cayman Islands",2
 201609,"Arrival","Chile",115
-201609,"Arrival","China, People's Republic of",1018
+201609,"Arrival","China",1018
 201609,"Arrival","Colombia",9
 201609,"Arrival","Congo, the Democratic Republic of the",4
 201609,"Arrival","Cook Islands",25
@@ -6770,7 +6770,7 @@
 201609,"Arrival","Kazakhstan",2
 201609,"Arrival","Kenya",6
 201609,"Arrival","Kiribati",10
-201609,"Arrival","Korea, Republic of",258
+201609,"Arrival","South Korea",258
 201609,"Arrival","Kuwait",3
 201609,"Arrival","Laos",6
 201609,"Arrival","Latvia",12
@@ -6850,7 +6850,7 @@
 201609,"Departure","Canada",137
 201609,"Departure","Cayman Islands",3
 201609,"Departure","Chile",19
-201609,"Departure","China, People's Republic of",168
+201609,"Departure","China",168
 201609,"Departure","Colombia",5
 201609,"Departure","Cook Islands",17
 201609,"Departure","Croatia",7
@@ -6873,7 +6873,7 @@
 201609,"Departure","Italy",22
 201609,"Departure","Japan",57
 201609,"Departure","Kenya",2
-201609,"Departure","Korea, Republic of",53
+201609,"Departure","South Korea",53
 201609,"Departure","Kosovo",1
 201609,"Departure","Malaysia",21
 201609,"Departure","Mexico",3
@@ -6937,7 +6937,7 @@
 201609,"Net migration","Canada",159
 201609,"Net migration","Cayman Islands",-1
 201609,"Net migration","Chile",96
-201609,"Net migration","China, People's Republic of",850
+201609,"Net migration","China",850
 201609,"Net migration","Colombia",4
 201609,"Net migration","Congo, the Democratic Republic of the",4
 201609,"Net migration","Cook Islands",8
@@ -6976,7 +6976,7 @@
 201609,"Net migration","Kazakhstan",2
 201609,"Net migration","Kenya",4
 201609,"Net migration","Kiribati",10
-201609,"Net migration","Korea, Republic of",205
+201609,"Net migration","South Korea",205
 201609,"Net migration","Kosovo",-1
 201609,"Net migration","Kuwait",3
 201609,"Net migration","Laos",6
@@ -7056,7 +7056,7 @@
 201610,"Arrival","Cambodia",17
 201610,"Arrival","Canada",251
 201610,"Arrival","Chile",116
-201610,"Arrival","China, People's Republic of",1021
+201610,"Arrival","China",1021
 201610,"Arrival","Colombia",3
 201610,"Arrival","Cook Islands",21
 201610,"Arrival","Costa Rica",1
@@ -7095,7 +7095,7 @@
 201610,"Arrival","Kazakhstan",9
 201610,"Arrival","Kenya",11
 201610,"Arrival","Kiribati",1
-201610,"Arrival","Korea, Republic of",200
+201610,"Arrival","South Korea",200
 201610,"Arrival","Kuwait",12
 201610,"Arrival","Kyrgyzstan",2
 201610,"Arrival","Latvia",6
@@ -7178,7 +7178,7 @@
 201610,"Departure","Canada",187
 201610,"Departure","Cayman Islands",1
 201610,"Departure","Chile",14
-201610,"Departure","China, People's Republic of",118
+201610,"Departure","China",118
 201610,"Departure","Colombia",2
 201610,"Departure","Cook Islands",29
 201610,"Departure","Czech Republic",10
@@ -7202,7 +7202,7 @@
 201610,"Departure","Jordan",2
 201610,"Departure","Kazakhstan",1
 201610,"Departure","Kiribati",2
-201610,"Departure","Korea, Republic of",58
+201610,"Departure","South Korea",58
 201610,"Departure","Kuwait",2
 201610,"Departure","Laos",1
 201610,"Departure","Luxembourg",2
@@ -7274,7 +7274,7 @@
 201610,"Net migration","Canada",64
 201610,"Net migration","Cayman Islands",-1
 201610,"Net migration","Chile",102
-201610,"Net migration","China, People's Republic of",903
+201610,"Net migration","China",903
 201610,"Net migration","Colombia",1
 201610,"Net migration","Cook Islands",-8
 201610,"Net migration","Costa Rica",1
@@ -7314,7 +7314,7 @@
 201610,"Net migration","Kazakhstan",8
 201610,"Net migration","Kenya",11
 201610,"Net migration","Kiribati",-1
-201610,"Net migration","Korea, Republic of",142
+201610,"Net migration","South Korea",142
 201610,"Net migration","Kuwait",10
 201610,"Net migration","Kyrgyzstan",2
 201610,"Net migration","Laos",-1
@@ -7406,7 +7406,7 @@
 201611,"Arrival","Canada",266
 201611,"Arrival","Cayman Islands",1
 201611,"Arrival","Chile",27
-201611,"Arrival","China, People's Republic of",742
+201611,"Arrival","China",742
 201611,"Arrival","Colombia",24
 201611,"Arrival","Cook Islands",16
 201611,"Arrival","Croatia",7
@@ -7441,7 +7441,7 @@
 201611,"Arrival","Kazakhstan",6
 201611,"Arrival","Kenya",2
 201611,"Arrival","Kiribati",1
-201611,"Arrival","Korea, Republic of",212
+201611,"Arrival","South Korea",212
 201611,"Arrival","Kuwait",17
 201611,"Arrival","Latvia",12
 201611,"Arrival","Lebanon",1
@@ -7526,7 +7526,7 @@
 201611,"Departure","Canada",202
 201611,"Departure","Chad",1
 201611,"Departure","Chile",27
-201611,"Departure","China, People's Republic of",189
+201611,"Departure","China",189
 201611,"Departure","Colombia",1
 201611,"Departure","Cook Islands",15
 201611,"Departure","Croatia",2
@@ -7558,7 +7558,7 @@
 201611,"Departure","Japan",82
 201611,"Departure","Kenya",2
 201611,"Departure","Kiribati",1
-201611,"Departure","Korea, Republic of",65
+201611,"Departure","South Korea",65
 201611,"Departure","Kuwait",1
 201611,"Departure","Laos",2
 201611,"Departure","Latvia",1
@@ -7635,7 +7635,7 @@
 201611,"Net migration","Canada",64
 201611,"Net migration","Cayman Islands",1
 201611,"Net migration","Chad",-1
-201611,"Net migration","China, People's Republic of",553
+201611,"Net migration","China",553
 201611,"Net migration","Colombia",23
 201611,"Net migration","Cook Islands",1
 201611,"Net migration","Croatia",5
@@ -7671,7 +7671,7 @@
 201611,"Net migration","Japan",93
 201611,"Net migration","Jordan",6
 201611,"Net migration","Kazakhstan",6
-201611,"Net migration","Korea, Republic of",147
+201611,"Net migration","South Korea",147
 201611,"Net migration","Kuwait",16
 201611,"Net migration","Laos",-2
 201611,"Net migration","Latvia",11
@@ -7761,7 +7761,7 @@
 201612,"Arrival","Canada",182
 201612,"Arrival","Cayman Islands",4
 201612,"Arrival","Chile",25
-201612,"Arrival","China, People's Republic of",640
+201612,"Arrival","China",640
 201612,"Arrival","Colombia",6
 201612,"Arrival","Cook Islands",36
 201612,"Arrival","Costa Rica",2
@@ -7797,7 +7797,7 @@
 201612,"Arrival","Jordan",7
 201612,"Arrival","Kenya",1
 201612,"Arrival","Kiribati",10
-201612,"Arrival","Korea, Republic of",183
+201612,"Arrival","South Korea",183
 201612,"Arrival","Kuwait",3
 201612,"Arrival","Laos",4
 201612,"Arrival","Latvia",4
@@ -7884,7 +7884,7 @@
 201612,"Departure","Canada",117
 201612,"Departure","Cayman Islands",4
 201612,"Departure","Chile",22
-201612,"Departure","China, People's Republic of",205
+201612,"Departure","China",205
 201612,"Departure","Colombia",6
 201612,"Departure","Cook Islands",33
 201612,"Departure","Costa Rica",1
@@ -7913,7 +7913,7 @@
 201612,"Departure","Jordan",3
 201612,"Departure","Kazakhstan",1
 201612,"Departure","Kiribati",5
-201612,"Departure","Korea, Republic of",147
+201612,"Departure","South Korea",147
 201612,"Departure","Kuwait",1
 201612,"Departure","Laos",8
 201612,"Departure","Latvia",3
@@ -7992,7 +7992,7 @@
 201612,"Net migration","Cambodia",3
 201612,"Net migration","Canada",65
 201612,"Net migration","Chile",3
-201612,"Net migration","China, People's Republic of",435
+201612,"Net migration","China",435
 201612,"Net migration","Cook Islands",3
 201612,"Net migration","Costa Rica",1
 201612,"Net migration","Croatia",1
@@ -8030,7 +8030,7 @@
 201612,"Net migration","Kazakhstan",-1
 201612,"Net migration","Kenya",1
 201612,"Net migration","Kiribati",5
-201612,"Net migration","Korea, Republic of",36
+201612,"Net migration","South Korea",36
 201612,"Net migration","Kuwait",2
 201612,"Net migration","Laos",-4
 201612,"Net migration","Latvia",1
@@ -8122,7 +8122,7 @@
 201701,"Arrival","Canada",276
 201701,"Arrival","Cayman Islands",4
 201701,"Arrival","Chile",35
-201701,"Arrival","China, People's Republic of",1574
+201701,"Arrival","China",1574
 201701,"Arrival","Colombia",9
 201701,"Arrival","Congo, the Democratic Republic of the",1
 201701,"Arrival","Cook Islands",34
@@ -8164,7 +8164,7 @@
 201701,"Arrival","Kazakhstan",5
 201701,"Arrival","Kenya",2
 201701,"Arrival","Kiribati",11
-201701,"Arrival","Korea, Republic of",400
+201701,"Arrival","South Korea",400
 201701,"Arrival","Kosovo",3
 201701,"Arrival","Kuwait",7
 201701,"Arrival","Laos",2
@@ -8246,7 +8246,7 @@
 201701,"Departure","Cambodia",6
 201701,"Departure","Canada",132
 201701,"Departure","Chile",34
-201701,"Departure","China, People's Republic of",214
+201701,"Departure","China",214
 201701,"Departure","Colombia",5
 201701,"Departure","Cook Islands",64
 201701,"Departure","Costa Rica",2
@@ -8275,7 +8275,7 @@
 201701,"Departure","Kazakhstan",1
 201701,"Departure","Kenya",1
 201701,"Departure","Kiribati",3
-201701,"Departure","Korea, Republic of",76
+201701,"Departure","South Korea",76
 201701,"Departure","Kuwait",1
 201701,"Departure","Laos",2
 201701,"Departure","Latvia",1
@@ -8342,7 +8342,7 @@
 201701,"Net migration","Canada",144
 201701,"Net migration","Cayman Islands",4
 201701,"Net migration","Chile",1
-201701,"Net migration","China, People's Republic of",1360
+201701,"Net migration","China",1360
 201701,"Net migration","Colombia",4
 201701,"Net migration","Congo, the Democratic Republic of the",1
 201701,"Net migration","Cook Islands",-30
@@ -8384,7 +8384,7 @@
 201701,"Net migration","Kazakhstan",4
 201701,"Net migration","Kenya",1
 201701,"Net migration","Kiribati",8
-201701,"Net migration","Korea, Republic of",324
+201701,"Net migration","South Korea",324
 201701,"Net migration","Kosovo",3
 201701,"Net migration","Kuwait",6
 201701,"Net migration","Lebanon",44
@@ -8473,7 +8473,7 @@
 201702,"Arrival","Cambodia",41
 201702,"Arrival","Canada",249
 201702,"Arrival","Chile",35
-201702,"Arrival","China, People's Republic of",1788
+201702,"Arrival","China",1788
 201702,"Arrival","Colombia",31
 201702,"Arrival","Cook Islands",66
 201702,"Arrival","Costa Rica",4
@@ -8512,7 +8512,7 @@
 201702,"Arrival","Kazakhstan",19
 201702,"Arrival","Kenya",29
 201702,"Arrival","Kiribati",19
-201702,"Arrival","Korea, Republic of",328
+201702,"Arrival","South Korea",328
 201702,"Arrival","Kosovo",6
 201702,"Arrival","Kuwait",8
 201702,"Arrival","Laos",27
@@ -8602,7 +8602,7 @@
 201702,"Departure","Cambodia",10
 201702,"Departure","Canada",121
 201702,"Departure","Chile",39
-201702,"Departure","China, People's Republic of",148
+201702,"Departure","China",148
 201702,"Departure","Colombia",9
 201702,"Departure","Cook Islands",26
 201702,"Departure","Costa Rica",1
@@ -8634,7 +8634,7 @@
 201702,"Departure","Japan",72
 201702,"Departure","Kenya",4
 201702,"Departure","Kiribati",5
-201702,"Departure","Korea, Republic of",100
+201702,"Departure","South Korea",100
 201702,"Departure","Malaysia",30
 201702,"Departure","Maldives",2
 201702,"Departure","Malta",2
@@ -8704,7 +8704,7 @@
 201702,"Net migration","Cambodia",31
 201702,"Net migration","Canada",128
 201702,"Net migration","Chile",-4
-201702,"Net migration","China, People's Republic of",1640
+201702,"Net migration","China",1640
 201702,"Net migration","Colombia",22
 201702,"Net migration","Cook Islands",40
 201702,"Net migration","Costa Rica",3
@@ -8745,7 +8745,7 @@
 201702,"Net migration","Kazakhstan",19
 201702,"Net migration","Kenya",25
 201702,"Net migration","Kiribati",14
-201702,"Net migration","Korea, Republic of",228
+201702,"Net migration","South Korea",228
 201702,"Net migration","Kosovo",6
 201702,"Net migration","Kuwait",8
 201702,"Net migration","Laos",27
@@ -8843,7 +8843,7 @@
 201703,"Arrival","Cameroon",2
 201703,"Arrival","Canada",173
 201703,"Arrival","Chile",109
-201703,"Arrival","China, People's Republic of",787
+201703,"Arrival","China",787
 201703,"Arrival","Colombia",8
 201703,"Arrival","Cook Islands",18
 201703,"Arrival","Croatia",3
@@ -8879,7 +8879,7 @@
 201703,"Arrival","Kazakhstan",10
 201703,"Arrival","Kenya",9
 201703,"Arrival","Kiribati",4
-201703,"Arrival","Korea, Republic of",236
+201703,"Arrival","South Korea",236
 201703,"Arrival","Kosovo",2
 201703,"Arrival","Kuwait",7
 201703,"Arrival","Kyrgyzstan",3
@@ -8966,7 +8966,7 @@
 201703,"Departure","Cameroon",1
 201703,"Departure","Canada",146
 201703,"Departure","Chile",17
-201703,"Departure","China, People's Republic of",206
+201703,"Departure","China",206
 201703,"Departure","Colombia",15
 201703,"Departure","Cook Islands",28
 201703,"Departure","Costa Rica",2
@@ -8997,7 +8997,7 @@
 201703,"Departure","Japan",144
 201703,"Departure","Kenya",1
 201703,"Departure","Kiribati",5
-201703,"Departure","Korea, Republic of",105
+201703,"Departure","South Korea",105
 201703,"Departure","Laos",3
 201703,"Departure","Latvia",1
 201703,"Departure","Libya",1
@@ -9075,7 +9075,7 @@
 201703,"Net migration","Cameroon",1
 201703,"Net migration","Canada",27
 201703,"Net migration","Chile",92
-201703,"Net migration","China, People's Republic of",581
+201703,"Net migration","China",581
 201703,"Net migration","Colombia",-7
 201703,"Net migration","Cook Islands",-10
 201703,"Net migration","Costa Rica",-2
@@ -9115,7 +9115,7 @@
 201703,"Net migration","Kazakhstan",10
 201703,"Net migration","Kenya",8
 201703,"Net migration","Kiribati",-1
-201703,"Net migration","Korea, Republic of",131
+201703,"Net migration","South Korea",131
 201703,"Net migration","Kosovo",2
 201703,"Net migration","Kuwait",7
 201703,"Net migration","Kyrgyzstan",3
@@ -9211,7 +9211,7 @@
 201704,"Arrival","Canada",126
 201704,"Arrival","Cayman Islands",4
 201704,"Arrival","Chile",51
-201704,"Arrival","China, People's Republic of",663
+201704,"Arrival","China",663
 201704,"Arrival","Colombia",15
 201704,"Arrival","Congo, the Democratic Republic of the",1
 201704,"Arrival","Cook Islands",21
@@ -9249,7 +9249,7 @@
 201704,"Arrival","Kazakhstan",1
 201704,"Arrival","Kenya",6
 201704,"Arrival","Kiribati",8
-201704,"Arrival","Korea, Republic of",152
+201704,"Arrival","South Korea",152
 201704,"Arrival","Kuwait",4
 201704,"Arrival","Laos",3
 201704,"Arrival","Latvia",3
@@ -9337,7 +9337,7 @@
 201704,"Departure","Cambodia",12
 201704,"Departure","Canada",239
 201704,"Departure","Chile",18
-201704,"Departure","China, People's Republic of",153
+201704,"Departure","China",153
 201704,"Departure","Colombia",7
 201704,"Departure","Cook Islands",19
 201704,"Departure","Croatia",2
@@ -9368,7 +9368,7 @@
 201704,"Departure","Italy",35
 201704,"Departure","Japan",117
 201704,"Departure","Kenya",1
-201704,"Departure","Korea, Republic of",51
+201704,"Departure","South Korea",51
 201704,"Departure","Laos",6
 201704,"Departure","Lebanon",1
 201704,"Departure","Madagascar",6
@@ -9432,7 +9432,7 @@
 201704,"Net migration","Canada",-113
 201704,"Net migration","Cayman Islands",4
 201704,"Net migration","Chile",33
-201704,"Net migration","China, People's Republic of",510
+201704,"Net migration","China",510
 201704,"Net migration","Colombia",8
 201704,"Net migration","Congo, the Democratic Republic of the",1
 201704,"Net migration","Cook Islands",2
@@ -9468,7 +9468,7 @@
 201704,"Net migration","Kazakhstan",1
 201704,"Net migration","Kenya",5
 201704,"Net migration","Kiribati",8
-201704,"Net migration","Korea, Republic of",101
+201704,"Net migration","South Korea",101
 201704,"Net migration","Kuwait",4
 201704,"Net migration","Laos",-3
 201704,"Net migration","Latvia",3
@@ -9557,7 +9557,7 @@
 201705,"Arrival","Cambodia",20
 201705,"Arrival","Canada",191
 201705,"Arrival","Chile",76
-201705,"Arrival","China, People's Republic of",554
+201705,"Arrival","China",554
 201705,"Arrival","Colombia",9
 201705,"Arrival","Cook Islands",16
 201705,"Arrival","Costa Rica",1
@@ -9591,7 +9591,7 @@
 201705,"Arrival","Jordan",12
 201705,"Arrival","Kenya",3
 201705,"Arrival","Kiribati",12
-201705,"Arrival","Korea, Republic of",176
+201705,"Arrival","South Korea",176
 201705,"Arrival","Kuwait",3
 201705,"Arrival","Laos",1
 201705,"Arrival","Latvia",6
@@ -9677,7 +9677,7 @@
 201705,"Departure","Cambodia",1
 201705,"Departure","Canada",293
 201705,"Departure","Chile",21
-201705,"Departure","China, People's Republic of",200
+201705,"Departure","China",200
 201705,"Departure","Colombia",3
 201705,"Departure","Cook Islands",20
 201705,"Departure","Croatia",7
@@ -9707,7 +9707,7 @@
 201705,"Departure","Jordan",1
 201705,"Departure","Kazakhstan",1
 201705,"Departure","Kenya",1
-201705,"Departure","Korea, Republic of",69
+201705,"Departure","South Korea",69
 201705,"Departure","Kuwait",2
 201705,"Departure","Laos",2
 201705,"Departure","Latvia",6
@@ -9781,7 +9781,7 @@
 201705,"Net migration","Cambodia",19
 201705,"Net migration","Canada",-102
 201705,"Net migration","Chile",55
-201705,"Net migration","China, People's Republic of",354
+201705,"Net migration","China",354
 201705,"Net migration","Colombia",6
 201705,"Net migration","Cook Islands",-4
 201705,"Net migration","Costa Rica",1
@@ -9817,7 +9817,7 @@
 201705,"Net migration","Kazakhstan",-1
 201705,"Net migration","Kenya",2
 201705,"Net migration","Kiribati",12
-201705,"Net migration","Korea, Republic of",107
+201705,"Net migration","South Korea",107
 201705,"Net migration","Kuwait",1
 201705,"Net migration","Laos",-1
 201705,"Net migration","Lebanon",58
@@ -9908,7 +9908,7 @@
 201706,"Arrival","Canada",137
 201706,"Arrival","Cayman Islands",1
 201706,"Arrival","Chile",57
-201706,"Arrival","China, People's Republic of",912
+201706,"Arrival","China",912
 201706,"Arrival","Colombia",14
 201706,"Arrival","Cook Islands",20
 201706,"Arrival","Costa Rica",3
@@ -9951,7 +9951,7 @@
 201706,"Arrival","Kazakhstan",3
 201706,"Arrival","Kenya",3
 201706,"Arrival","Kiribati",7
-201706,"Arrival","Korea, Republic of",249
+201706,"Arrival","South Korea",249
 201706,"Arrival","Kosovo",2
 201706,"Arrival","Kuwait",4
 201706,"Arrival","Laos",1
@@ -10038,7 +10038,7 @@
 201706,"Departure","Cambodia",7
 201706,"Departure","Canada",236
 201706,"Departure","Chile",22
-201706,"Departure","China, People's Republic of",219
+201706,"Departure","China",219
 201706,"Departure","Colombia",4
 201706,"Departure","Cook Islands",22
 201706,"Departure","Croatia",2
@@ -10067,7 +10067,7 @@
 201706,"Departure","Jordan",2
 201706,"Departure","Kenya",3
 201706,"Departure","Kiribati",1
-201706,"Departure","Korea, Republic of",93
+201706,"Departure","South Korea",93
 201706,"Departure","Kosovo",2
 201706,"Departure","Kuwait",2
 201706,"Departure","Laos",9
@@ -10145,7 +10145,7 @@
 201706,"Net migration","Canada",-99
 201706,"Net migration","Cayman Islands",1
 201706,"Net migration","Chile",35
-201706,"Net migration","China, People's Republic of",693
+201706,"Net migration","China",693
 201706,"Net migration","Colombia",10
 201706,"Net migration","Cook Islands",-2
 201706,"Net migration","Costa Rica",3
@@ -10186,7 +10186,7 @@
 201706,"Net migration","Jordan",3
 201706,"Net migration","Kazakhstan",3
 201706,"Net migration","Kiribati",6
-201706,"Net migration","Korea, Republic of",156
+201706,"Net migration","South Korea",156
 201706,"Net migration","Kuwait",2
 201706,"Net migration","Laos",-8
 201706,"Net migration","Latvia",3
@@ -10288,7 +10288,7 @@
 201707,"Arrival","Cameroon",1
 201707,"Arrival","Canada",193
 201707,"Arrival","Chile",29
-201707,"Arrival","China, People's Republic of",1592
+201707,"Arrival","China",1592
 201707,"Arrival","Colombia",14
 201707,"Arrival","Cook Islands",16
 201707,"Arrival","Costa Rica",1
@@ -10323,7 +10323,7 @@
 201707,"Arrival","Kazakhstan",8
 201707,"Arrival","Kenya",7
 201707,"Arrival","Kiribati",11
-201707,"Arrival","Korea, Republic of",275
+201707,"Arrival","South Korea",275
 201707,"Arrival","Kuwait",18
 201707,"Arrival","Kyrgyzstan",1
 201707,"Arrival","Laos",6
@@ -10416,7 +10416,7 @@
 201707,"Departure","Cambodia",10
 201707,"Departure","Canada",179
 201707,"Departure","Chile",16
-201707,"Departure","China, People's Republic of",270
+201707,"Departure","China",270
 201707,"Departure","Colombia",14
 201707,"Departure","Cook Islands",29
 201707,"Departure","Costa Rica",3
@@ -10451,7 +10451,7 @@
 201707,"Departure","Jordan",2
 201707,"Departure","Kenya",3
 201707,"Departure","Kiribati",3
-201707,"Departure","Korea, Republic of",117
+201707,"Departure","South Korea",117
 201707,"Departure","Kuwait",1
 201707,"Departure","Laos",5
 201707,"Departure","Latvia",1
@@ -10534,7 +10534,7 @@
 201707,"Net migration","Cameroon",1
 201707,"Net migration","Canada",14
 201707,"Net migration","Chile",13
-201707,"Net migration","China, People's Republic of",1322
+201707,"Net migration","China",1322
 201707,"Net migration","Cook Islands",-13
 201707,"Net migration","Costa Rica",-2
 201707,"Net migration","Croatia",-2
@@ -10571,7 +10571,7 @@
 201707,"Net migration","Kazakhstan",8
 201707,"Net migration","Kenya",4
 201707,"Net migration","Kiribati",8
-201707,"Net migration","Korea, Republic of",158
+201707,"Net migration","South Korea",158
 201707,"Net migration","Kuwait",17
 201707,"Net migration","Kyrgyzstan",1
 201707,"Net migration","Laos",1
@@ -10681,7 +10681,7 @@
 201708,"Arrival","Canada",190
 201708,"Arrival","Cayman Islands",4
 201708,"Arrival","Chile",40
-201708,"Arrival","China, People's Republic of",905
+201708,"Arrival","China",905
 201708,"Arrival","Colombia",18
 201708,"Arrival","Cook Islands",19
 201708,"Arrival","Costa Rica",1
@@ -10719,7 +10719,7 @@
 201708,"Arrival","Kazakhstan",5
 201708,"Arrival","Kenya",2
 201708,"Arrival","Kiribati",4
-201708,"Arrival","Korea, Republic of",213
+201708,"Arrival","South Korea",213
 201708,"Arrival","Kosovo",1
 201708,"Arrival","Kuwait",4
 201708,"Arrival","Kyrgyzstan",3
@@ -10805,7 +10805,7 @@
 201708,"Departure","Cambodia",7
 201708,"Departure","Canada",143
 201708,"Departure","Chile",16
-201708,"Departure","China, People's Republic of",247
+201708,"Departure","China",247
 201708,"Departure","Colombia",6
 201708,"Departure","Cook Islands",22
 201708,"Departure","Croatia",2
@@ -10833,7 +10833,7 @@
 201708,"Departure","Japan",68
 201708,"Departure","Jordan",5
 201708,"Departure","Kenya",3
-201708,"Departure","Korea, Republic of",68
+201708,"Departure","South Korea",68
 201708,"Departure","Kuwait",7
 201708,"Departure","Laos",2
 201708,"Departure","Latvia",1
@@ -10911,7 +10911,7 @@
 201708,"Net migration","Canada",47
 201708,"Net migration","Cayman Islands",4
 201708,"Net migration","Chile",24
-201708,"Net migration","China, People's Republic of",658
+201708,"Net migration","China",658
 201708,"Net migration","Colombia",12
 201708,"Net migration","Cook Islands",-3
 201708,"Net migration","Costa Rica",1
@@ -10948,7 +10948,7 @@
 201708,"Net migration","Kazakhstan",5
 201708,"Net migration","Kenya",-1
 201708,"Net migration","Kiribati",4
-201708,"Net migration","Korea, Republic of",145
+201708,"Net migration","South Korea",145
 201708,"Net migration","Kosovo",1
 201708,"Net migration","Kuwait",-3
 201708,"Net migration","Kyrgyzstan",3
@@ -11041,7 +11041,7 @@
 201709,"Arrival","Cambodia",14
 201709,"Arrival","Canada",295
 201709,"Arrival","Chile",112
-201709,"Arrival","China, People's Republic of",953
+201709,"Arrival","China",953
 201709,"Arrival","Colombia",17
 201709,"Arrival","Congo, the Democratic Republic of the",1
 201709,"Arrival","Cook Islands",18
@@ -11081,7 +11081,7 @@
 201709,"Arrival","Kazakhstan",4
 201709,"Arrival","Kenya",2
 201709,"Arrival","Kiribati",7
-201709,"Arrival","Korea, Republic of",227
+201709,"Arrival","South Korea",227
 201709,"Arrival","Kuwait",7
 201709,"Arrival","Kyrgyzstan",1
 201709,"Arrival","Laos",16
@@ -11163,7 +11163,7 @@
 201709,"Departure","Canada",116
 201709,"Departure","Cayman Islands",1
 201709,"Departure","Chile",19
-201709,"Departure","China, People's Republic of",284
+201709,"Departure","China",284
 201709,"Departure","Colombia",7
 201709,"Departure","Cook Islands",5
 201709,"Departure","Cote d'Ivoire",2
@@ -11191,7 +11191,7 @@
 201709,"Departure","Italy",20
 201709,"Departure","Japan",74
 201709,"Departure","Kiribati",8
-201709,"Departure","Korea, Republic of",80
+201709,"Departure","South Korea",80
 201709,"Departure","Kuwait",1
 201709,"Departure","Latvia",3
 201709,"Departure","Luxembourg",1
@@ -11259,7 +11259,7 @@
 201709,"Net migration","Canada",179
 201709,"Net migration","Cayman Islands",-1
 201709,"Net migration","Chile",93
-201709,"Net migration","China, People's Republic of",669
+201709,"Net migration","China",669
 201709,"Net migration","Colombia",10
 201709,"Net migration","Congo, the Democratic Republic of the",1
 201709,"Net migration","Cook Islands",13
@@ -11300,7 +11300,7 @@
 201709,"Net migration","Kazakhstan",4
 201709,"Net migration","Kenya",2
 201709,"Net migration","Kiribati",-1
-201709,"Net migration","Korea, Republic of",147
+201709,"Net migration","South Korea",147
 201709,"Net migration","Kuwait",6
 201709,"Net migration","Kyrgyzstan",1
 201709,"Net migration","Laos",16
@@ -11393,7 +11393,7 @@
 201710,"Arrival","Canada",298
 201710,"Arrival","Cayman Islands",5
 201710,"Arrival","Chile",86
-201710,"Arrival","China, People's Republic of",988
+201710,"Arrival","China",988
 201710,"Arrival","Colombia",15
 201710,"Arrival","Cook Islands",29
 201710,"Arrival","Costa Rica",1
@@ -11432,7 +11432,7 @@
 201710,"Arrival","Kazakhstan",7
 201710,"Arrival","Kenya",13
 201710,"Arrival","Kiribati",5
-201710,"Arrival","Korea, Republic of",192
+201710,"Arrival","South Korea",192
 201710,"Arrival","Kuwait",13
 201710,"Arrival","Laos",4
 201710,"Arrival","Latvia",2
@@ -11514,7 +11514,7 @@
 201710,"Departure","Canada",157
 201710,"Departure","Chad",5
 201710,"Departure","Chile",24
-201710,"Departure","China, People's Republic of",168
+201710,"Departure","China",168
 201710,"Departure","Colombia",4
 201710,"Departure","Cook Islands",17
 201710,"Departure","Costa Rica",2
@@ -11539,7 +11539,7 @@
 201710,"Departure","Italy",14
 201710,"Departure","Japan",96
 201710,"Departure","Kazakhstan",1
-201710,"Departure","Korea, Republic of",59
+201710,"Departure","South Korea",59
 201710,"Departure","Kuwait",1
 201710,"Departure","Latvia",3
 201710,"Departure","Lithuania",2
@@ -11611,7 +11611,7 @@
 201710,"Net migration","Cayman Islands",5
 201710,"Net migration","Chad",-5
 201710,"Net migration","Chile",62
-201710,"Net migration","China, People's Republic of",820
+201710,"Net migration","China",820
 201710,"Net migration","Colombia",11
 201710,"Net migration","Cook Islands",12
 201710,"Net migration","Costa Rica",-1
@@ -11651,7 +11651,7 @@
 201710,"Net migration","Kazakhstan",6
 201710,"Net migration","Kenya",13
 201710,"Net migration","Kiribati",5
-201710,"Net migration","Korea, Republic of",133
+201710,"Net migration","South Korea",133
 201710,"Net migration","Kuwait",12
 201710,"Net migration","Laos",4
 201710,"Net migration","Latvia",-1
@@ -11744,7 +11744,7 @@
 201711,"Arrival","Canada",308
 201711,"Arrival","Cayman Islands",3
 201711,"Arrival","Chile",40
-201711,"Arrival","China, People's Republic of",720
+201711,"Arrival","China",720
 201711,"Arrival","Colombia",7
 201711,"Arrival","Congo, the Democratic Republic of the",1
 201711,"Arrival","Cook Islands",9
@@ -11783,7 +11783,7 @@
 201711,"Arrival","Kazakhstan",7
 201711,"Arrival","Kenya",5
 201711,"Arrival","Kiribati",7
-201711,"Arrival","Korea, Republic of",189
+201711,"Arrival","South Korea",189
 201711,"Arrival","Kosovo",1
 201711,"Arrival","Kuwait",8
 201711,"Arrival","Kyrgyzstan",1
@@ -11867,7 +11867,7 @@
 201711,"Departure","Canada",173
 201711,"Departure","Chad",1
 201711,"Departure","Chile",40
-201711,"Departure","China, People's Republic of",290
+201711,"Departure","China",290
 201711,"Departure","Colombia",11
 201711,"Departure","Cook Islands",15
 201711,"Departure","Cote d'Ivoire",1
@@ -11899,7 +11899,7 @@
 201711,"Departure","Jordan",4
 201711,"Departure","Kazakhstan",1
 201711,"Departure","Kiribati",4
-201711,"Departure","Korea, Republic of",72
+201711,"Departure","South Korea",72
 201711,"Departure","Kuwait",1
 201711,"Departure","Laos",2
 201711,"Departure","Latvia",2
@@ -11980,7 +11980,7 @@
 201711,"Net migration","Canada",135
 201711,"Net migration","Cayman Islands",3
 201711,"Net migration","Chad",-1
-201711,"Net migration","China, People's Republic of",430
+201711,"Net migration","China",430
 201711,"Net migration","Colombia",-4
 201711,"Net migration","Congo, the Democratic Republic of the",1
 201711,"Net migration","Cook Islands",-6
@@ -12019,7 +12019,7 @@
 201711,"Net migration","Kazakhstan",6
 201711,"Net migration","Kenya",5
 201711,"Net migration","Kiribati",3
-201711,"Net migration","Korea, Republic of",117
+201711,"Net migration","South Korea",117
 201711,"Net migration","Kosovo",1
 201711,"Net migration","Kuwait",7
 201711,"Net migration","Kyrgyzstan",1
@@ -12109,7 +12109,7 @@
 201712,"Arrival","Canada",235
 201712,"Arrival","Cayman Islands",1
 201712,"Arrival","Chile",38
-201712,"Arrival","China, People's Republic of",557
+201712,"Arrival","China",557
 201712,"Arrival","Colombia",11
 201712,"Arrival","Cook Islands",46
 201712,"Arrival","Croatia",9
@@ -12146,7 +12146,7 @@
 201712,"Arrival","Kazakhstan",8
 201712,"Arrival","Kenya",8
 201712,"Arrival","Kiribati",7
-201712,"Arrival","Korea, Republic of",175
+201712,"Arrival","South Korea",175
 201712,"Arrival","Kuwait",7
 201712,"Arrival","Laos",4
 201712,"Arrival","Latvia",2
@@ -12231,7 +12231,7 @@
 201712,"Departure","Cambodia",9
 201712,"Departure","Canada",180
 201712,"Departure","Chile",36
-201712,"Departure","China, People's Republic of",319
+201712,"Departure","China",319
 201712,"Departure","Colombia",13
 201712,"Departure","Cook Islands",36
 201712,"Departure","Costa Rica",5
@@ -12264,7 +12264,7 @@
 201712,"Departure","Kazakhstan",1
 201712,"Departure","Kenya",1
 201712,"Departure","Kiribati",10
-201712,"Departure","Korea, Republic of",145
+201712,"Departure","South Korea",145
 201712,"Departure","Kuwait",6
 201712,"Departure","Laos",4
 201712,"Departure","Lebanon",4
@@ -12340,7 +12340,7 @@
 201712,"Net migration","Canada",55
 201712,"Net migration","Cayman Islands",1
 201712,"Net migration","Chile",2
-201712,"Net migration","China, People's Republic of",238
+201712,"Net migration","China",238
 201712,"Net migration","Colombia",-2
 201712,"Net migration","Cook Islands",10
 201712,"Net migration","Costa Rica",-5
@@ -12380,7 +12380,7 @@
 201712,"Net migration","Kazakhstan",7
 201712,"Net migration","Kenya",7
 201712,"Net migration","Kiribati",-3
-201712,"Net migration","Korea, Republic of",30
+201712,"Net migration","South Korea",30
 201712,"Net migration","Kuwait",1
 201712,"Net migration","Latvia",2
 201712,"Net migration","Lebanon",-3
@@ -12478,7 +12478,7 @@
 201801,"Arrival","Canada",325
 201801,"Arrival","Cayman Islands",4
 201801,"Arrival","Chile",37
-201801,"Arrival","China, People's Republic of",1637
+201801,"Arrival","China",1637
 201801,"Arrival","Colombia",6
 201801,"Arrival","Congo",2
 201801,"Arrival","Cook Islands",25
@@ -12519,7 +12519,7 @@
 201801,"Arrival","Kazakhstan",1
 201801,"Arrival","Kenya",2
 201801,"Arrival","Kiribati",15
-201801,"Arrival","Korea, Republic of",449
+201801,"Arrival","South Korea",449
 201801,"Arrival","Kuwait",7
 201801,"Arrival","Laos",10
 201801,"Arrival","Latvia",4
@@ -12603,7 +12603,7 @@
 201801,"Departure","Cambodia",4
 201801,"Departure","Canada",141
 201801,"Departure","Chile",27
-201801,"Departure","China, People's Republic of",244
+201801,"Departure","China",244
 201801,"Departure","Colombia",7
 201801,"Departure","Cook Islands",65
 201801,"Departure","Costa Rica",2
@@ -12635,7 +12635,7 @@
 201801,"Departure","Japan",83
 201801,"Departure","Kenya",1
 201801,"Departure","Kiribati",3
-201801,"Departure","Korea, Republic of",152
+201801,"Departure","South Korea",152
 201801,"Departure","Laos",1
 201801,"Departure","Lithuania",1
 201801,"Departure","Macau (Special Administrative Region)",3
@@ -12713,7 +12713,7 @@
 201801,"Net migration","Canada",184
 201801,"Net migration","Cayman Islands",4
 201801,"Net migration","Chile",10
-201801,"Net migration","China, People's Republic of",1393
+201801,"Net migration","China",1393
 201801,"Net migration","Colombia",-1
 201801,"Net migration","Congo",2
 201801,"Net migration","Cook Islands",-40
@@ -12753,7 +12753,7 @@
 201801,"Net migration","Kazakhstan",1
 201801,"Net migration","Kenya",1
 201801,"Net migration","Kiribati",12
-201801,"Net migration","Korea, Republic of",297
+201801,"Net migration","South Korea",297
 201801,"Net migration","Kuwait",7
 201801,"Net migration","Laos",9
 201801,"Net migration","Latvia",4

@@ -18,7 +18,7 @@
 201502,"Overseas visitor","Arrival","Canada",8768
 201502,"Overseas visitor","Arrival","Cayman Islands",32
 201502,"Overseas visitor","Arrival","Chile",752
-201502,"Overseas visitor","Arrival","China, People's Republic of",55968
+201502,"Overseas visitor","Arrival","China",55968
 201502,"Overseas visitor","Arrival","Colombia",96
 201502,"Overseas visitor","Arrival","Cook Islands",816
 201502,"Overseas visitor","Arrival","Costa Rica",48
@@ -45,7 +45,7 @@
 201502,"Overseas visitor","Arrival","Greece",64
 201502,"Overseas visitor","Arrival","Guam",32
 201502,"Overseas visitor","Arrival","Guatemala",16
-201502,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4064
+201502,"Overseas visitor","Arrival","Hong Kong",4064
 201502,"Overseas visitor","Arrival","Hungary",288
 201502,"Overseas visitor","Arrival","Iceland",32
 201502,"Overseas visitor","Arrival","India",4352
@@ -154,7 +154,7 @@
 201502,"Overseas visitor","Departure","Cambodia",26
 201502,"Overseas visitor","Departure","Canada",7592
 201502,"Overseas visitor","Departure","Chile",624
-201502,"Overseas visitor","Departure","China, People's Republic of",48308
+201502,"Overseas visitor","Departure","China",48308
 201502,"Overseas visitor","Departure","Colombia",52
 201502,"Overseas visitor","Departure","Cook Islands",832
 201502,"Overseas visitor","Departure","Costa Rica",26
@@ -178,7 +178,7 @@
 201502,"Overseas visitor","Departure","Greenland",26
 201502,"Overseas visitor","Departure","Guam",104
 201502,"Overseas visitor","Departure","Guatemala",26
-201502,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3432
+201502,"Overseas visitor","Departure","Hong Kong",3432
 201502,"Overseas visitor","Departure","Hungary",286
 201502,"Overseas visitor","Departure","Iceland",26
 201502,"Overseas visitor","Departure","India",3952
@@ -284,7 +284,7 @@
 201503,"Overseas visitor","Arrival","Canada",5936
 201503,"Overseas visitor","Arrival","Cayman Islands",16
 201503,"Overseas visitor","Arrival","Chile",512
-201503,"Overseas visitor","Arrival","China, People's Republic of",30864
+201503,"Overseas visitor","Arrival","China",30864
 201503,"Overseas visitor","Arrival","Colombia",112
 201503,"Overseas visitor","Arrival","Cook Islands",848
 201503,"Overseas visitor","Arrival","Costa Rica",16
@@ -307,7 +307,7 @@
 201503,"Overseas visitor","Arrival","Greece",64
 201503,"Overseas visitor","Arrival","Guam",32
 201503,"Overseas visitor","Arrival","Guatemala",16
-201503,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3552
+201503,"Overseas visitor","Arrival","Hong Kong",3552
 201503,"Overseas visitor","Arrival","Hungary",64
 201503,"Overseas visitor","Arrival","Iceland",32
 201503,"Overseas visitor","Arrival","India",5024
@@ -425,7 +425,7 @@
 201503,"Overseas visitor","Departure","Cambodia",52
 201503,"Overseas visitor","Departure","Canada",8398
 201503,"Overseas visitor","Departure","Chile",702
-201503,"Overseas visitor","Departure","China, People's Republic of",40482
+201503,"Overseas visitor","Departure","China",40482
 201503,"Overseas visitor","Departure","Colombia",104
 201503,"Overseas visitor","Departure","Cook Islands",806
 201503,"Overseas visitor","Departure","Croatia",52
@@ -441,7 +441,7 @@
 201503,"Overseas visitor","Departure","Germany",13858
 201503,"Overseas visitor","Departure","Gibraltar",26
 201503,"Overseas visitor","Departure","Guam",26
-201503,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3406
+201503,"Overseas visitor","Departure","Hong Kong",3406
 201503,"Overseas visitor","Departure","Hungary",260
 201503,"Overseas visitor","Departure","India",5668
 201503,"Overseas visitor","Departure","Indonesia",858
@@ -540,7 +540,7 @@
 201504,"Overseas visitor","Arrival","Canada",3424
 201504,"Overseas visitor","Arrival","Cayman Islands",32
 201504,"Overseas visitor","Arrival","Chile",512
-201504,"Overseas visitor","Arrival","China, People's Republic of",31024
+201504,"Overseas visitor","Arrival","China",31024
 201504,"Overseas visitor","Arrival","Colombia",128
 201504,"Overseas visitor","Arrival","Cook Islands",1040
 201504,"Overseas visitor","Arrival","Costa Rica",16
@@ -562,7 +562,7 @@
 201504,"Overseas visitor","Arrival","Guam",32
 201504,"Overseas visitor","Arrival","Guinea",16
 201504,"Overseas visitor","Arrival","Guyana",16
-201504,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3008
+201504,"Overseas visitor","Arrival","Hong Kong",3008
 201504,"Overseas visitor","Arrival","Hungary",80
 201504,"Overseas visitor","Arrival","Iceland",96
 201504,"Overseas visitor","Arrival","India",4368
@@ -661,7 +661,7 @@
 201504,"Overseas visitor","Departure","Cambodia",104
 201504,"Overseas visitor","Departure","Canada",5408
 201504,"Overseas visitor","Departure","Chile",338
-201504,"Overseas visitor","Departure","China, People's Republic of",30368
+201504,"Overseas visitor","Departure","China",30368
 201504,"Overseas visitor","Departure","Colombia",78
 201504,"Overseas visitor","Departure","Cook Islands",1092
 201504,"Overseas visitor","Departure","Costa Rica",26
@@ -680,7 +680,7 @@
 201504,"Overseas visitor","Departure","Greece",52
 201504,"Overseas visitor","Departure","Guam",26
 201504,"Overseas visitor","Departure","Guatemala",52
-201504,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3926
+201504,"Overseas visitor","Departure","Hong Kong",3926
 201504,"Overseas visitor","Departure","Hungary",156
 201504,"Overseas visitor","Departure","Iceland",78
 201504,"Overseas visitor","Departure","India",3978
@@ -775,7 +775,7 @@
 201505,"Overseas visitor","Arrival","Canada",2480
 201505,"Overseas visitor","Arrival","Cayman Islands",16
 201505,"Overseas visitor","Arrival","Chile",368
-201505,"Overseas visitor","Arrival","China, People's Republic of",24704
+201505,"Overseas visitor","Arrival","China",24704
 201505,"Overseas visitor","Arrival","Colombia",128
 201505,"Overseas visitor","Arrival","Comoros",16
 201505,"Overseas visitor","Arrival","Cook Islands",832
@@ -799,7 +799,7 @@
 201505,"Overseas visitor","Arrival","Greece",16
 201505,"Overseas visitor","Arrival","Guam",16
 201505,"Overseas visitor","Arrival","Honduras",32
-201505,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2144
+201505,"Overseas visitor","Arrival","Hong Kong",2144
 201505,"Overseas visitor","Arrival","Hungary",48
 201505,"Overseas visitor","Arrival","Iceland",16
 201505,"Overseas visitor","Arrival","India",5120
@@ -906,7 +906,7 @@
 201505,"Overseas visitor","Departure","Cambodia",104
 201505,"Overseas visitor","Departure","Canada",3406
 201505,"Overseas visitor","Departure","Chile",286
-201505,"Overseas visitor","Departure","China, People's Republic of",28912
+201505,"Overseas visitor","Departure","China",28912
 201505,"Overseas visitor","Departure","Colombia",78
 201505,"Overseas visitor","Departure","Congo, the Democratic Republic of the",26
 201505,"Overseas visitor","Departure","Cook Islands",832
@@ -925,7 +925,7 @@
 201505,"Overseas visitor","Departure","Ghana",52
 201505,"Overseas visitor","Departure","Greece",26
 201505,"Overseas visitor","Departure","Guam",26
-201505,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2314
+201505,"Overseas visitor","Departure","Hong Kong",2314
 201505,"Overseas visitor","Departure","Hungary",52
 201505,"Overseas visitor","Departure","Iceland",52
 201505,"Overseas visitor","Departure","India",4862
@@ -1017,7 +1017,7 @@
 201506,"Overseas visitor","Arrival","Canada",1792
 201506,"Overseas visitor","Arrival","Cayman Islands",32
 201506,"Overseas visitor","Arrival","Chile",336
-201506,"Overseas visitor","Arrival","China, People's Republic of",16176
+201506,"Overseas visitor","Arrival","China",16176
 201506,"Overseas visitor","Arrival","Colombia",112
 201506,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
 201506,"Overseas visitor","Arrival","Cook Islands",640
@@ -1041,7 +1041,7 @@
 201506,"Overseas visitor","Arrival","Ghana",16
 201506,"Overseas visitor","Arrival","Greece",32
 201506,"Overseas visitor","Arrival","Guam",16
-201506,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2016
+201506,"Overseas visitor","Arrival","Hong Kong",2016
 201506,"Overseas visitor","Arrival","Hungary",32
 201506,"Overseas visitor","Arrival","Iceland",32
 201506,"Overseas visitor","Arrival","India",2496
@@ -1138,7 +1138,7 @@
 201506,"Overseas visitor","Departure","Cambodia",52
 201506,"Overseas visitor","Departure","Canada",2132
 201506,"Overseas visitor","Departure","Chile",286
-201506,"Overseas visitor","Departure","China, People's Republic of",16432
+201506,"Overseas visitor","Departure","China",16432
 201506,"Overseas visitor","Departure","Colombia",104
 201506,"Overseas visitor","Departure","Cook Islands",624
 201506,"Overseas visitor","Departure","Cuba",26
@@ -1156,7 +1156,7 @@
 201506,"Overseas visitor","Departure","Greece",52
 201506,"Overseas visitor","Departure","Guatemala",26
 201506,"Overseas visitor","Departure","Honduras",52
-201506,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",1378
+201506,"Overseas visitor","Departure","Hong Kong",1378
 201506,"Overseas visitor","Departure","Hungary",78
 201506,"Overseas visitor","Departure","Iceland",52
 201506,"Overseas visitor","Departure","India",3146
@@ -1246,7 +1246,7 @@
 201507,"Overseas visitor","Arrival","Canada",2352
 201507,"Overseas visitor","Arrival","Cayman Islands",16
 201507,"Overseas visitor","Arrival","Chile",480
-201507,"Overseas visitor","Arrival","China, People's Republic of",20016
+201507,"Overseas visitor","Arrival","China",20016
 201507,"Overseas visitor","Arrival","Colombia",112
 201507,"Overseas visitor","Arrival","Cook Islands",832
 201507,"Overseas visitor","Arrival","Croatia",32
@@ -1266,7 +1266,7 @@
 201507,"Overseas visitor","Arrival","Germany",3152
 201507,"Overseas visitor","Arrival","Greece",32
 201507,"Overseas visitor","Arrival","Guam",32
-201507,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2864
+201507,"Overseas visitor","Arrival","Hong Kong",2864
 201507,"Overseas visitor","Arrival","Hungary",48
 201507,"Overseas visitor","Arrival","India",1808
 201507,"Overseas visitor","Arrival","Indonesia",4096
@@ -1358,7 +1358,7 @@
 201507,"Overseas visitor","Departure","Cambodia",52
 201507,"Overseas visitor","Departure","Canada",2444
 201507,"Overseas visitor","Departure","Chile",468
-201507,"Overseas visitor","Departure","China, People's Republic of",16640
+201507,"Overseas visitor","Departure","China",16640
 201507,"Overseas visitor","Departure","Colombia",234
 201507,"Overseas visitor","Departure","Cook Islands",676
 201507,"Overseas visitor","Departure","Cyprus",26
@@ -1376,7 +1376,7 @@
 201507,"Overseas visitor","Departure","Ghana",26
 201507,"Overseas visitor","Departure","Greece",78
 201507,"Overseas visitor","Departure","Grenada",26
-201507,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2132
+201507,"Overseas visitor","Departure","Hong Kong",2132
 201507,"Overseas visitor","Departure","Hungary",26
 201507,"Overseas visitor","Departure","India",1924
 201507,"Overseas visitor","Departure","Indonesia",4238
@@ -1465,7 +1465,7 @@
 201508,"Overseas visitor","Arrival","Canada",2320
 201508,"Overseas visitor","Arrival","Cayman Islands",32
 201508,"Overseas visitor","Arrival","Chile",368
-201508,"Overseas visitor","Arrival","China, People's Republic of",25120
+201508,"Overseas visitor","Arrival","China",25120
 201508,"Overseas visitor","Arrival","Colombia",96
 201508,"Overseas visitor","Arrival","Cook Islands",640
 201508,"Overseas visitor","Arrival","Croatia",16
@@ -1486,7 +1486,7 @@
 201508,"Overseas visitor","Arrival","Greece",16
 201508,"Overseas visitor","Arrival","Guam",16
 201508,"Overseas visitor","Arrival","Guatemala",16
-201508,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2576
+201508,"Overseas visitor","Arrival","Hong Kong",2576
 201508,"Overseas visitor","Arrival","Hungary",48
 201508,"Overseas visitor","Arrival","Iceland",16
 201508,"Overseas visitor","Arrival","India",2352
@@ -1589,7 +1589,7 @@
 201508,"Overseas visitor","Departure","Cambodia",130
 201508,"Overseas visitor","Departure","Canada",2600
 201508,"Overseas visitor","Departure","Chile",312
-201508,"Overseas visitor","Departure","China, People's Republic of",27222
+201508,"Overseas visitor","Departure","China",27222
 201508,"Overseas visitor","Departure","Colombia",130
 201508,"Overseas visitor","Departure","Cook Islands",624
 201508,"Overseas visitor","Departure","Costa Rica",26
@@ -1612,7 +1612,7 @@
 201508,"Overseas visitor","Departure","Guam",26
 201508,"Overseas visitor","Departure","Guatemala",26
 201508,"Overseas visitor","Departure","Guyana",26
-201508,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3328
+201508,"Overseas visitor","Departure","Hong Kong",3328
 201508,"Overseas visitor","Departure","Hungary",52
 201508,"Overseas visitor","Departure","India",2132
 201508,"Overseas visitor","Departure","Indonesia",858
@@ -1698,7 +1698,7 @@
 201509,"Overseas visitor","Arrival","Canada",2496
 201509,"Overseas visitor","Arrival","Cayman Islands",16
 201509,"Overseas visitor","Arrival","Chile",464
-201509,"Overseas visitor","Arrival","China, People's Republic of",25840
+201509,"Overseas visitor","Arrival","China",25840
 201509,"Overseas visitor","Arrival","Colombia",96
 201509,"Overseas visitor","Arrival","Cook Islands",896
 201509,"Overseas visitor","Arrival","Costa Rica",16
@@ -1721,7 +1721,7 @@
 201509,"Overseas visitor","Arrival","Greece",48
 201509,"Overseas visitor","Arrival","Guam",16
 201509,"Overseas visitor","Arrival","Guatemala",16
-201509,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2080
+201509,"Overseas visitor","Arrival","Hong Kong",2080
 201509,"Overseas visitor","Arrival","Hungary",64
 201509,"Overseas visitor","Arrival","Iceland",16
 201509,"Overseas visitor","Arrival","India",3024
@@ -1823,7 +1823,7 @@
 201509,"Overseas visitor","Departure","Canada",2366
 201509,"Overseas visitor","Departure","Cayman Islands",26
 201509,"Overseas visitor","Departure","Chile",338
-201509,"Overseas visitor","Departure","China, People's Republic of",18434
+201509,"Overseas visitor","Departure","China",18434
 201509,"Overseas visitor","Departure","Colombia",104
 201509,"Overseas visitor","Departure","Cook Islands",858
 201509,"Overseas visitor","Departure","Costa Rica",26
@@ -1840,7 +1840,7 @@
 201509,"Overseas visitor","Departure","Ghana",26
 201509,"Overseas visitor","Departure","Greece",26
 201509,"Overseas visitor","Departure","Guatemala",26
-201509,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",1222
+201509,"Overseas visitor","Departure","Hong Kong",1222
 201509,"Overseas visitor","Departure","Hungary",78
 201509,"Overseas visitor","Departure","Iceland",52
 201509,"Overseas visitor","Departure","India",2002
@@ -1928,7 +1928,7 @@
 201510,"Overseas visitor","Arrival","Cambodia",112
 201510,"Overseas visitor","Arrival","Canada",3216
 201510,"Overseas visitor","Arrival","Chile",464
-201510,"Overseas visitor","Arrival","China, People's Republic of",27040
+201510,"Overseas visitor","Arrival","China",27040
 201510,"Overseas visitor","Arrival","Colombia",96
 201510,"Overseas visitor","Arrival","Cook Islands",928
 201510,"Overseas visitor","Arrival","Croatia",32
@@ -1949,7 +1949,7 @@
 201510,"Overseas visitor","Arrival","Greece",112
 201510,"Overseas visitor","Arrival","Guam",32
 201510,"Overseas visitor","Arrival","Guatemala",16
-201510,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2480
+201510,"Overseas visitor","Arrival","Hong Kong",2480
 201510,"Overseas visitor","Arrival","Hungary",80
 201510,"Overseas visitor","Arrival","India",3488
 201510,"Overseas visitor","Arrival","Indonesia",928
@@ -2053,7 +2053,7 @@
 201510,"Overseas visitor","Departure","Cambodia",78
 201510,"Overseas visitor","Departure","Canada",2782
 201510,"Overseas visitor","Departure","Chile",260
-201510,"Overseas visitor","Departure","China, People's Republic of",31538
+201510,"Overseas visitor","Departure","China",31538
 201510,"Overseas visitor","Departure","Colombia",52
 201510,"Overseas visitor","Departure","Cook Islands",988
 201510,"Overseas visitor","Departure","Czech Republic",130
@@ -2067,7 +2067,7 @@
 201510,"Overseas visitor","Departure","Germany",3068
 201510,"Overseas visitor","Departure","Greece",130
 201510,"Overseas visitor","Departure","Guam",26
-201510,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2704
+201510,"Overseas visitor","Departure","Hong Kong",2704
 201510,"Overseas visitor","Departure","Hungary",78
 201510,"Overseas visitor","Departure","India",2990
 201510,"Overseas visitor","Departure","Indonesia",728
@@ -2160,7 +2160,7 @@
 201511,"Overseas visitor","Arrival","Canada",6016
 201511,"Overseas visitor","Arrival","Cayman Islands",32
 201511,"Overseas visitor","Arrival","Chile",464
-201511,"Overseas visitor","Arrival","China, People's Republic of",36736
+201511,"Overseas visitor","Arrival","China",36736
 201511,"Overseas visitor","Arrival","Colombia",128
 201511,"Overseas visitor","Arrival","Cook Islands",896
 201511,"Overseas visitor","Arrival","Costa Rica",16
@@ -2181,7 +2181,7 @@
 201511,"Overseas visitor","Arrival","Ghana",16
 201511,"Overseas visitor","Arrival","Greece",64
 201511,"Overseas visitor","Arrival","Guam",48
-201511,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3248
+201511,"Overseas visitor","Arrival","Hong Kong",3248
 201511,"Overseas visitor","Arrival","Hungary",144
 201511,"Overseas visitor","Arrival","Iceland",48
 201511,"Overseas visitor","Arrival","India",4816
@@ -2292,7 +2292,7 @@
 201511,"Overseas visitor","Departure","Cambodia",78
 201511,"Overseas visitor","Departure","Canada",4784
 201511,"Overseas visitor","Departure","Chile",468
-201511,"Overseas visitor","Departure","China, People's Republic of",34502
+201511,"Overseas visitor","Departure","China",34502
 201511,"Overseas visitor","Departure","Colombia",78
 201511,"Overseas visitor","Departure","Cook Islands",754
 201511,"Overseas visitor","Departure","Costa Rica",26
@@ -2311,7 +2311,7 @@
 201511,"Overseas visitor","Departure","Gibraltar",26
 201511,"Overseas visitor","Departure","Greece",26
 201511,"Overseas visitor","Departure","Guyana",26
-201511,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2522
+201511,"Overseas visitor","Departure","Hong Kong",2522
 201511,"Overseas visitor","Departure","Hungary",130
 201511,"Overseas visitor","Departure","India",3666
 201511,"Overseas visitor","Departure","Indonesia",988
@@ -2412,7 +2412,7 @@
 201512,"Overseas visitor","Arrival","Canada",7056
 201512,"Overseas visitor","Arrival","Cayman Islands",32
 201512,"Overseas visitor","Arrival","Chile",816
-201512,"Overseas visitor","Arrival","China, People's Republic of",36736
+201512,"Overseas visitor","Arrival","China",36736
 201512,"Overseas visitor","Arrival","Colombia",208
 201512,"Overseas visitor","Arrival","Cook Islands",1328
 201512,"Overseas visitor","Arrival","Costa Rica",32
@@ -2440,7 +2440,7 @@
 201512,"Overseas visitor","Arrival","Greenland",16
 201512,"Overseas visitor","Arrival","Guam",48
 201512,"Overseas visitor","Arrival","Guatemala",16
-201512,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",6320
+201512,"Overseas visitor","Arrival","Hong Kong",6320
 201512,"Overseas visitor","Arrival","Hungary",240
 201512,"Overseas visitor","Arrival","Iceland",48
 201512,"Overseas visitor","Arrival","India",5952
@@ -2565,7 +2565,7 @@
 201512,"Overseas visitor","Departure","Cambodia",130
 201512,"Overseas visitor","Departure","Canada",5148
 201512,"Overseas visitor","Departure","Chile",546
-201512,"Overseas visitor","Departure","China, People's Republic of",37154
+201512,"Overseas visitor","Departure","China",37154
 201512,"Overseas visitor","Departure","Colombia",182
 201512,"Overseas visitor","Departure","Cook Islands",910
 201512,"Overseas visitor","Departure","Costa Rica",26
@@ -2582,7 +2582,7 @@
 201512,"Overseas visitor","Departure","Gibraltar",26
 201512,"Overseas visitor","Departure","Greece",104
 201512,"Overseas visitor","Departure","Guam",26
-201512,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",4992
+201512,"Overseas visitor","Departure","Hong Kong",4992
 201512,"Overseas visitor","Departure","Hungary",130
 201512,"Overseas visitor","Departure","Iceland",26
 201512,"Overseas visitor","Departure","India",4524
@@ -2686,7 +2686,7 @@
 201601,"Overseas visitor","Arrival","Canada",7488
 201601,"Overseas visitor","Arrival","Chad",16
 201601,"Overseas visitor","Arrival","Chile",864
-201601,"Overseas visitor","Arrival","China, People's Republic of",40848
+201601,"Overseas visitor","Arrival","China",40848
 201601,"Overseas visitor","Arrival","Colombia",176
 201601,"Overseas visitor","Arrival","Congo",16
 201601,"Overseas visitor","Arrival","Cook Islands",608
@@ -2711,7 +2711,7 @@
 201601,"Overseas visitor","Arrival","Guadeloupe",16
 201601,"Overseas visitor","Arrival","Guam",48
 201601,"Overseas visitor","Arrival","Guatemala",16
-201601,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2672
+201601,"Overseas visitor","Arrival","Hong Kong",2672
 201601,"Overseas visitor","Arrival","Hungary",256
 201601,"Overseas visitor","Arrival","Iceland",80
 201601,"Overseas visitor","Arrival","India",3776
@@ -2823,7 +2823,7 @@
 201601,"Overseas visitor","Departure","Canada",7566
 201601,"Overseas visitor","Departure","Cayman Islands",52
 201601,"Overseas visitor","Departure","Chile",832
-201601,"Overseas visitor","Departure","China, People's Republic of",30186
+201601,"Overseas visitor","Departure","China",30186
 201601,"Overseas visitor","Departure","Colombia",286
 201601,"Overseas visitor","Departure","Cook Islands",1300
 201601,"Overseas visitor","Departure","Costa Rica",52
@@ -2848,7 +2848,7 @@
 201601,"Overseas visitor","Departure","Greece",104
 201601,"Overseas visitor","Departure","Greenland",52
 201601,"Overseas visitor","Departure","Guam",52
-201601,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",4628
+201601,"Overseas visitor","Departure","Hong Kong",4628
 201601,"Overseas visitor","Departure","Hungary",156
 201601,"Overseas visitor","Departure","Iceland",52
 201601,"Overseas visitor","Departure","India",5174
@@ -2956,7 +2956,7 @@
 201602,"Overseas visitor","Arrival","Canada",9440
 201602,"Overseas visitor","Arrival","Cayman Islands",16
 201602,"Overseas visitor","Arrival","Chile",800
-201602,"Overseas visitor","Arrival","China, People's Republic of",53152
+201602,"Overseas visitor","Arrival","China",53152
 201602,"Overseas visitor","Arrival","Colombia",128
 201602,"Overseas visitor","Arrival","Cook Islands",848
 201602,"Overseas visitor","Arrival","Costa Rica",32
@@ -2981,7 +2981,7 @@
 201602,"Overseas visitor","Arrival","Greece",96
 201602,"Overseas visitor","Arrival","Guam",32
 201602,"Overseas visitor","Arrival","Guatemala",16
-201602,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4656
+201602,"Overseas visitor","Arrival","Hong Kong",4656
 201602,"Overseas visitor","Arrival","Hungary",240
 201602,"Overseas visitor","Arrival","Iceland",16
 201602,"Overseas visitor","Arrival","India",4320
@@ -3090,7 +3090,7 @@
 201602,"Overseas visitor","Departure","Cambodia",78
 201602,"Overseas visitor","Departure","Canada",8476
 201602,"Overseas visitor","Departure","Chile",858
-201602,"Overseas visitor","Departure","China, People's Republic of",62348
+201602,"Overseas visitor","Departure","China",62348
 201602,"Overseas visitor","Departure","Colombia",78
 201602,"Overseas visitor","Departure","Cook Islands",858
 201602,"Overseas visitor","Departure","Costa Rica",26
@@ -3109,7 +3109,7 @@
 201602,"Overseas visitor","Departure","Germany",13416
 201602,"Overseas visitor","Departure","Greece",52
 201602,"Overseas visitor","Departure","Guam",78
-201602,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",4420
+201602,"Overseas visitor","Departure","Hong Kong",4420
 201602,"Overseas visitor","Departure","Hungary",208
 201602,"Overseas visitor","Departure","Iceland",104
 201602,"Overseas visitor","Departure","India",3692
@@ -3202,7 +3202,7 @@
 201603,"Overseas visitor","Arrival","Canada",7152
 201603,"Overseas visitor","Arrival","Cayman Islands",32
 201603,"Overseas visitor","Arrival","Chile",656
-201603,"Overseas visitor","Arrival","China, People's Republic of",40448
+201603,"Overseas visitor","Arrival","China",40448
 201603,"Overseas visitor","Arrival","Colombia",128
 201603,"Overseas visitor","Arrival","Cook Islands",896
 201603,"Overseas visitor","Arrival","Costa Rica",16
@@ -3225,7 +3225,7 @@
 201603,"Overseas visitor","Arrival","Greece",80
 201603,"Overseas visitor","Arrival","Guam",48
 201603,"Overseas visitor","Arrival","Honduras",16
-201603,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",5248
+201603,"Overseas visitor","Arrival","Hong Kong",5248
 201603,"Overseas visitor","Arrival","Hungary",128
 201603,"Overseas visitor","Arrival","Iceland",48
 201603,"Overseas visitor","Arrival","India",4992
@@ -3338,7 +3338,7 @@
 201603,"Overseas visitor","Departure","Canada",9724
 201603,"Overseas visitor","Departure","Cayman Islands",26
 201603,"Overseas visitor","Departure","Chile",676
-201603,"Overseas visitor","Departure","China, People's Republic of",38714
+201603,"Overseas visitor","Departure","China",38714
 201603,"Overseas visitor","Departure","Colombia",104
 201603,"Overseas visitor","Departure","Cook Islands",780
 201603,"Overseas visitor","Departure","Cote d'Ivoire",26
@@ -3357,7 +3357,7 @@
 201603,"Overseas visitor","Departure","Gibraltar",26
 201603,"Overseas visitor","Departure","Greece",130
 201603,"Overseas visitor","Departure","Guam",26
-201603,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3614
+201603,"Overseas visitor","Departure","Hong Kong",3614
 201603,"Overseas visitor","Departure","Hungary",312
 201603,"Overseas visitor","Departure","Iceland",52
 201603,"Overseas visitor","Departure","India",5252
@@ -3451,7 +3451,7 @@
 201604,"Overseas visitor","Arrival","Canada",3600
 201604,"Overseas visitor","Arrival","Cayman Islands",16
 201604,"Overseas visitor","Arrival","Chile",608
-201604,"Overseas visitor","Arrival","China, People's Republic of",43392
+201604,"Overseas visitor","Arrival","China",43392
 201604,"Overseas visitor","Arrival","Colombia",128
 201604,"Overseas visitor","Arrival","Cook Islands",928
 201604,"Overseas visitor","Arrival","Costa Rica",48
@@ -3473,7 +3473,7 @@
 201604,"Overseas visitor","Arrival","Greece",48
 201604,"Overseas visitor","Arrival","Guadeloupe",16
 201604,"Overseas visitor","Arrival","Guam",32
-201604,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2864
+201604,"Overseas visitor","Arrival","Hong Kong",2864
 201604,"Overseas visitor","Arrival","Hungary",96
 201604,"Overseas visitor","Arrival","Iceland",64
 201604,"Overseas visitor","Arrival","India",4784
@@ -3578,7 +3578,7 @@
 201604,"Overseas visitor","Departure","Canada",5382
 201604,"Overseas visitor","Departure","Cayman Islands",26
 201604,"Overseas visitor","Departure","Chile",598
-201604,"Overseas visitor","Departure","China, People's Republic of",42276
+201604,"Overseas visitor","Departure","China",42276
 201604,"Overseas visitor","Departure","Colombia",52
 201604,"Overseas visitor","Departure","Cook Islands",988
 201604,"Overseas visitor","Departure","Costa Rica",78
@@ -3597,7 +3597,7 @@
 201604,"Overseas visitor","Departure","Germany",10946
 201604,"Overseas visitor","Departure","Greece",130
 201604,"Overseas visitor","Departure","Guam",26
-201604,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",4914
+201604,"Overseas visitor","Departure","Hong Kong",4914
 201604,"Overseas visitor","Departure","Hungary",130
 201604,"Overseas visitor","Departure","Iceland",130
 201604,"Overseas visitor","Departure","India",4108
@@ -3696,7 +3696,7 @@
 201605,"Overseas visitor","Arrival","Cambodia",80
 201605,"Overseas visitor","Arrival","Canada",2496
 201605,"Overseas visitor","Arrival","Chile",496
-201605,"Overseas visitor","Arrival","China, People's Republic of",29024
+201605,"Overseas visitor","Arrival","China",29024
 201605,"Overseas visitor","Arrival","Colombia",112
 201605,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
 201605,"Overseas visitor","Arrival","Cook Islands",880
@@ -3717,7 +3717,7 @@
 201605,"Overseas visitor","Arrival","Ghana",16
 201605,"Overseas visitor","Arrival","Greece",16
 201605,"Overseas visitor","Arrival","Guam",32
-201605,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2480
+201605,"Overseas visitor","Arrival","Hong Kong",2480
 201605,"Overseas visitor","Arrival","Hungary",48
 201605,"Overseas visitor","Arrival","Iceland",16
 201605,"Overseas visitor","Arrival","India",5856
@@ -3818,7 +3818,7 @@
 201605,"Overseas visitor","Departure","Cambodia",52
 201605,"Overseas visitor","Departure","Canada",3328
 201605,"Overseas visitor","Departure","Chile",572
-201605,"Overseas visitor","Departure","China, People's Republic of",35334
+201605,"Overseas visitor","Departure","China",35334
 201605,"Overseas visitor","Departure","Colombia",104
 201605,"Overseas visitor","Departure","Cook Islands",1040
 201605,"Overseas visitor","Departure","Costa Rica",26
@@ -3834,7 +3834,7 @@
 201605,"Overseas visitor","Departure","Germany",6058
 201605,"Overseas visitor","Departure","Greece",26
 201605,"Overseas visitor","Departure","Guam",26
-201605,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2886
+201605,"Overseas visitor","Departure","Hong Kong",2886
 201605,"Overseas visitor","Departure","Hungary",78
 201605,"Overseas visitor","Departure","Iceland",52
 201605,"Overseas visitor","Departure","India",5772
@@ -3933,7 +3933,7 @@
 201606,"Overseas visitor","Arrival","Cambodia",160
 201606,"Overseas visitor","Arrival","Canada",1840
 201606,"Overseas visitor","Arrival","Chile",512
-201606,"Overseas visitor","Arrival","China, People's Republic of",18576
+201606,"Overseas visitor","Arrival","China",18576
 201606,"Overseas visitor","Arrival","Colombia",144
 201606,"Overseas visitor","Arrival","Cook Islands",752
 201606,"Overseas visitor","Arrival","Costa Rica",16
@@ -3958,7 +3958,7 @@
 201606,"Overseas visitor","Arrival","Guam",48
 201606,"Overseas visitor","Arrival","Guatemala",16
 201606,"Overseas visitor","Arrival","Haiti",16
-201606,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2464
+201606,"Overseas visitor","Arrival","Hong Kong",2464
 201606,"Overseas visitor","Arrival","Hungary",48
 201606,"Overseas visitor","Arrival","Iceland",16
 201606,"Overseas visitor","Arrival","India",3200
@@ -4061,7 +4061,7 @@
 201606,"Overseas visitor","Departure","Cambodia",104
 201606,"Overseas visitor","Departure","Canada",1716
 201606,"Overseas visitor","Departure","Chile",624
-201606,"Overseas visitor","Departure","China, People's Republic of",19188
+201606,"Overseas visitor","Departure","China",19188
 201606,"Overseas visitor","Departure","Colombia",104
 201606,"Overseas visitor","Departure","Cook Islands",1014
 201606,"Overseas visitor","Departure","Costa Rica",26
@@ -4076,7 +4076,7 @@
 201606,"Overseas visitor","Departure","Greece",26
 201606,"Overseas visitor","Departure","Guam",52
 201606,"Overseas visitor","Departure","Haiti",26
-201606,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",1950
+201606,"Overseas visitor","Departure","Hong Kong",1950
 201606,"Overseas visitor","Departure","India",3848
 201606,"Overseas visitor","Departure","Indonesia",988
 201606,"Overseas visitor","Departure","Iran",26
@@ -4164,7 +4164,7 @@
 201607,"Overseas visitor","Arrival","Canada",2544
 201607,"Overseas visitor","Arrival","Cayman Islands",32
 201607,"Overseas visitor","Arrival","Chile",720
-201607,"Overseas visitor","Arrival","China, People's Republic of",26240
+201607,"Overseas visitor","Arrival","China",26240
 201607,"Overseas visitor","Arrival","Colombia",96
 201607,"Overseas visitor","Arrival","Cook Islands",912
 201607,"Overseas visitor","Arrival","Croatia",32
@@ -4183,7 +4183,7 @@
 201607,"Overseas visitor","Arrival","Greece",32
 201607,"Overseas visitor","Arrival","Guam",32
 201607,"Overseas visitor","Arrival","Guinea",16
-201607,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3296
+201607,"Overseas visitor","Arrival","Hong Kong",3296
 201607,"Overseas visitor","Arrival","Hungary",32
 201607,"Overseas visitor","Arrival","India",1968
 201607,"Overseas visitor","Arrival","Indonesia",4512
@@ -4279,7 +4279,7 @@
 201607,"Overseas visitor","Departure","Canada",2418
 201607,"Overseas visitor","Departure","Cayman Islands",52
 201607,"Overseas visitor","Departure","Chile",728
-201607,"Overseas visitor","Departure","China, People's Republic of",21632
+201607,"Overseas visitor","Departure","China",21632
 201607,"Overseas visitor","Departure","Colombia",130
 201607,"Overseas visitor","Departure","Cook Islands",988
 201607,"Overseas visitor","Departure","Czech Republic",78
@@ -4293,7 +4293,7 @@
 201607,"Overseas visitor","Departure","French Polynesia",1794
 201607,"Overseas visitor","Departure","Germany",3406
 201607,"Overseas visitor","Departure","Guam",26
-201607,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2444
+201607,"Overseas visitor","Departure","Hong Kong",2444
 201607,"Overseas visitor","Departure","Hungary",104
 201607,"Overseas visitor","Departure","India",1950
 201607,"Overseas visitor","Departure","Indonesia",5174
@@ -4376,7 +4376,7 @@
 201608,"Overseas visitor","Arrival","Canada",2528
 201608,"Overseas visitor","Arrival","Cayman Islands",16
 201608,"Overseas visitor","Arrival","Chile",464
-201608,"Overseas visitor","Arrival","China, People's Republic of",26128
+201608,"Overseas visitor","Arrival","China",26128
 201608,"Overseas visitor","Arrival","Colombia",96
 201608,"Overseas visitor","Arrival","Cook Islands",848
 201608,"Overseas visitor","Arrival","Croatia",48
@@ -4401,7 +4401,7 @@
 201608,"Overseas visitor","Arrival","Guam",32
 201608,"Overseas visitor","Arrival","Guatemala",16
 201608,"Overseas visitor","Arrival","Guyana",16
-201608,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2832
+201608,"Overseas visitor","Arrival","Hong Kong",2832
 201608,"Overseas visitor","Arrival","Hungary",64
 201608,"Overseas visitor","Arrival","Iceland",16
 201608,"Overseas visitor","Arrival","India",2544
@@ -4518,7 +4518,7 @@
 201608,"Overseas visitor","Departure","Cayman Islands",22
 201608,"Overseas visitor","Departure","Chad",1
 201608,"Overseas visitor","Departure","Chile",504
-201608,"Overseas visitor","Departure","China, People's Republic of",29728
+201608,"Overseas visitor","Departure","China",29728
 201608,"Overseas visitor","Departure","Colombia",72
 201608,"Overseas visitor","Departure","Comoros",1
 201608,"Overseas visitor","Departure","Congo",2
@@ -4560,7 +4560,7 @@
 201608,"Overseas visitor","Departure","Guatemala",5
 201608,"Overseas visitor","Departure","Guyana",4
 201608,"Overseas visitor","Departure","Haiti",2
-201608,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3861
+201608,"Overseas visitor","Departure","Hong Kong",3861
 201608,"Overseas visitor","Departure","Hungary",50
 201608,"Overseas visitor","Departure","Iceland",8
 201608,"Overseas visitor","Departure","India",1873
@@ -4701,7 +4701,7 @@
 201609,"Overseas visitor","Arrival","Canada",2752
 201609,"Overseas visitor","Arrival","Cayman Islands",16
 201609,"Overseas visitor","Arrival","Chile",672
-201609,"Overseas visitor","Arrival","China, People's Republic of",27184
+201609,"Overseas visitor","Arrival","China",27184
 201609,"Overseas visitor","Arrival","Christmas Island",16
 201609,"Overseas visitor","Arrival","Colombia",144
 201609,"Overseas visitor","Arrival","Cook Islands",880
@@ -4726,7 +4726,7 @@
 201609,"Overseas visitor","Arrival","Greece",48
 201609,"Overseas visitor","Arrival","Guam",16
 201609,"Overseas visitor","Arrival","Guatemala",16
-201609,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",2240
+201609,"Overseas visitor","Arrival","Hong Kong",2240
 201609,"Overseas visitor","Arrival","Hungary",64
 201609,"Overseas visitor","Arrival","Iceland",32
 201609,"Overseas visitor","Arrival","India",3600
@@ -4840,7 +4840,7 @@
 201609,"Overseas visitor","Departure","Cayman Islands",13
 201609,"Overseas visitor","Departure","Central African Republic",1
 201609,"Overseas visitor","Departure","Chile",604
-201609,"Overseas visitor","Departure","China, People's Republic of",19204
+201609,"Overseas visitor","Departure","China",19204
 201609,"Overseas visitor","Departure","Christmas Island",2
 201609,"Overseas visitor","Departure","Colombia",84
 201609,"Overseas visitor","Departure","Comoros",1
@@ -4880,7 +4880,7 @@
 201609,"Overseas visitor","Departure","Guam",12
 201609,"Overseas visitor","Departure","Guatemala",3
 201609,"Overseas visitor","Departure","Guyana",1
-201609,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",1872
+201609,"Overseas visitor","Departure","Hong Kong",1872
 201609,"Overseas visitor","Departure","Hungary",42
 201609,"Overseas visitor","Departure","Iceland",18
 201609,"Overseas visitor","Departure","India",2816
@@ -5016,7 +5016,7 @@
 201610,"Overseas visitor","Arrival","Canada",4368
 201610,"Overseas visitor","Arrival","Cayman Islands",32
 201610,"Overseas visitor","Arrival","Chile",624
-201610,"Overseas visitor","Arrival","China, People's Republic of",29360
+201610,"Overseas visitor","Arrival","China",29360
 201610,"Overseas visitor","Arrival","Colombia",112
 201610,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
 201610,"Overseas visitor","Arrival","Cook Islands",800
@@ -5039,7 +5039,7 @@
 201610,"Overseas visitor","Arrival","French Polynesia",1424
 201610,"Overseas visitor","Arrival","Germany",8608
 201610,"Overseas visitor","Arrival","Greece",80
-201610,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3040
+201610,"Overseas visitor","Arrival","Hong Kong",3040
 201610,"Overseas visitor","Arrival","Hungary",96
 201610,"Overseas visitor","Arrival","Iceland",16
 201610,"Overseas visitor","Arrival","India",4160
@@ -5154,7 +5154,7 @@
 201610,"Overseas visitor","Departure","Cayman Islands",7
 201610,"Overseas visitor","Departure","Chad",1
 201610,"Overseas visitor","Departure","Chile",559
-201610,"Overseas visitor","Departure","China, People's Republic of",32799
+201610,"Overseas visitor","Departure","China",32799
 201610,"Overseas visitor","Departure","Colombia",119
 201610,"Overseas visitor","Departure","Comoros",1
 201610,"Overseas visitor","Departure","Congo",4
@@ -5196,7 +5196,7 @@
 201610,"Overseas visitor","Departure","Guatemala",9
 201610,"Overseas visitor","Departure","Haiti",6
 201610,"Overseas visitor","Departure","Honduras",2
-201610,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2923
+201610,"Overseas visitor","Departure","Hong Kong",2923
 201610,"Overseas visitor","Departure","Hungary",74
 201610,"Overseas visitor","Departure","Iceland",25
 201610,"Overseas visitor","Departure","India",3266
@@ -5342,7 +5342,7 @@
 201611,"Overseas visitor","Arrival","Canada",7264
 201611,"Overseas visitor","Arrival","Cayman Islands",16
 201611,"Overseas visitor","Arrival","Chile",720
-201611,"Overseas visitor","Arrival","China, People's Republic of",38752
+201611,"Overseas visitor","Arrival","China",38752
 201611,"Overseas visitor","Arrival","Colombia",176
 201611,"Overseas visitor","Arrival","Cook Islands",1008
 201611,"Overseas visitor","Arrival","Costa Rica",64
@@ -5364,7 +5364,7 @@
 201611,"Overseas visitor","Arrival","Greece",32
 201611,"Overseas visitor","Arrival","Guam",16
 201611,"Overseas visitor","Arrival","Guatemala",16
-201611,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4432
+201611,"Overseas visitor","Arrival","Hong Kong",4432
 201611,"Overseas visitor","Arrival","Hungary",304
 201611,"Overseas visitor","Arrival","Iceland",64
 201611,"Overseas visitor","Arrival","India",5728
@@ -5488,7 +5488,7 @@
 201611,"Overseas visitor","Departure","Canada",5901
 201611,"Overseas visitor","Departure","Cayman Islands",35
 201611,"Overseas visitor","Departure","Chile",635
-201611,"Overseas visitor","Departure","China, People's Republic of",36549
+201611,"Overseas visitor","Departure","China",36549
 201611,"Overseas visitor","Departure","Colombia",131
 201611,"Overseas visitor","Departure","Congo",4
 201611,"Overseas visitor","Departure","Congo, the Democratic Republic of the",4
@@ -5528,7 +5528,7 @@
 201611,"Overseas visitor","Departure","Guam",26
 201611,"Overseas visitor","Departure","Guatemala",15
 201611,"Overseas visitor","Departure","Guyana",7
-201611,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3799
+201611,"Overseas visitor","Departure","Hong Kong",3799
 201611,"Overseas visitor","Departure","Hungary",245
 201611,"Overseas visitor","Departure","Iceland",29
 201611,"Overseas visitor","Departure","India",5139
@@ -5679,7 +5679,7 @@
 201612,"Overseas visitor","Arrival","Canada",8288
 201612,"Overseas visitor","Arrival","Cayman Islands",32
 201612,"Overseas visitor","Arrival","Chile",912
-201612,"Overseas visitor","Arrival","China, People's Republic of",35904
+201612,"Overseas visitor","Arrival","China",35904
 201612,"Overseas visitor","Arrival","Colombia",272
 201612,"Overseas visitor","Arrival","Congo",16
 201612,"Overseas visitor","Arrival","Cook Islands",1424
@@ -5710,7 +5710,7 @@
 201612,"Overseas visitor","Arrival","Guam",32
 201612,"Overseas visitor","Arrival","Guatemala",32
 201612,"Overseas visitor","Arrival","Haiti",16
-201612,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",8544
+201612,"Overseas visitor","Arrival","Hong Kong",8544
 201612,"Overseas visitor","Arrival","Hungary",240
 201612,"Overseas visitor","Arrival","Iceland",32
 201612,"Overseas visitor","Arrival","India",7088
@@ -5848,7 +5848,7 @@
 201612,"Overseas visitor","Departure","Canada",6349
 201612,"Overseas visitor","Departure","Cayman Islands",25
 201612,"Overseas visitor","Departure","Chile",644
-201612,"Overseas visitor","Departure","China, People's Republic of",37600
+201612,"Overseas visitor","Departure","China",37600
 201612,"Overseas visitor","Departure","Colombia",206
 201612,"Overseas visitor","Departure","Comoros",1
 201612,"Overseas visitor","Departure","Congo",1
@@ -5891,7 +5891,7 @@
 201612,"Overseas visitor","Departure","Guinea",1
 201612,"Overseas visitor","Departure","Guyana",2
 201612,"Overseas visitor","Departure","Haiti",1
-201612,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",6356
+201612,"Overseas visitor","Departure","Hong Kong",6356
 201612,"Overseas visitor","Departure","Hungary",181
 201612,"Overseas visitor","Departure","Iceland",28
 201612,"Overseas visitor","Departure","India",5140
@@ -6035,7 +6035,7 @@
 201701,"Overseas visitor","Arrival","Canada",7952
 201701,"Overseas visitor","Arrival","Cayman Islands",16
 201701,"Overseas visitor","Arrival","Chile",672
-201701,"Overseas visitor","Arrival","China, People's Republic of",54096
+201701,"Overseas visitor","Arrival","China",54096
 201701,"Overseas visitor","Arrival","Colombia",192
 201701,"Overseas visitor","Arrival","Cook Islands",880
 201701,"Overseas visitor","Arrival","Costa Rica",48
@@ -6064,7 +6064,7 @@
 201701,"Overseas visitor","Arrival","Guatemala",16
 201701,"Overseas visitor","Arrival","Guinea",16
 201701,"Overseas visitor","Arrival","Haiti",16
-201701,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4736
+201701,"Overseas visitor","Arrival","Hong Kong",4736
 201701,"Overseas visitor","Arrival","Hungary",272
 201701,"Overseas visitor","Arrival","Iceland",64
 201701,"Overseas visitor","Arrival","India",3856
@@ -6193,7 +6193,7 @@
 201701,"Overseas visitor","Departure","Cayman Islands",31
 201701,"Overseas visitor","Departure","Chad",1
 201701,"Overseas visitor","Departure","Chile",754
-201701,"Overseas visitor","Departure","China, People's Republic of",32017
+201701,"Overseas visitor","Departure","China",32017
 201701,"Overseas visitor","Departure","Christmas Island",1
 201701,"Overseas visitor","Departure","Colombia",252
 201701,"Overseas visitor","Departure","Comoros",1
@@ -6240,7 +6240,7 @@
 201701,"Overseas visitor","Departure","Guyana",2
 201701,"Overseas visitor","Departure","Haiti",2
 201701,"Overseas visitor","Departure","Honduras",8
-201701,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",5705
+201701,"Overseas visitor","Departure","Hong Kong",5705
 201701,"Overseas visitor","Departure","Hungary",267
 201701,"Overseas visitor","Departure","Iceland",83
 201701,"Overseas visitor","Departure","India",5946
@@ -6401,7 +6401,7 @@
 201702,"Overseas visitor","Arrival","Canada",11712
 201702,"Overseas visitor","Arrival","Cayman Islands",16
 201702,"Overseas visitor","Arrival","Chile",976
-201702,"Overseas visitor","Arrival","China, People's Republic of",33728
+201702,"Overseas visitor","Arrival","China",33728
 201702,"Overseas visitor","Arrival","Colombia",176
 201702,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
 201702,"Overseas visitor","Arrival","Cook Islands",912
@@ -6424,7 +6424,7 @@
 201702,"Overseas visitor","Arrival","Gibraltar",16
 201702,"Overseas visitor","Arrival","Greece",144
 201702,"Overseas visitor","Arrival","Guam",32
-201702,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4112
+201702,"Overseas visitor","Arrival","Hong Kong",4112
 201702,"Overseas visitor","Arrival","Hungary",336
 201702,"Overseas visitor","Arrival","Iceland",48
 201702,"Overseas visitor","Arrival","India",5648
@@ -6553,7 +6553,7 @@
 201702,"Overseas visitor","Departure","Cayman Islands",17
 201702,"Overseas visitor","Departure","Chad",2
 201702,"Overseas visitor","Departure","Chile",992
-201702,"Overseas visitor","Departure","China, People's Republic of",57371
+201702,"Overseas visitor","Departure","China",57371
 201702,"Overseas visitor","Departure","Colombia",138
 201702,"Overseas visitor","Departure","Comoros",1
 201702,"Overseas visitor","Departure","Congo",1
@@ -6594,7 +6594,7 @@
 201702,"Overseas visitor","Departure","Guyana",4
 201702,"Overseas visitor","Departure","Haiti",1
 201702,"Overseas visitor","Departure","Honduras",6
-201702,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",5394
+201702,"Overseas visitor","Departure","Hong Kong",5394
 201702,"Overseas visitor","Departure","Hungary",329
 201702,"Overseas visitor","Departure","Iceland",54
 201702,"Overseas visitor","Departure","India",4387
@@ -6747,7 +6747,7 @@
 201703,"Overseas visitor","Arrival","Canada",7920
 201703,"Overseas visitor","Arrival","Cayman Islands",32
 201703,"Overseas visitor","Arrival","Chile",800
-201703,"Overseas visitor","Arrival","China, People's Republic of",42000
+201703,"Overseas visitor","Arrival","China",42000
 201703,"Overseas visitor","Arrival","Colombia",144
 201703,"Overseas visitor","Arrival","Cook Islands",928
 201703,"Overseas visitor","Arrival","Costa Rica",16
@@ -6774,7 +6774,7 @@
 201703,"Overseas visitor","Arrival","Guam",32
 201703,"Overseas visitor","Arrival","Guatemala",16
 201703,"Overseas visitor","Arrival","Honduras",16
-201703,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3872
+201703,"Overseas visitor","Arrival","Hong Kong",3872
 201703,"Overseas visitor","Arrival","Hungary",176
 201703,"Overseas visitor","Arrival","Iceland",64
 201703,"Overseas visitor","Arrival","India",4992
@@ -6904,7 +6904,7 @@
 201703,"Overseas visitor","Departure","Canada",11606
 201703,"Overseas visitor","Departure","Cayman Islands",18
 201703,"Overseas visitor","Departure","Chile",880
-201703,"Overseas visitor","Departure","China, People's Republic of",40270
+201703,"Overseas visitor","Departure","China",40270
 201703,"Overseas visitor","Departure","Colombia",117
 201703,"Overseas visitor","Departure","Comoros",1
 201703,"Overseas visitor","Departure","Congo",1
@@ -6946,7 +6946,7 @@
 201703,"Overseas visitor","Departure","Guatemala",13
 201703,"Overseas visitor","Departure","Guyana",4
 201703,"Overseas visitor","Departure","Honduras",2
-201703,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3939
+201703,"Overseas visitor","Departure","Hong Kong",3939
 201703,"Overseas visitor","Departure","Hungary",297
 201703,"Overseas visitor","Departure","Iceland",66
 201703,"Overseas visitor","Departure","India",5156
@@ -7091,7 +7091,7 @@
 201704,"Overseas visitor","Arrival","Canada",6176
 201704,"Overseas visitor","Arrival","Cayman Islands",16
 201704,"Overseas visitor","Arrival","Chile",688
-201704,"Overseas visitor","Arrival","China, People's Republic of",39296
+201704,"Overseas visitor","Arrival","China",39296
 201704,"Overseas visitor","Arrival","Colombia",176
 201704,"Overseas visitor","Arrival","Cook Islands",1120
 201704,"Overseas visitor","Arrival","Costa Rica",48
@@ -7113,7 +7113,7 @@
 201704,"Overseas visitor","Arrival","Greece",80
 201704,"Overseas visitor","Arrival","Guam",64
 201704,"Overseas visitor","Arrival","Guatemala",16
-201704,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",6128
+201704,"Overseas visitor","Arrival","Hong Kong",6128
 201704,"Overseas visitor","Arrival","Hungary",192
 201704,"Overseas visitor","Arrival","Iceland",64
 201704,"Overseas visitor","Arrival","India",5152
@@ -7243,7 +7243,7 @@
 201704,"Overseas visitor","Departure","Canada",6804
 201704,"Overseas visitor","Departure","Cayman Islands",23
 201704,"Overseas visitor","Departure","Chile",609
-201704,"Overseas visitor","Departure","China, People's Republic of",39599
+201704,"Overseas visitor","Departure","China",39599
 201704,"Overseas visitor","Departure","Colombia",132
 201704,"Overseas visitor","Departure","Comoros",2
 201704,"Overseas visitor","Departure","Congo",1
@@ -7285,7 +7285,7 @@
 201704,"Overseas visitor","Departure","Guinea",1
 201704,"Overseas visitor","Departure","Haiti",1
 201704,"Overseas visitor","Departure","Honduras",11
-201704,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",5980
+201704,"Overseas visitor","Departure","Hong Kong",5980
 201704,"Overseas visitor","Departure","Hungary",166
 201704,"Overseas visitor","Departure","Iceland",51
 201704,"Overseas visitor","Departure","India",4288
@@ -7435,7 +7435,7 @@
 201705,"Overseas visitor","Arrival","Canada",2624
 201705,"Overseas visitor","Arrival","Cayman Islands",16
 201705,"Overseas visitor","Arrival","Chile",832
-201705,"Overseas visitor","Arrival","China, People's Republic of",27568
+201705,"Overseas visitor","Arrival","China",27568
 201705,"Overseas visitor","Arrival","Colombia",144
 201705,"Overseas visitor","Arrival","Cook Islands",880
 201705,"Overseas visitor","Arrival","Costa Rica",16
@@ -7463,7 +7463,7 @@
 201705,"Overseas visitor","Arrival","Guam",16
 201705,"Overseas visitor","Arrival","Guatemala",16
 201705,"Overseas visitor","Arrival","Guyana",16
-201705,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3056
+201705,"Overseas visitor","Arrival","Hong Kong",3056
 201705,"Overseas visitor","Arrival","Hungary",64
 201705,"Overseas visitor","Arrival","Iceland",32
 201705,"Overseas visitor","Arrival","India",6992
@@ -7582,7 +7582,7 @@
 201705,"Overseas visitor","Departure","Canada",5358
 201705,"Overseas visitor","Departure","Cayman Islands",15
 201705,"Overseas visitor","Departure","Chile",898
-201705,"Overseas visitor","Departure","China, People's Republic of",33482
+201705,"Overseas visitor","Departure","China",33482
 201705,"Overseas visitor","Departure","Christmas Island",1
 201705,"Overseas visitor","Departure","Colombia",124
 201705,"Overseas visitor","Departure","Comoros",1
@@ -7625,7 +7625,7 @@
 201705,"Overseas visitor","Departure","Guinea",1
 201705,"Overseas visitor","Departure","Guyana",2
 201705,"Overseas visitor","Departure","Haiti",1
-201705,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3666
+201705,"Overseas visitor","Departure","Hong Kong",3666
 201705,"Overseas visitor","Departure","Hungary",132
 201705,"Overseas visitor","Departure","Iceland",42
 201705,"Overseas visitor","Departure","India",6649
@@ -7770,7 +7770,7 @@
 201706,"Overseas visitor","Arrival","Canada",1856
 201706,"Overseas visitor","Arrival","Cayman Islands",32
 201706,"Overseas visitor","Arrival","Chile",528
-201706,"Overseas visitor","Arrival","China, People's Republic of",17744
+201706,"Overseas visitor","Arrival","China",17744
 201706,"Overseas visitor","Arrival","Colombia",144
 201706,"Overseas visitor","Arrival","Cook Islands",688
 201706,"Overseas visitor","Arrival","Costa Rica",16
@@ -7794,7 +7794,7 @@
 201706,"Overseas visitor","Arrival","Greece",16
 201706,"Overseas visitor","Arrival","Guam",32
 201706,"Overseas visitor","Arrival","Guatemala",16
-201706,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3520
+201706,"Overseas visitor","Arrival","Hong Kong",3520
 201706,"Overseas visitor","Arrival","Hungary",32
 201706,"Overseas visitor","Arrival","Iceland",16
 201706,"Overseas visitor","Arrival","India",3968
@@ -7917,7 +7917,7 @@
 201706,"Overseas visitor","Departure","Canada",2065
 201706,"Overseas visitor","Departure","Cayman Islands",14
 201706,"Overseas visitor","Departure","Chile",507
-201706,"Overseas visitor","Departure","China, People's Republic of",17701
+201706,"Overseas visitor","Departure","China",17701
 201706,"Overseas visitor","Departure","Colombia",119
 201706,"Overseas visitor","Departure","Congo",2
 201706,"Overseas visitor","Departure","Congo, the Democratic Republic of the",1
@@ -7956,7 +7956,7 @@
 201706,"Overseas visitor","Departure","Guatemala",2
 201706,"Overseas visitor","Departure","Guyana",2
 201706,"Overseas visitor","Departure","Haiti",3
-201706,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3147
+201706,"Overseas visitor","Departure","Hong Kong",3147
 201706,"Overseas visitor","Departure","Hungary",61
 201706,"Overseas visitor","Departure","Iceland",13
 201706,"Overseas visitor","Departure","India",4908
@@ -8096,7 +8096,7 @@
 201707,"Overseas visitor","Arrival","Canada",2448
 201707,"Overseas visitor","Arrival","Cayman Islands",32
 201707,"Overseas visitor","Arrival","Chile",736
-201707,"Overseas visitor","Arrival","China, People's Republic of",29360
+201707,"Overseas visitor","Arrival","China",29360
 201707,"Overseas visitor","Arrival","Colombia",160
 201707,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
 201707,"Overseas visitor","Arrival","Cook Islands",832
@@ -8117,7 +8117,7 @@
 201707,"Overseas visitor","Arrival","Germany",3328
 201707,"Overseas visitor","Arrival","Greece",48
 201707,"Overseas visitor","Arrival","Guam",32
-201707,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4224
+201707,"Overseas visitor","Arrival","Hong Kong",4224
 201707,"Overseas visitor","Arrival","Hungary",64
 201707,"Overseas visitor","Arrival","Iceland",32
 201707,"Overseas visitor","Arrival","India",2832
@@ -8240,7 +8240,7 @@
 201707,"Overseas visitor","Departure","Canada",2421
 201707,"Overseas visitor","Departure","Cayman Islands",33
 201707,"Overseas visitor","Departure","Chile",761
-201707,"Overseas visitor","Departure","China, People's Republic of",23739
+201707,"Overseas visitor","Departure","China",23739
 201707,"Overseas visitor","Departure","Colombia",163
 201707,"Overseas visitor","Departure","Congo, the Democratic Republic of the",2
 201707,"Overseas visitor","Departure","Cook Islands",757
@@ -8278,7 +8278,7 @@
 201707,"Overseas visitor","Departure","Guinea",1
 201707,"Overseas visitor","Departure","Guyana",1
 201707,"Overseas visitor","Departure","Haiti",1
-201707,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3660
+201707,"Overseas visitor","Departure","Hong Kong",3660
 201707,"Overseas visitor","Departure","Hungary",64
 201707,"Overseas visitor","Departure","Iceland",48
 201707,"Overseas visitor","Departure","India",2674
@@ -8418,7 +8418,7 @@
 201708,"Overseas visitor","Arrival","Canada",2384
 201708,"Overseas visitor","Arrival","Cayman Islands",16
 201708,"Overseas visitor","Arrival","Chile",464
-201708,"Overseas visitor","Arrival","China, People's Republic of",29232
+201708,"Overseas visitor","Arrival","China",29232
 201708,"Overseas visitor","Arrival","Colombia",96
 201708,"Overseas visitor","Arrival","Congo",16
 201708,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
@@ -8444,7 +8444,7 @@
 201708,"Overseas visitor","Arrival","Greece",48
 201708,"Overseas visitor","Arrival","Guam",16
 201708,"Overseas visitor","Arrival","Guatemala",16
-201708,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3904
+201708,"Overseas visitor","Arrival","Hong Kong",3904
 201708,"Overseas visitor","Arrival","Hungary",32
 201708,"Overseas visitor","Arrival","Iceland",32
 201708,"Overseas visitor","Arrival","India",3296
@@ -8563,7 +8563,7 @@
 201708,"Overseas visitor","Departure","Cayman Islands",39
 201708,"Overseas visitor","Departure","Central African Republic",2
 201708,"Overseas visitor","Departure","Chile",476
-201708,"Overseas visitor","Departure","China, People's Republic of",34050
+201708,"Overseas visitor","Departure","China",34050
 201708,"Overseas visitor","Departure","Colombia",98
 201708,"Overseas visitor","Departure","Congo",3
 201708,"Overseas visitor","Departure","Congo, the Democratic Republic of the",3
@@ -8602,7 +8602,7 @@
 201708,"Overseas visitor","Departure","Guinea",1
 201708,"Overseas visitor","Departure","Guyana",3
 201708,"Overseas visitor","Departure","Honduras",2
-201708,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",5016
+201708,"Overseas visitor","Departure","Hong Kong",5016
 201708,"Overseas visitor","Departure","Hungary",59
 201708,"Overseas visitor","Departure","Iceland",21
 201708,"Overseas visitor","Departure","India",2686
@@ -8741,7 +8741,7 @@
 201709,"Overseas visitor","Arrival","Cambodia",144
 201709,"Overseas visitor","Arrival","Canada",2384
 201709,"Overseas visitor","Arrival","Chile",848
-201709,"Overseas visitor","Arrival","China, People's Republic of",30704
+201709,"Overseas visitor","Arrival","China",30704
 201709,"Overseas visitor","Arrival","Colombia",160
 201709,"Overseas visitor","Arrival","Congo",16
 201709,"Overseas visitor","Arrival","Cook Islands",800
@@ -8766,7 +8766,7 @@
 201709,"Overseas visitor","Arrival","Greenland",16
 201709,"Overseas visitor","Arrival","Guam",16
 201709,"Overseas visitor","Arrival","Haiti",16
-201709,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3024
+201709,"Overseas visitor","Arrival","Hong Kong",3024
 201709,"Overseas visitor","Arrival","Hungary",80
 201709,"Overseas visitor","Arrival","Iceland",16
 201709,"Overseas visitor","Arrival","India",4064
@@ -8892,7 +8892,7 @@
 201709,"Overseas visitor","Departure","Canada",2089
 201709,"Overseas visitor","Departure","Cayman Islands",7
 201709,"Overseas visitor","Departure","Chile",707
-201709,"Overseas visitor","Departure","China, People's Republic of",20652
+201709,"Overseas visitor","Departure","China",20652
 201709,"Overseas visitor","Departure","Colombia",97
 201709,"Overseas visitor","Departure","Congo, the Democratic Republic of the",1
 201709,"Overseas visitor","Departure","Cook Islands",819
@@ -8930,7 +8930,7 @@
 201709,"Overseas visitor","Departure","Guyana",1
 201709,"Overseas visitor","Departure","Haiti",6
 201709,"Overseas visitor","Departure","Honduras",3
-201709,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",2623
+201709,"Overseas visitor","Departure","Hong Kong",2623
 201709,"Overseas visitor","Departure","Hungary",47
 201709,"Overseas visitor","Departure","Iceland",9
 201709,"Overseas visitor","Departure","India",3299
@@ -9074,7 +9074,7 @@
 201710,"Overseas visitor","Arrival","Canada",4432
 201710,"Overseas visitor","Arrival","Cayman Islands",16
 201710,"Overseas visitor","Arrival","Chile",752
-201710,"Overseas visitor","Arrival","China, People's Republic of",33040
+201710,"Overseas visitor","Arrival","China",33040
 201710,"Overseas visitor","Arrival","Colombia",128
 201710,"Overseas visitor","Arrival","Cook Islands",1152
 201710,"Overseas visitor","Arrival","Costa Rica",32
@@ -9097,7 +9097,7 @@
 201710,"Overseas visitor","Arrival","Greenland",16
 201710,"Overseas visitor","Arrival","Guam",32
 201710,"Overseas visitor","Arrival","Guatemala",32
-201710,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3840
+201710,"Overseas visitor","Arrival","Hong Kong",3840
 201710,"Overseas visitor","Arrival","Hungary",144
 201710,"Overseas visitor","Arrival","Iceland",16
 201710,"Overseas visitor","Arrival","India",5088
@@ -9217,7 +9217,7 @@
 201710,"Overseas visitor","Departure","Cayman Islands",11
 201710,"Overseas visitor","Departure","Chad",2
 201710,"Overseas visitor","Departure","Chile",690
-201710,"Overseas visitor","Departure","China, People's Republic of",39017
+201710,"Overseas visitor","Departure","China",39017
 201710,"Overseas visitor","Departure","Christmas Island",1
 201710,"Overseas visitor","Departure","Cocos (Keeling) Islands",1
 201710,"Overseas visitor","Departure","Colombia",108
@@ -9259,7 +9259,7 @@
 201710,"Overseas visitor","Departure","Guinea",1
 201710,"Overseas visitor","Departure","Guyana",1
 201710,"Overseas visitor","Departure","Honduras",1
-201710,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",3642
+201710,"Overseas visitor","Departure","Hong Kong",3642
 201710,"Overseas visitor","Departure","Hungary",80
 201710,"Overseas visitor","Departure","Iceland",14
 201710,"Overseas visitor","Departure","India",3967
@@ -9397,7 +9397,7 @@
 201711,"Overseas visitor","Arrival","Canada",7808
 201711,"Overseas visitor","Arrival","Cayman Islands",16
 201711,"Overseas visitor","Arrival","Chile",688
-201711,"Overseas visitor","Arrival","China, People's Republic of",41808
+201711,"Overseas visitor","Arrival","China",41808
 201711,"Overseas visitor","Arrival","Colombia",160
 201711,"Overseas visitor","Arrival","Cook Islands",1024
 201711,"Overseas visitor","Arrival","Costa Rica",48
@@ -9422,7 +9422,7 @@
 201711,"Overseas visitor","Arrival","Guam",16
 201711,"Overseas visitor","Arrival","Guatemala",32
 201711,"Overseas visitor","Arrival","Honduras",16
-201711,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",4768
+201711,"Overseas visitor","Arrival","Hong Kong",4768
 201711,"Overseas visitor","Arrival","Hungary",336
 201711,"Overseas visitor","Arrival","Iceland",64
 201711,"Overseas visitor","Arrival","India",6416
@@ -9549,7 +9549,7 @@
 201711,"Overseas visitor","Departure","Canada",6473
 201711,"Overseas visitor","Departure","Cayman Islands",16
 201711,"Overseas visitor","Departure","Chile",691
-201711,"Overseas visitor","Departure","China, People's Republic of",39719
+201711,"Overseas visitor","Departure","China",39719
 201711,"Overseas visitor","Departure","Christmas Island",1
 201711,"Overseas visitor","Departure","Cocos (Keeling) Islands",1
 201711,"Overseas visitor","Departure","Colombia",108
@@ -9589,7 +9589,7 @@
 201711,"Overseas visitor","Departure","Guatemala",17
 201711,"Overseas visitor","Departure","Guyana",1
 201711,"Overseas visitor","Departure","Honduras",26
-201711,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",4683
+201711,"Overseas visitor","Departure","Hong Kong",4683
 201711,"Overseas visitor","Departure","Hungary",251
 201711,"Overseas visitor","Departure","Iceland",59
 201711,"Overseas visitor","Departure","India",6237
@@ -9740,7 +9740,7 @@
 201712,"Overseas visitor","Arrival","Cayman Islands",48
 201712,"Overseas visitor","Arrival","Chad",16
 201712,"Overseas visitor","Arrival","Chile",1088
-201712,"Overseas visitor","Arrival","China, People's Republic of",39296
+201712,"Overseas visitor","Arrival","China",39296
 201712,"Overseas visitor","Arrival","Colombia",256
 201712,"Overseas visitor","Arrival","Congo, the Democratic Republic of the",16
 201712,"Overseas visitor","Arrival","Cook Islands",1552
@@ -9769,7 +9769,7 @@
 201712,"Overseas visitor","Arrival","Guatemala",32
 201712,"Overseas visitor","Arrival","Guyana",16
 201712,"Overseas visitor","Arrival","Honduras",16
-201712,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",9504
+201712,"Overseas visitor","Arrival","Hong Kong",9504
 201712,"Overseas visitor","Arrival","Hungary",320
 201712,"Overseas visitor","Arrival","Iceland",80
 201712,"Overseas visitor","Arrival","India",9136
@@ -9911,7 +9911,7 @@
 201712,"Overseas visitor","Departure","Cayman Islands",15
 201712,"Overseas visitor","Departure","Chad",1
 201712,"Overseas visitor","Departure","Chile",851
-201712,"Overseas visitor","Departure","China, People's Republic of",39667
+201712,"Overseas visitor","Departure","China",39667
 201712,"Overseas visitor","Departure","Cocos (Keeling) Islands",1
 201712,"Overseas visitor","Departure","Colombia",165
 201712,"Overseas visitor","Departure","Comoros",1
@@ -9956,7 +9956,7 @@
 201712,"Overseas visitor","Departure","Guinea",2
 201712,"Overseas visitor","Departure","Guyana",4
 201712,"Overseas visitor","Departure","Honduras",5
-201712,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",6193
+201712,"Overseas visitor","Departure","Hong Kong",6193
 201712,"Overseas visitor","Departure","Hungary",226
 201712,"Overseas visitor","Departure","Iceland",31
 201712,"Overseas visitor","Departure","India",6312
@@ -10110,7 +10110,7 @@
 201801,"Overseas visitor","Arrival","Canada",9184
 201801,"Overseas visitor","Arrival","Cayman Islands",16
 201801,"Overseas visitor","Arrival","Chile",768
-201801,"Overseas visitor","Arrival","China, People's Republic of",37280
+201801,"Overseas visitor","Arrival","China",37280
 201801,"Overseas visitor","Arrival","Colombia",192
 201801,"Overseas visitor","Arrival","Congo",16
 201801,"Overseas visitor","Arrival","Cook Islands",752
@@ -10138,7 +10138,7 @@
 201801,"Overseas visitor","Arrival","Greenland",16
 201801,"Overseas visitor","Arrival","Guam",16
 201801,"Overseas visitor","Arrival","Guatemala",16
-201801,"Overseas visitor","Arrival","Hong Kong (Special Administrative Region)",3184
+201801,"Overseas visitor","Arrival","Hong Kong",3184
 201801,"Overseas visitor","Arrival","Hungary",304
 201801,"Overseas visitor","Arrival","Iceland",48
 201801,"Overseas visitor","Arrival","India",4976
@@ -10269,7 +10269,7 @@
 201801,"Overseas visitor","Departure","Cayman Islands",38
 201801,"Overseas visitor","Departure","Chad",1
 201801,"Overseas visitor","Departure","Chile",844
-201801,"Overseas visitor","Departure","China, People's Republic of",30684
+201801,"Overseas visitor","Departure","China",30684
 201801,"Overseas visitor","Departure","Christmas Island",1
 201801,"Overseas visitor","Departure","Cocos (Keeling) Islands",1
 201801,"Overseas visitor","Departure","Colombia",278
@@ -10316,7 +10316,7 @@
 201801,"Overseas visitor","Departure","Guyana",7
 201801,"Overseas visitor","Departure","Haiti",2
 201801,"Overseas visitor","Departure","Honduras",1
-201801,"Overseas visitor","Departure","Hong Kong (Special Administrative Region)",6802
+201801,"Overseas visitor","Departure","Hong Kong",6802
 201801,"Overseas visitor","Departure","Hungary",372
 201801,"Overseas visitor","Departure","Iceland",73
 201801,"Overseas visitor","Departure","India",7273
@@ -10467,7 +10467,7 @@
 201502,"NZ resident","Departure","Cambodia",360
 201502,"NZ resident","Departure","Canada",1200
 201502,"NZ resident","Departure","Chile",180
-201502,"NZ resident","Departure","China, People's Republic of",5100
+201502,"NZ resident","Departure","China",5100
 201502,"NZ resident","Departure","Colombia",20
 201502,"NZ resident","Departure","Cook Islands",2940
 201502,"NZ resident","Departure","Cuba",20
@@ -10483,7 +10483,7 @@
 201502,"NZ resident","Departure","Ghana",40
 201502,"NZ resident","Departure","Greece",20
 201502,"NZ resident","Departure","Guam",40
-201502,"NZ resident","Departure","Hong Kong (Special Administrative Region)",920
+201502,"NZ resident","Departure","Hong Kong",920
 201502,"NZ resident","Departure","Hungary",20
 201502,"NZ resident","Departure","India",3680
 201502,"NZ resident","Departure","Indonesia",1540
@@ -10570,7 +10570,7 @@
 201503,"NZ resident","Departure","Canada",1020
 201503,"NZ resident","Departure","Cayman Islands",20
 201503,"NZ resident","Departure","Chile",280
-201503,"NZ resident","Departure","China, People's Republic of",7440
+201503,"NZ resident","Departure","China",7440
 201503,"NZ resident","Departure","Colombia",40
 201503,"NZ resident","Departure","Cook Islands",4940
 201503,"NZ resident","Departure","Costa Rica",60
@@ -10592,7 +10592,7 @@
 201503,"NZ resident","Departure","Germany",600
 201503,"NZ resident","Departure","Greece",200
 201503,"NZ resident","Departure","Guatemala",20
-201503,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1760
+201503,"NZ resident","Departure","Hong Kong",1760
 201503,"NZ resident","Departure","Hungary",80
 201503,"NZ resident","Departure","India",3500
 201503,"NZ resident","Departure","Indonesia",1960
@@ -10687,7 +10687,7 @@
 201504,"NZ resident","Departure","Canada",1420
 201504,"NZ resident","Departure","Cayman Islands",20
 201504,"NZ resident","Departure","Chile",200
-201504,"NZ resident","Departure","China, People's Republic of",7480
+201504,"NZ resident","Departure","China",7480
 201504,"NZ resident","Departure","Colombia",40
 201504,"NZ resident","Departure","Cook Islands",5900
 201504,"NZ resident","Departure","Croatia",60
@@ -10708,7 +10708,7 @@
 201504,"NZ resident","Departure","Guam",20
 201504,"NZ resident","Departure","Guatemala",20
 201504,"NZ resident","Departure","Guyana",20
-201504,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1600
+201504,"NZ resident","Departure","Hong Kong",1600
 201504,"NZ resident","Departure","Hungary",80
 201504,"NZ resident","Departure","India",3060
 201504,"NZ resident","Departure","Indonesia",2880
@@ -10805,7 +10805,7 @@
 201505,"NZ resident","Departure","Cambodia",440
 201505,"NZ resident","Departure","Canada",2180
 201505,"NZ resident","Departure","Chile",340
-201505,"NZ resident","Departure","China, People's Republic of",7440
+201505,"NZ resident","Departure","China",7440
 201505,"NZ resident","Departure","Colombia",120
 201505,"NZ resident","Departure","Cook Islands",6960
 201505,"NZ resident","Departure","Costa Rica",20
@@ -10826,7 +10826,7 @@
 201505,"NZ resident","Departure","Greece",280
 201505,"NZ resident","Departure","Guam",20
 201505,"NZ resident","Departure","Guyana",20
-201505,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1160
+201505,"NZ resident","Departure","Hong Kong",1160
 201505,"NZ resident","Departure","Hungary",80
 201505,"NZ resident","Departure","Iceland",20
 201505,"NZ resident","Departure","India",2320
@@ -10928,7 +10928,7 @@
 201506,"NZ resident","Departure","Cambodia",300
 201506,"NZ resident","Departure","Canada",3840
 201506,"NZ resident","Departure","Chile",200
-201506,"NZ resident","Departure","China, People's Republic of",6520
+201506,"NZ resident","Departure","China",6520
 201506,"NZ resident","Departure","Colombia",60
 201506,"NZ resident","Departure","Cook Islands",8660
 201506,"NZ resident","Departure","Costa Rica",60
@@ -10953,7 +10953,7 @@
 201506,"NZ resident","Departure","Ghana",40
 201506,"NZ resident","Departure","Greece",560
 201506,"NZ resident","Departure","Honduras",20
-201506,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1280
+201506,"NZ resident","Departure","Hong Kong",1280
 201506,"NZ resident","Departure","Hungary",160
 201506,"NZ resident","Departure","Iceland",80
 201506,"NZ resident","Departure","India",2040
@@ -11060,7 +11060,7 @@
 201507,"NZ resident","Departure","Canada",3580
 201507,"NZ resident","Departure","Cayman Islands",20
 201507,"NZ resident","Departure","Chile",80
-201507,"NZ resident","Departure","China, People's Republic of",5760
+201507,"NZ resident","Departure","China",5760
 201507,"NZ resident","Departure","Colombia",80
 201507,"NZ resident","Departure","Cook Islands",10380
 201507,"NZ resident","Departure","Costa Rica",20
@@ -11082,7 +11082,7 @@
 201507,"NZ resident","Departure","Georgia",20
 201507,"NZ resident","Departure","Germany",1700
 201507,"NZ resident","Departure","Greece",560
-201507,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1000
+201507,"NZ resident","Departure","Hong Kong",1000
 201507,"NZ resident","Departure","Hungary",120
 201507,"NZ resident","Departure","India",2200
 201507,"NZ resident","Departure","Indonesia",5780
@@ -11183,7 +11183,7 @@
 201508,"NZ resident","Departure","Cameroon",20
 201508,"NZ resident","Departure","Canada",3040
 201508,"NZ resident","Departure","Chile",180
-201508,"NZ resident","Departure","China, People's Republic of",4820
+201508,"NZ resident","Departure","China",4820
 201508,"NZ resident","Departure","Colombia",40
 201508,"NZ resident","Departure","Cook Islands",8620
 201508,"NZ resident","Departure","Costa Rica",60
@@ -11205,7 +11205,7 @@
 201508,"NZ resident","Departure","Greece",540
 201508,"NZ resident","Departure","Greenland",20
 201508,"NZ resident","Departure","Guam",20
-201508,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1000
+201508,"NZ resident","Departure","Hong Kong",1000
 201508,"NZ resident","Departure","Hungary",120
 201508,"NZ resident","Departure","Iceland",40
 201508,"NZ resident","Departure","India",2600
@@ -11304,7 +11304,7 @@
 201509,"NZ resident","Departure","Cambodia",340
 201509,"NZ resident","Departure","Canada",1740
 201509,"NZ resident","Departure","Chile",300
-201509,"NZ resident","Departure","China, People's Republic of",8620
+201509,"NZ resident","Departure","China",8620
 201509,"NZ resident","Departure","Christmas Island",20
 201509,"NZ resident","Departure","Colombia",40
 201509,"NZ resident","Departure","Cook Islands",8280
@@ -11324,7 +11324,7 @@
 201509,"NZ resident","Departure","French Polynesia",800
 201509,"NZ resident","Departure","Germany",1360
 201509,"NZ resident","Departure","Greece",320
-201509,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1760
+201509,"NZ resident","Departure","Hong Kong",1760
 201509,"NZ resident","Departure","Hungary",100
 201509,"NZ resident","Departure","Iceland",20
 201509,"NZ resident","Departure","India",3020
@@ -11422,7 +11422,7 @@
 201510,"NZ resident","Departure","Cambodia",300
 201510,"NZ resident","Departure","Canada",980
 201510,"NZ resident","Departure","Chile",320
-201510,"NZ resident","Departure","China, People's Republic of",7300
+201510,"NZ resident","Departure","China",7300
 201510,"NZ resident","Departure","Colombia",80
 201510,"NZ resident","Departure","Cook Islands",8440
 201510,"NZ resident","Departure","Costa Rica",20
@@ -11443,7 +11443,7 @@
 201510,"NZ resident","Departure","Ghana",20
 201510,"NZ resident","Departure","Greece",20
 201510,"NZ resident","Departure","Guam",40
-201510,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1840
+201510,"NZ resident","Departure","Hong Kong",1840
 201510,"NZ resident","Departure","Hungary",40
 201510,"NZ resident","Departure","Iceland",40
 201510,"NZ resident","Departure","India",5080
@@ -11540,7 +11540,7 @@
 201511,"NZ resident","Departure","Canada",880
 201511,"NZ resident","Departure","Cayman Islands",20
 201511,"NZ resident","Departure","Chile",540
-201511,"NZ resident","Departure","China, People's Republic of",8340
+201511,"NZ resident","Departure","China",8340
 201511,"NZ resident","Departure","Colombia",100
 201511,"NZ resident","Departure","Cook Islands",5960
 201511,"NZ resident","Departure","Costa Rica",40
@@ -11562,7 +11562,7 @@
 201511,"NZ resident","Departure","Ghana",40
 201511,"NZ resident","Departure","Guam",40
 201511,"NZ resident","Departure","Guatemala",20
-201511,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1660
+201511,"NZ resident","Departure","Hong Kong",1660
 201511,"NZ resident","Departure","India",7300
 201511,"NZ resident","Departure","Indonesia",1560
 201511,"NZ resident","Departure","Iran",60
@@ -11658,7 +11658,7 @@
 201512,"NZ resident","Departure","Cambodia",1160
 201512,"NZ resident","Departure","Canada",2580
 201512,"NZ resident","Departure","Chile",220
-201512,"NZ resident","Departure","China, People's Republic of",12160
+201512,"NZ resident","Departure","China",12160
 201512,"NZ resident","Departure","Colombia",160
 201512,"NZ resident","Departure","Comoros",40
 201512,"NZ resident","Departure","Cook Islands",5880
@@ -11681,7 +11681,7 @@
 201512,"NZ resident","Departure","Greece",100
 201512,"NZ resident","Departure","Guatemala",60
 201512,"NZ resident","Departure","Guyana",20
-201512,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2220
+201512,"NZ resident","Departure","Hong Kong",2220
 201512,"NZ resident","Departure","Hungary",20
 201512,"NZ resident","Departure","India",8620
 201512,"NZ resident","Departure","Indonesia",2680
@@ -11785,7 +11785,7 @@
 201601,"NZ resident","Departure","Canada",1720
 201601,"NZ resident","Departure","Cayman Islands",20
 201601,"NZ resident","Departure","Chile",240
-201601,"NZ resident","Departure","China, People's Republic of",7440
+201601,"NZ resident","Departure","China",7440
 201601,"NZ resident","Departure","Colombia",20
 201601,"NZ resident","Departure","Congo",20
 201601,"NZ resident","Departure","Cook Islands",4420
@@ -11805,7 +11805,7 @@
 201601,"NZ resident","Departure","Ghana",20
 201601,"NZ resident","Departure","Greece",40
 201601,"NZ resident","Departure","Guam",40
-201601,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1220
+201601,"NZ resident","Departure","Hong Kong",1220
 201601,"NZ resident","Departure","Hungary",20
 201601,"NZ resident","Departure","Iceland",20
 201601,"NZ resident","Departure","India",6540
@@ -11894,7 +11894,7 @@
 201602,"NZ resident","Departure","Cambodia",240
 201602,"NZ resident","Departure","Canada",1220
 201602,"NZ resident","Departure","Chile",420
-201602,"NZ resident","Departure","China, People's Republic of",4060
+201602,"NZ resident","Departure","China",4060
 201602,"NZ resident","Departure","Colombia",40
 201602,"NZ resident","Departure","Cook Islands",2940
 201602,"NZ resident","Departure","Costa Rica",60
@@ -11911,7 +11911,7 @@
 201602,"NZ resident","Departure","Germany",440
 201602,"NZ resident","Departure","Greece",20
 201602,"NZ resident","Departure","Guam",20
-201602,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1100
+201602,"NZ resident","Departure","Hong Kong",1100
 201602,"NZ resident","Departure","Hungary",20
 201602,"NZ resident","Departure","Iceland",20
 201602,"NZ resident","Departure","India",4580
@@ -11997,7 +11997,7 @@
 201603,"NZ resident","Departure","Cambodia",400
 201603,"NZ resident","Departure","Canada",960
 201603,"NZ resident","Departure","Chile",200
-201603,"NZ resident","Departure","China, People's Republic of",6820
+201603,"NZ resident","Departure","China",6820
 201603,"NZ resident","Departure","Colombia",60
 201603,"NZ resident","Departure","Congo, the Democratic Republic of the",20
 201603,"NZ resident","Departure","Cook Islands",5440
@@ -12022,7 +12022,7 @@
 201603,"NZ resident","Departure","Guadeloupe",60
 201603,"NZ resident","Departure","Guam",20
 201603,"NZ resident","Departure","Guatemala",20
-201603,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1560
+201603,"NZ resident","Departure","Hong Kong",1560
 201603,"NZ resident","Departure","Hungary",20
 201603,"NZ resident","Departure","India",4420
 201603,"NZ resident","Departure","Indonesia",1820
@@ -12112,7 +12112,7 @@
 201604,"NZ resident","Departure","Cambodia",280
 201604,"NZ resident","Departure","Canada",1440
 201604,"NZ resident","Departure","Chile",180
-201604,"NZ resident","Departure","China, People's Republic of",9440
+201604,"NZ resident","Departure","China",9440
 201604,"NZ resident","Departure","Colombia",60
 201604,"NZ resident","Departure","Congo, the Democratic Republic of the",20
 201604,"NZ resident","Departure","Cook Islands",7580
@@ -12138,7 +12138,7 @@
 201604,"NZ resident","Departure","Guadeloupe",20
 201604,"NZ resident","Departure","Guam",20
 201604,"NZ resident","Departure","Guatemala",40
-201604,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2300
+201604,"NZ resident","Departure","Hong Kong",2300
 201604,"NZ resident","Departure","Hungary",80
 201604,"NZ resident","Departure","India",3800
 201604,"NZ resident","Departure","Indonesia",3020
@@ -12239,7 +12239,7 @@
 201605,"NZ resident","Departure","Cambodia",380
 201605,"NZ resident","Departure","Canada",1900
 201605,"NZ resident","Departure","Chile",140
-201605,"NZ resident","Departure","China, People's Republic of",8400
+201605,"NZ resident","Departure","China",8400
 201605,"NZ resident","Departure","Colombia",120
 201605,"NZ resident","Departure","Comoros",20
 201605,"NZ resident","Departure","Congo",20
@@ -12264,7 +12264,7 @@
 201605,"NZ resident","Departure","Greece",640
 201605,"NZ resident","Departure","Guam",100
 201605,"NZ resident","Departure","Guatemala",40
-201605,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1360
+201605,"NZ resident","Departure","Hong Kong",1360
 201605,"NZ resident","Departure","Hungary",100
 201605,"NZ resident","Departure","Iceland",40
 201605,"NZ resident","Departure","India",2300
@@ -12368,7 +12368,7 @@
 201606,"NZ resident","Departure","Cambodia",320
 201606,"NZ resident","Departure","Canada",3960
 201606,"NZ resident","Departure","Chile",200
-201606,"NZ resident","Departure","China, People's Republic of",8060
+201606,"NZ resident","Departure","China",8060
 201606,"NZ resident","Departure","Colombia",100
 201606,"NZ resident","Departure","Cook Islands",10120
 201606,"NZ resident","Departure","Costa Rica",20
@@ -12391,7 +12391,7 @@
 201606,"NZ resident","Departure","Germany",2360
 201606,"NZ resident","Departure","Ghana",40
 201606,"NZ resident","Departure","Greece",460
-201606,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1340
+201606,"NZ resident","Departure","Hong Kong",1340
 201606,"NZ resident","Departure","Hungary",180
 201606,"NZ resident","Departure","Iceland",20
 201606,"NZ resident","Departure","India",2480
@@ -12496,7 +12496,7 @@
 201607,"NZ resident","Departure","Canada",4640
 201607,"NZ resident","Departure","Cayman Islands",20
 201607,"NZ resident","Departure","Chile",140
-201607,"NZ resident","Departure","China, People's Republic of",7040
+201607,"NZ resident","Departure","China",7040
 201607,"NZ resident","Departure","Colombia",80
 201607,"NZ resident","Departure","Congo, the Democratic Republic of the",20
 201607,"NZ resident","Departure","Cook Islands",12220
@@ -12517,7 +12517,7 @@
 201607,"NZ resident","Departure","Germany",1840
 201607,"NZ resident","Departure","Gibraltar",20
 201607,"NZ resident","Departure","Greece",480
-201607,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1120
+201607,"NZ resident","Departure","Hong Kong",1120
 201607,"NZ resident","Departure","Hungary",60
 201607,"NZ resident","Departure","Iceland",60
 201607,"NZ resident","Departure","India",3540
@@ -12620,7 +12620,7 @@
 201608,"NZ resident","Departure","Canada",3140
 201608,"NZ resident","Departure","Cayman Islands",20
 201608,"NZ resident","Departure","Chile",120
-201608,"NZ resident","Departure","China, People's Republic of",5920
+201608,"NZ resident","Departure","China",5920
 201608,"NZ resident","Departure","Colombia",40
 201608,"NZ resident","Departure","Cook Islands",10400
 201608,"NZ resident","Departure","Costa Rica",40
@@ -12640,7 +12640,7 @@
 201608,"NZ resident","Departure","Germany",1400
 201608,"NZ resident","Departure","Ghana",20
 201608,"NZ resident","Departure","Greece",540
-201608,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1100
+201608,"NZ resident","Departure","Hong Kong",1100
 201608,"NZ resident","Departure","Hungary",60
 201608,"NZ resident","Departure","Iceland",80
 201608,"NZ resident","Departure","India",3300
@@ -12740,7 +12740,7 @@
 201609,"NZ resident","Departure","Cambodia",460
 201609,"NZ resident","Departure","Canada",2420
 201609,"NZ resident","Departure","Chile",360
-201609,"NZ resident","Departure","China, People's Republic of",10540
+201609,"NZ resident","Departure","China",10540
 201609,"NZ resident","Departure","Colombia",40
 201609,"NZ resident","Departure","Cook Islands",10800
 201609,"NZ resident","Departure","Cote d'Ivoire",20
@@ -12760,7 +12760,7 @@
 201609,"NZ resident","Departure","Greece",400
 201609,"NZ resident","Departure","Guatemala",20
 201609,"NZ resident","Departure","Honduras",20
-201609,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1840
+201609,"NZ resident","Departure","Hong Kong",1840
 201609,"NZ resident","Departure","Hungary",120
 201609,"NZ resident","Departure","Iceland",20
 201609,"NZ resident","Departure","India",4400
@@ -12861,7 +12861,7 @@
 201610,"NZ resident","Departure","Cambodia",340
 201610,"NZ resident","Departure","Canada",1240
 201610,"NZ resident","Departure","Chile",220
-201610,"NZ resident","Departure","China, People's Republic of",7100
+201610,"NZ resident","Departure","China",7100
 201610,"NZ resident","Departure","Colombia",60
 201610,"NZ resident","Departure","Congo, the Democratic Republic of the",40
 201610,"NZ resident","Departure","Cook Islands",10300
@@ -12881,7 +12881,7 @@
 201610,"NZ resident","Departure","French Polynesia",400
 201610,"NZ resident","Departure","Germany",720
 201610,"NZ resident","Departure","Guatemala",20
-201610,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1780
+201610,"NZ resident","Departure","Hong Kong",1780
 201610,"NZ resident","Departure","Hungary",140
 201610,"NZ resident","Departure","Iceland",40
 201610,"NZ resident","Departure","India",6860
@@ -12971,7 +12971,7 @@
 201611,"NZ resident","Departure","Canada",900
 201611,"NZ resident","Departure","Cayman Islands",20
 201611,"NZ resident","Departure","Chile",340
-201611,"NZ resident","Departure","China, People's Republic of",10920
+201611,"NZ resident","Departure","China",10920
 201611,"NZ resident","Departure","Colombia",200
 201611,"NZ resident","Departure","Cook Islands",6980
 201611,"NZ resident","Departure","Costa Rica",60
@@ -12990,7 +12990,7 @@
 201611,"NZ resident","Departure","Greece",60
 201611,"NZ resident","Departure","Guam",40
 201611,"NZ resident","Departure","Guatemala",40
-201611,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2380
+201611,"NZ resident","Departure","Hong Kong",2380
 201611,"NZ resident","Departure","Hungary",40
 201611,"NZ resident","Departure","India",9160
 201611,"NZ resident","Departure","Indonesia",3120
@@ -13090,7 +13090,7 @@
 201612,"NZ resident","Departure","Canada",3240
 201612,"NZ resident","Departure","Cayman Islands",20
 201612,"NZ resident","Departure","Chile",360
-201612,"NZ resident","Departure","China, People's Republic of",15440
+201612,"NZ resident","Departure","China",15440
 201612,"NZ resident","Departure","Colombia",160
 201612,"NZ resident","Departure","Cook Islands",6620
 201612,"NZ resident","Departure","Costa Rica",140
@@ -13110,7 +13110,7 @@
 201612,"NZ resident","Departure","Ghana",20
 201612,"NZ resident","Departure","Greece",100
 201612,"NZ resident","Departure","Guatemala",80
-201612,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2240
+201612,"NZ resident","Departure","Hong Kong",2240
 201612,"NZ resident","Departure","Hungary",60
 201612,"NZ resident","Departure","Iceland",40
 201612,"NZ resident","Departure","India",11520
@@ -13217,7 +13217,7 @@
 201701,"NZ resident","Departure","Cambodia",500
 201701,"NZ resident","Departure","Canada",2240
 201701,"NZ resident","Departure","Chile",260
-201701,"NZ resident","Departure","China, People's Republic of",9720
+201701,"NZ resident","Departure","China",9720
 201701,"NZ resident","Departure","Colombia",20
 201701,"NZ resident","Departure","Cook Islands",4940
 201701,"NZ resident","Departure","Costa Rica",40
@@ -13236,7 +13236,7 @@
 201701,"NZ resident","Departure","Greece",40
 201701,"NZ resident","Departure","Guatemala",40
 201701,"NZ resident","Departure","Haiti",20
-201701,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1080
+201701,"NZ resident","Departure","Hong Kong",1080
 201701,"NZ resident","Departure","Hungary",20
 201701,"NZ resident","Departure","India",8140
 201701,"NZ resident","Departure","Indonesia",1840
@@ -13331,7 +13331,7 @@
 201702,"NZ resident","Departure","Canada",1380
 201702,"NZ resident","Departure","Cayman Islands",20
 201702,"NZ resident","Departure","Chile",260
-201702,"NZ resident","Departure","China, People's Republic of",4080
+201702,"NZ resident","Departure","China",4080
 201702,"NZ resident","Departure","Colombia",80
 201702,"NZ resident","Departure","Cook Islands",3800
 201702,"NZ resident","Departure","Costa Rica",60
@@ -13352,7 +13352,7 @@
 201702,"NZ resident","Departure","Germany",380
 201702,"NZ resident","Departure","Ghana",20
 201702,"NZ resident","Departure","Greece",40
-201702,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1060
+201702,"NZ resident","Departure","Hong Kong",1060
 201702,"NZ resident","Departure","Hungary",20
 201702,"NZ resident","Departure","Iceland",40
 201702,"NZ resident","Departure","India",6360
@@ -13437,7 +13437,7 @@
 201703,"NZ resident","Departure","Canada",1320
 201703,"NZ resident","Departure","Cayman Islands",20
 201703,"NZ resident","Departure","Chile",460
-201703,"NZ resident","Departure","China, People's Republic of",8740
+201703,"NZ resident","Departure","China",8740
 201703,"NZ resident","Departure","Colombia",20
 201703,"NZ resident","Departure","Congo, the Democratic Republic of the",20
 201703,"NZ resident","Departure","Cook Islands",6540
@@ -13458,7 +13458,7 @@
 201703,"NZ resident","Departure","Ghana",20
 201703,"NZ resident","Departure","Greece",100
 201703,"NZ resident","Departure","Guam",20
-201703,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1540
+201703,"NZ resident","Departure","Hong Kong",1540
 201703,"NZ resident","Departure","Hungary",80
 201703,"NZ resident","Departure","Iceland",40
 201703,"NZ resident","Departure","India",4160
@@ -13553,7 +13553,7 @@
 201704,"NZ resident","Departure","Canada",1740
 201704,"NZ resident","Departure","Cayman Islands",20
 201704,"NZ resident","Departure","Chile",220
-201704,"NZ resident","Departure","China, People's Republic of",10560
+201704,"NZ resident","Departure","China",10560
 201704,"NZ resident","Departure","Colombia",60
 201704,"NZ resident","Departure","Cook Islands",8320
 201704,"NZ resident","Departure","Costa Rica",60
@@ -13573,7 +13573,7 @@
 201704,"NZ resident","Departure","Ghana",20
 201704,"NZ resident","Departure","Greece",200
 201704,"NZ resident","Departure","Guam",20
-201704,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2700
+201704,"NZ resident","Departure","Hong Kong",2700
 201704,"NZ resident","Departure","Hungary",220
 201704,"NZ resident","Departure","India",4300
 201704,"NZ resident","Departure","Indonesia",3660
@@ -13680,7 +13680,7 @@
 201705,"NZ resident","Departure","Cambodia",460
 201705,"NZ resident","Departure","Canada",2280
 201705,"NZ resident","Departure","Chile",360
-201705,"NZ resident","Departure","China, People's Republic of",9180
+201705,"NZ resident","Departure","China",9180
 201705,"NZ resident","Departure","Colombia",100
 201705,"NZ resident","Departure","Cook Islands",8940
 201705,"NZ resident","Departure","Costa Rica",80
@@ -13703,7 +13703,7 @@
 201705,"NZ resident","Departure","Georgia",80
 201705,"NZ resident","Departure","Germany",2220
 201705,"NZ resident","Departure","Greece",560
-201705,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1420
+201705,"NZ resident","Departure","Hong Kong",1420
 201705,"NZ resident","Departure","Hungary",80
 201705,"NZ resident","Departure","Iceland",40
 201705,"NZ resident","Departure","India",3080
@@ -13807,7 +13807,7 @@
 201706,"NZ resident","Departure","Cambodia",500
 201706,"NZ resident","Departure","Canada",4020
 201706,"NZ resident","Departure","Chile",320
-201706,"NZ resident","Departure","China, People's Republic of",9700
+201706,"NZ resident","Departure","China",9700
 201706,"NZ resident","Departure","Colombia",100
 201706,"NZ resident","Departure","Cook Islands",10820
 201706,"NZ resident","Departure","Croatia",840
@@ -13829,7 +13829,7 @@
 201706,"NZ resident","Departure","Ghana",40
 201706,"NZ resident","Departure","Greece",700
 201706,"NZ resident","Departure","Guam",20
-201706,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1020
+201706,"NZ resident","Departure","Hong Kong",1020
 201706,"NZ resident","Departure","Hungary",220
 201706,"NZ resident","Departure","Iceland",60
 201706,"NZ resident","Departure","India",3320
@@ -13937,7 +13937,7 @@
 201707,"NZ resident","Departure","Cambodia",440
 201707,"NZ resident","Departure","Canada",5160
 201707,"NZ resident","Departure","Chile",360
-201707,"NZ resident","Departure","China, People's Republic of",9260
+201707,"NZ resident","Departure","China",9260
 201707,"NZ resident","Departure","Colombia",120
 201707,"NZ resident","Departure","Cook Islands",11180
 201707,"NZ resident","Departure","Costa Rica",80
@@ -13959,7 +13959,7 @@
 201707,"NZ resident","Departure","Greece",700
 201707,"NZ resident","Departure","Guam",60
 201707,"NZ resident","Departure","Guatemala",20
-201707,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1280
+201707,"NZ resident","Departure","Hong Kong",1280
 201707,"NZ resident","Departure","Hungary",220
 201707,"NZ resident","Departure","Iceland",80
 201707,"NZ resident","Departure","India",3840
@@ -14066,7 +14066,7 @@
 201708,"NZ resident","Departure","Canada",3780
 201708,"NZ resident","Departure","Cayman Islands",20
 201708,"NZ resident","Departure","Chile",220
-201708,"NZ resident","Departure","China, People's Republic of",6540
+201708,"NZ resident","Departure","China",6540
 201708,"NZ resident","Departure","Colombia",20
 201708,"NZ resident","Departure","Cook Islands",10800
 201708,"NZ resident","Departure","Croatia",620
@@ -14088,7 +14088,7 @@
 201708,"NZ resident","Departure","Greece",660
 201708,"NZ resident","Departure","Greenland",20
 201708,"NZ resident","Departure","Guatemala",20
-201708,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1140
+201708,"NZ resident","Departure","Hong Kong",1140
 201708,"NZ resident","Departure","Hungary",240
 201708,"NZ resident","Departure","Iceland",40
 201708,"NZ resident","Departure","India",3740
@@ -14189,7 +14189,7 @@
 201709,"NZ resident","Departure","Cameroon",20
 201709,"NZ resident","Departure","Canada",2820
 201709,"NZ resident","Departure","Chile",420
-201709,"NZ resident","Departure","China, People's Republic of",12500
+201709,"NZ resident","Departure","China",12500
 201709,"NZ resident","Departure","Colombia",160
 201709,"NZ resident","Departure","Cook Islands",10860
 201709,"NZ resident","Departure","Costa Rica",40
@@ -14212,7 +14212,7 @@
 201709,"NZ resident","Departure","Guam",20
 201709,"NZ resident","Departure","Guatemala",20
 201709,"NZ resident","Departure","Haiti",20
-201709,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1980
+201709,"NZ resident","Departure","Hong Kong",1980
 201709,"NZ resident","Departure","Hungary",220
 201709,"NZ resident","Departure","Iceland",100
 201709,"NZ resident","Departure","India",5180
@@ -14322,7 +14322,7 @@
 201710,"NZ resident","Departure","Canada",1540
 201710,"NZ resident","Departure","Cayman Islands",20
 201710,"NZ resident","Departure","Chile",500
-201710,"NZ resident","Departure","China, People's Republic of",9720
+201710,"NZ resident","Departure","China",9720
 201710,"NZ resident","Departure","Colombia",120
 201710,"NZ resident","Departure","Cook Islands",9840
 201710,"NZ resident","Departure","Croatia",120
@@ -14343,7 +14343,7 @@
 201710,"NZ resident","Departure","Gibraltar",20
 201710,"NZ resident","Departure","Greece",120
 201710,"NZ resident","Departure","Guyana",20
-201710,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1700
+201710,"NZ resident","Departure","Hong Kong",1700
 201710,"NZ resident","Departure","Hungary",20
 201710,"NZ resident","Departure","Iceland",20
 201710,"NZ resident","Departure","India",6660
@@ -14447,7 +14447,7 @@
 201711,"NZ resident","Departure","Canada",1260
 201711,"NZ resident","Departure","Cayman Islands",20
 201711,"NZ resident","Departure","Chile",480
-201711,"NZ resident","Departure","China, People's Republic of",12640
+201711,"NZ resident","Departure","China",12640
 201711,"NZ resident","Departure","Colombia",180
 201711,"NZ resident","Departure","Cook Islands",7560
 201711,"NZ resident","Departure","Costa Rica",60
@@ -14463,7 +14463,7 @@
 201711,"NZ resident","Departure","France",540
 201711,"NZ resident","Departure","French Polynesia",500
 201711,"NZ resident","Departure","Germany",840
-201711,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2360
+201711,"NZ resident","Departure","Hong Kong",2360
 201711,"NZ resident","Departure","Hungary",100
 201711,"NZ resident","Departure","Iceland",40
 201711,"NZ resident","Departure","India",9880
@@ -14565,7 +14565,7 @@
 201712,"NZ resident","Departure","Cambodia",1680
 201712,"NZ resident","Departure","Canada",3780
 201712,"NZ resident","Departure","Chile",480
-201712,"NZ resident","Departure","China, People's Republic of",18440
+201712,"NZ resident","Departure","China",18440
 201712,"NZ resident","Departure","Colombia",260
 201712,"NZ resident","Departure","Cook Islands",7900
 201712,"NZ resident","Departure","Costa Rica",80
@@ -14590,7 +14590,7 @@
 201712,"NZ resident","Departure","Greece",60
 201712,"NZ resident","Departure","Guam",40
 201712,"NZ resident","Departure","Guatemala",20
-201712,"NZ resident","Departure","Hong Kong (Special Administrative Region)",2520
+201712,"NZ resident","Departure","Hong Kong",2520
 201712,"NZ resident","Departure","Hungary",120
 201712,"NZ resident","Departure","Iceland",40
 201712,"NZ resident","Departure","India",13240
@@ -14692,7 +14692,7 @@
 201801,"NZ resident","Departure","Canada",2520
 201801,"NZ resident","Departure","Cayman Islands",20
 201801,"NZ resident","Departure","Chile",260
-201801,"NZ resident","Departure","China, People's Republic of",7420
+201801,"NZ resident","Departure","China",7420
 201801,"NZ resident","Departure","Colombia",40
 201801,"NZ resident","Departure","Cook Islands",4940
 201801,"NZ resident","Departure","Croatia",20
@@ -14711,7 +14711,7 @@
 201801,"NZ resident","Departure","Germany",580
 201801,"NZ resident","Departure","Greece",20
 201801,"NZ resident","Departure","Guatemala",20
-201801,"NZ resident","Departure","Hong Kong (Special Administrative Region)",1420
+201801,"NZ resident","Departure","Hong Kong",1420
 201801,"NZ resident","Departure","Hungary",20
 201801,"NZ resident","Departure","Iceland",20
 201801,"NZ resident","Departure","India",9760

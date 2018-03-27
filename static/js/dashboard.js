@@ -230,6 +230,14 @@ queue()
             
         }
 
+        resetTravelDD = function() {
+            travelDDBarChart.filter(null);
+            passengerTypePieChart.filter(null);
+            directionPieChart.filter(null);
+            totalTravelRowChart.filter(null);
+            dc.redrawAll();
+        }
+
 
     //**travelCompositeData charts**
         function show_citizenship_type_direction_selector(ndx_travelComposite) {
@@ -396,7 +404,7 @@ queue()
         var filtered_group = remove_empty_bins(group);
                 
                 dc.rowChart("#world-map-country-row-chart")
-                    .width(400)
+                    .width(365)
                     .height(600)
                     .margins({top: 10, right: 20, bottom: 50, left: 30})
                     .dimension(countryDim)
@@ -589,7 +597,7 @@ queue()
                 
                 causeRowChart
                     .ordinalColors(["#79CED7", "#66AFB2", "#C96A23", "#D3D1C5", "#F5821F"])
-                    .width(450)
+                    .width(390)
                     .height(300)
                     .dimension(causeDim)
                     .group(causeCount)
@@ -714,6 +722,8 @@ queue()
                     
             
         }
+
+        
         
         
         

@@ -49,6 +49,8 @@
               <li><a href="#foodPriceIndex">Food Price Index</a></li>
               <li><a href="#seriousInjuries">Serious Injuries</a></li>
               <li><a href="#incomeAndWork">Income and Work</a></li>
+              <li><button data-step="1" data-intro="This is a dashboard for exploring some of the publicly available statistical data from stats.co.nz website. Each section is interactive and visualizes different data in a different way!" class="intro_button" type="button" autofocus onclick="introJs().start();">
+                  Start Tour!</button></li>
             </ul>
           </div>
         </div>
@@ -70,19 +72,14 @@
             <div class="col-xs-12 col-sm-12">
               
             </div>
-            <article>
-                <button data-step="1" data-intro="This is a dashboard for exploring some of the publicly available statistical data from stats.co.nz website. Each section is interactive and visualizes different data in a different way!" class="intro_button" type="button" autofocus onclick="introJs().start();">
-                Show me the step-by-step guide!</button>
-                
-                <div class="row">
-                    <h1 class="section-heading">International Travel and Migration</h1>
-                    <p class="section-paragraph">Travel Data Dashboard</p>
+            <article><div class="row">
+                    <h1 class="section-heading">International Travel and Migration - Travel Dashboard</h1>
                     <div class="col-xs-8">
                     <div class="row">
-                        <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="3" data-intro="This bar chart shows change over time in the number of travellers per month">
+                        <div class="col-xs-12 col-sm-12 text-center" class="custom-chart">
                             <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                  Number of Travellers per month
                                 </div>
                                 <div class="chart-stage">
                                   <div id="grid-1-1">
@@ -91,51 +88,42 @@
                                   </div>
                                 </div>
                                 <div class="chart-notes">
-                                  Notes about this chart (optional)
+                                    This bar chart shows change over time in the number of travellers per month
                                 </div>
                               </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-xs-12 col-sm-6 text-center" class="custom-chart" data-step="4" data-intro="This pie chart shows the passenger type i.e. NZ resident or Oversears Visitor">
+                        <div class="col-xs-12 col-sm-6 text-center" class="custom-chart">
                             <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                  Traveller Type
                                 </div>
                                 <div class="chart-stage">
                                     <div id="passenger-type-pie-chart"></div>
                                 </div>
-                                <div class="chart-notes">
-                                  Notes about this chart (optional)
-                                </div>
                               </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6 text-center" class="custom-chart" data-step="5" data-intro="This pie chart shows the direction i.e. arrival or departure">
+                        <div class="col-xs-12 col-sm-6 text-center" class="custom-chart">
                             <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                  Traveller Direction
                                 </div>
                                 <div class="chart-stage">
                                     <div id="direction-pie-chart"></div>
-                                </div>
-                                <div class="chart-notes">
-                                  Notes about this chart (optional)
                                 </div>
                               </div>
                         </div>
                     </div>
                     </div>
                     <div class="col-xs-4">
-                    <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="6" data-intro="This row chart shows the most common countries">
+                    <div class="col-xs-12 col-sm-12 text-center" class="custom-chart">
                         <div class="chart-wrapper">
                             <div class="chart-title">
-                              Chart Title
+                              Traveller Country
                             </div>
                             <div class="chart-stage">
                                 <div id="country-row-chart"></div>
-                            </div>
-                            <div class="chart-notes">
-                              Notes about this chart (optional)
                             </div>
                           </div>
                     </div>
@@ -143,117 +131,109 @@
                 </div>
             </article>
         </section>
-        <section id="citizenshipType" class="section">
+        <section id="citizenshipType" class="section" data-step="3" data-intro="This is the Citizenship Type Travel section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">International Travel and Migration</h1>
-              <p class="section-paragraph">Citizenship comparison for Arrivals/Departures per month</p>
+              <h1 class="section-heading">International Travel and Migration - Citizenship type comparison</h1>
             </div>
             <article>
                 <div class="row">
                          <div class="col-xs-12 col-sm-6">
-                           <div data-step="8" data-intro="This selector is for direction i.e. arrival or departure">
+                           <div>
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                    Direction Filter
                                   </div>
                                   <div class="chart-stage">
                                       <div id="citizenship-type-direction-selector"></div>
                                   </div>
                                   <div class="chart-notes">
-                                    Notes about this chart (optional)
+                                      This selector is for direction i.e. arrival or departure
                                   </div>
                                 </div>
                            </div>
                          </div>
                          <div class="col-xs-12 col-sm-6">
-                           <div data-step="9" data-intro="This selector is for country i.e. all countries or australia">
+                           <div>
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                    Country Filter
                                   </div>
                                   <div class="chart-stage">
                                       <div id="citizenship-type-country-selector"></div>
                                   </div>
                                   <div class="chart-notes">
-                                    Notes about this chart (optional)
+                                      This selector is for country i.e. All countries or Australia
                                   </div>
                                 </div>
                            </div>
                           </div>
-                   <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="7" data-intro="This is the citizenship type composite chart. It shows a comparison of citizenship type for the selected traveller data and its change over time ">
+                   <div class="col-xs-12 col-sm-12 text-center" class="custom-chart">
                       <div class="chart-wrapper">
                           <div class="chart-title">
-                            Chart Title
+                            Citizenship Type
                           </div>
                           <div class="chart-stage">
                               <div id="citizenship-composite-chart"></div>
                           </div>
                           <div class="chart-notes">
-                            Notes about this chart (optional)
+                              This composite chart shows a comparison of citizenship type and its change over time
                           </div>
                       </div>
                    </div>
                 </div>
             </article>
         </section>
-        <section id="worldMap" class="section">
+        <section id="worldMap" class="section" data-step="4" data-intro="This is the World Map Travel section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">International Travel and Migration</h1>
-              <p class="section-paragraph">World Map</p>
+              <h1 class="section-heading">International Travel and Migration - World Map</h1>
             </div>
             <article>
                 <div class="row">
-                           <div class="col-xs-12 col-sm-6" data-step="11" data-intro="Direction Selector">
+                           <div class="col-xs-12 col-sm-6">
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                      Direction Filter
                                   </div>
                                   <div class="chart-stage">
                                       <div id="passenger-type-direction-selector"></div>
                                   </div>
-                                  <div class="chart-notes">
-                                    Notes about this chart (optional)
-                                  </div>
                               </div>
                            </div>
-                           <div class="col-xs-12 col-sm-6" data-step="12" data-intro="Month Selector">
+                           <div class="col-xs-12 col-sm-6">
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                      Month Filter
                                   </div>
                                   <div class="chart-stage">
                                       <div id="passenger-type-period-selector"></div>
-                                  </div>
-                                  <div class="chart-notes">
-                                    Notes about this chart (optional)
                                   </div>
                               </div>
                            </div>
               </div>
               <div class="row">
-                           <div class="col-xs-12 col-sm-8" data-step="10" data-intro="This is the Interactive World Map showing the number of travellers by country, colour darkness is proportional to the number of travellers">
+                           <div class="col-xs-12 col-sm-8">
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                    Traveller World Map 
                                   </div>
                                   <div class="chart-stage">
                                       <div id="world-map"></div>
                                   </div>
                                   <div class="chart-notes">
-                                    Notes about this chart (optional)
+                                      This is the Interactive World Map showing the number of travellers by country, colour darkness is proportional to the number of travellers
                                   </div>
                               </div>
                             </div>
-                           <div class="col-xs-12 col-sm-4" data-step="13" data-intro="This row chart shows the number of travellers from each country in the current selection">
+                           <div class="col-xs-12 col-sm-4">
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                    Number of Travellers per Country
                                   </div>
                                   <div class="chart-stage">
                                       <div id="world-map-country-row-chart"></div>
                                   </div>
                                   <div class="chart-notes">
-                                    Notes about this chart (optional)
+                                      This row chart shows the number of travellers from each country in the current selection
                                   </div>
                               </div>
                            </div>
@@ -261,194 +241,164 @@
                 </div>
             </article>
         </section>
-        <section id="foodPriceIndex" class="section">
+        <section id="foodPriceIndex" class="section" data-step="5" data-intro="This is the Food Price Index section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">Food Price Index</h1>
-              <p class="section-paragraph">Change over time by item</p>
+              <h1 class="section-heading">Food Price Index - Change over time by item</h1>
             </div>
             <article>
                 <div class="row">
                          <div class="col-xs-12 col-sm-6">
-                           <div data-step="15" data-intro="Food Item Selector">
+                           <div>
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                      Food Item Filter
                                   </div>
                                   <div class="chart-stage">
                                       <div id="food-item-group-selector"></div>
                                   </div>
-                                  <div class="chart-notes">
-                                    Notes about this chart (optional)
-                                  </div>
                               </div>
                            </div>
                           </div>
-                   <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="14" data-intro="This line chart shows changes in the Food Price Index over time">
+                   <div class="col-xs-12 col-sm-12 text-center" class="custom-chart">
                       <div class="chart-wrapper">
                           <div class="chart-title">
-                            Chart Title
+                            Food Price Index
                           </div>
                           <div class="chart-stage">
                               <div id="food-item-line-chart"></div>
                           </div>
                           <div class="chart-notes">
-                            Notes about this chart (optional)
+                              This line chart shows changes in the Food Price Index over time
                           </div>
                       </div>
                    </div>
                 </div>
             </article>
         </section>
-        <section id="seriousInjuries" class="section" data-step="16" data-intro="This is the Serious Injuries Dashboard">
+        <section id="seriousInjuries" class="section" data-step="6" data-intro="This is the Serious Injuries Dashboard">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">Serious Injuries</h1>
-              <p class="section-paragraph">Single Year Data Dashboard</p>
+              <h1 class="section-heading">Serious Injuries Dashboard</h1>
             </div>
             <article>
               <div class="row">
-                        <div class="col-xs-12 col-sm-6" data-step="18" data-intro="Units Selector">
+                        <div class="col-xs-12 col-sm-6">
                             <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                    Units Filter
                                 </div>
                                 <div class="chart-stage">
                                     <div id="serious-injury-units-group-selector"></div>
                                 </div>
-                                <div class="chart-notes">
-                                  Notes about this chart (optional)
-                                </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-6" data-step="19" data-intro="Indicator Selector">
+                        <div class="col-xs-12 col-sm-6">
                             <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                    Indicator Filter
                                 </div>
                                 <div class="chart-stage">
                                     <div id="serious-injury-indicator-group-selector"></div>
-                                </div>
-                                <div class="chart-notes">
-                                  Notes about this chart (optional)
                                 </div>
                             </div>
                         </div>
               </div>
               <div class="row">
-                    <div class="col-xs-12 col-sm-8 text-center" class="custom-chart" data-step="17" data-intro="This bar chart shows change in the number of serious injuries over time">
+                    <div class="col-xs-12 col-sm-8 text-center" class="custom-chart">
                         <div class="chart-wrapper">
                             <div class="chart-title">
-                              Chart Title
+                              Number of Serious Injuries
                             </div>
                             <div class="chart-stage">
                                 <div id="serious-injury-dd-bar-chart"></div>
                             </div>
                             <div class="chart-notes">
-                              Notes about this chart (optional)
+                                This bar chart shows change in the number of serious injuries over time
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="20" data-intro="This row chart shows the cause type">
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart">
                         <div class="chart-wrapper">
                             <div class="chart-title">
-                              Chart Title
+                              Cause Type
                             </div>
                             <div class="chart-stage">
                                 <div id="cause-row-chart"></div>
-                            </div>
-                            <div class="chart-notes">
-                              Notes about this chart (optional)
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="21" data-intro="This row chart shows the severity type">
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart">
                         <div class="chart-wrapper">
                             <div class="chart-title">
-                              Chart Title
+                              Severity Type
                             </div>
                             <div class="chart-stage">
                                 <div id="severity-row-chart"></div>
                             </div>
-                            <div class="chart-notes">
-                              Notes about this chart (optional)
-                            </div>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="22" data-intro="This pie chart shows the population type">
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart">
                         <div class="chart-wrapper">
                             <div class="chart-title">
-                              Chart Title
+                              Population Type
                             </div>
                             <div class="chart-stage">
                                 <div id="population-pie-chart"></div>
                             </div>
-                            <div class="chart-notes">
-                              Notes about this chart (optional)
-                            </div>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart" data-step="23" data-intro="This pie chart shows the age type">
+                    <div class="col-xs-12 col-sm-4 text-center" class="custom-chart">
                         <div class="chart-wrapper">
                             <div class="chart-title">
-                              Chart Title
+                              Age Type
                             </div>
                             <div class="chart-stage">
                                 <div id="age-pie-chart"></div>
-                            </div>
-                            <div class="chart-notes">
-                              Notes about this chart (optional)
                             </div>
                         </div>
                     </div>
                 </div>
             </article>
         </section>
-        <section id="incomeAndWork" class="section">
+        <section id="incomeAndWork" class="section" data-step="7" data-intro="This is the Income and Work section">
             <div class="col-xs-12 col-sm-12">
-              <h1 class="section-heading">Labour Market</h1>
-              <h3 class="section-paragraph">Gender comparison</h3>
+              <h1 class="section-heading">Income and Work - Gender comparison</h1>
             </div>
             <article>
                 <div class="row">
-                          <div class="col-xs-12 col-sm-6" data-step="25" data-intro="Labour Sector Selector">
+                          <div class="col-xs-12 col-sm-6">
                              <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                    Work Sector FIlter
                                 </div>
                                 <div class="chart-stage">
                                     <div id="labour-sector-group-selector"></div>
                                 </div>
-                                <div class="chart-notes">
-                                  Notes about this chart (optional)
-                                </div>
                             </div>
                           </div>
-                           <div class="col-xs-12 col-sm-6" data-step="26" data-intro="Pay Type Selector">
+                           <div class="col-xs-12 col-sm-6">
                               <div class="chart-wrapper">
                                   <div class="chart-title">
-                                    Chart Title
+                                      Income Type Filter
                                   </div>
                                   <div class="chart-stage">
                                       <div id="labour-pay-type-group-selector"></div>
-                                  </div>
-                                  <div class="chart-notes">
-                                    Notes about this chart (optional)
                                   </div>
                               </div>
                            </div>
                    </div>
                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 text-center" class="custom-chart" data-step="24" data-intro="This composite charts shows a gender comparison of the selected income and work data and its change over time">
+                        <div class="col-xs-12 col-sm-12 text-center" class="custom-chart">
                             <div class="chart-wrapper">
                                 <div class="chart-title">
-                                  Chart Title
+                                  Gender Comparison
                                 </div>
                                 <div class="chart-stage">
                                     <div id="labour-gender-composite-chart"></div>
                                 </div>
                                 <div class="chart-notes">
-                                  Notes about this chart (optional)
+                                    This composite charts shows a comparison by Gender and its change over time
                                 </div>
                             </div>
                         </div>
