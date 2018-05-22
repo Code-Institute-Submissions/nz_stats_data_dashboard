@@ -1,7 +1,7 @@
 # NZ Stats Data Dashboard | Javascript Data Visualisation Project
 
 This is a single page application which uses open source javascript data visualisation libraries to explore statistical data from New Zealand's government stats website (stats.gov.nz). It is a front-end only website that provides visitors with data visualisations of data from four distinct areas:
-1.	Internation Travel and Migration
+1.	International Travel and Migration
 2.	Food Price Index
 3.	Serious Injuries
 4.	Income and Work
