@@ -27,13 +27,13 @@ This website is hosted by Github Pages, a static site hosting service which supp
 ## UX Design
 
 Details of the UX design and research process undertaken as part of this project is available in the 
-'IFD project wireframes' folder. This document outlines how I approached the design of this site.
+'IFD project wireframes' folder. This document outlines how I approached the design of this single page web application.
 
 ## Testing
 
 Manual testing was undertaken for this application and satisfactorily passed. A sample of the tests conducted are as follows:
 1.	Testing navigation buttons and hyperlinks throughout the page
-2.	Testing the select filters and the individial charts making up dashboards for crossfiltering functionality
+2.	Testing the select filters and the individual charts making up dashboards for crossfiltering functionality
 3.	Testing the responsiveness of the application on different browsers and then using different devices (please note that only the chart containers are expected to be responsive because D3.js charts are not responsive by design)
 
 ## Authors
