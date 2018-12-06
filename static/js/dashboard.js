@@ -21,75 +21,62 @@ queue()
     
     //cleanse data
     travelDashboardData.forEach(function(d){
-        d.Count = parseInt(d.Count);
-        //d.Period = parseDate(d.Period);
-            
+        d.Count = parseInt(d.Count);    
       });
 
     var parseDate_travelCompositeData = d3.time.format("%Y%m").parse;
-
+    
     travelCompositeData.forEach(function(d){
         d.Count = parseInt(d.Count);
         d.Period = parseDate_travelCompositeData(d.Period);
         
     });
 
-    //var parseDate_travelMapData = d3.time.format("%Y%m").parse;
-
-    //cleanse data
     travelMapData.forEach(function(d){
-        d.Count = parseInt(d.Count);
-        //d.Period = parseDate(d.Period);
-            
+        d.Count = parseInt(d.Count); 
         });
 
 
     var parseDate_foodItemData = d3.time.format("%Y.%m").parse;
         
     foodItemData.forEach(function(d){
-        //d.Data_value = Math.round(d.Data_value);
-        //console.log(d.Data_value);
         d.Period = parseDate_foodItemData(d.Period);
-        //console.log(d.Period);
-        
     });
 
-      //var parseDate_seriousInjuryData = d3.time.format("%Y").parse;
-    
-    //cleanse data
     seriousInjuriesData.forEach(function(d){
         d.Data_value = parseInt(d.Data_value);
-        //d.Period = parseDate_seriousInjuryData(d.Period);
-            
       });
 
       var parseDate_labourData = d3.time.format("%Y.%m").parse;
-    
-    //cleanse data
       
       labourData.forEach(function(d){
-        //d.Data_value = parseInt(d.Data_value);
-        d.Period = parseDate_labourData(d.Period);
-            
+        d.Period = parseDate_labourData(d.Period);     
       });
     
+    //** call the individual functions for each chart in each section of the dashboard
+      
+    //call the travel dashboard functions
     show_travel_dd_bar_chart(ndx_travelDashboard);
     show_passenger_type_pie_chart(ndx_travelDashboard);
     show_direction_pie_chart(ndx_travelDashboard);
     show_country_row_chart(ndx_travelDashboard);
 
+    //call the citizentype functions
     show_citizenship_type_direction_selector(ndx_travelComposite);
     show_citizenship_type_country_selector(ndx_travelComposite);
     show_citizenship_type_composite_chart(ndx_travelComposite);
 
+    //call the travel map functions
     show_passenger_type_direction_selector(ndx_travelMap);
     show_passenger_type_period_selector(ndx_travelMap);
     show_map_of_world(ndx_travelMap, worldJson);
     show_row_chart(ndx_travelMap);
 
+    //call the food item functions
     show_food_item_group_selector(ndx_foodItem);
     show_food_item_line_chart(ndx_foodItem);
 
+    //call the serious injury functions
     show_serious_injury_units_group_selector(ndx_seriousInjuries);
     show_serious_injury_indicator_group_selector(ndx_seriousInjuries);
     show_serious_injury_dd_bar_chart(ndx_seriousInjuries);
@@ -98,17 +85,11 @@ queue()
     show_cause_row_chart(ndx_seriousInjuries);
     show_severity_row_chart(ndx_seriousInjuries);
 
+    //call the labour functions
     show_labour_sector_group_selector(ndx_labour);
     show_labour_pay_type_group_selector(ndx_labour);
     show_labour_gender_composite_chart(ndx_labour);
     
-    
-    console.log(travelDashboardData);
-    console.log(travelCompositeData);
-    console.log(travelMapData);
-    console.log(foodItemData);
-    console.log(seriousInjuriesData);
-    console.log(labourData);
     
     dc.renderAll();
     d3.select("#loader").classed("hidden", true);
@@ -134,14 +115,11 @@ queue()
         .margins({top: 10, right: 10, bottom: 30, left: 55})
         .dimension(dateDim)
         .group(numTravellers)
-        //.x(d3.time.scale().domain([minDate, maxDate]))
-        //.xUnits(d3.time.months)
         .x(d3.scale.ordinal().domain(yearMonths))
         .xUnits(dc.units.ordinal)  // required for graph to display correctly with ordinal scale
         .yAxisLabel("No. of Travellers")
         .elasticY(true)
         .brushOn(false);
-        //.xAxis().ticks(4);
 
         var ticks = yearMonths.filter(function(v, i) { return i % 2 === 0; });
         travelDDBarChart.xAxis().tickValues(ticks);
@@ -194,9 +172,7 @@ queue()
             .dimension(directionDim)
             .group(directionType)
             .legend(dc.legend());
-          // example of formatting the legend via svg
-          // http://stackoverflow.com/questions/38430632/how-can-we-add-legends-value-beside-of-legend-with-proper-alignment
-          directionPieChart.on('pretransition', function(directionPieChart) {
+            directionPieChart.on('pretransition', function(directionPieChart) {
             directionPieChart.selectAll('.dc-legend-item text')
                   .text('')
                 .append('tspan')
@@ -229,16 +205,6 @@ queue()
             .xAxis().ticks(8);
             
         }
-
-        /*
-        resetTravelDD = function() {
-            travelDDBarChart.filter(null);
-            passengerTypePieChart.filter(null);
-            directionPieChart.filter(null);
-            totalTravelRowChart.filter(null);
-            dc.redrawAll();
-        }
-        */
 
 
     //**travelCompositeData charts**
@@ -273,10 +239,8 @@ queue()
             var dateDim = ndx_travelComposite.dimension(dc.pluck("Period"));
             var minDate = dateDim.bottom(1)[0].Period;
             var maxDate = dateDim.top(1)[0].Period;
-            //&& d.Country === "All countries"
             
             var citizenshipNZ = dateDim.group().reduceSum(function (d) {
-                console.log("d="+d);
                     if (d.Citizenship === "NZ") {
                         return +d.Count;
                     } else {
@@ -304,7 +268,6 @@ queue()
                     .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
                     .renderHorizontalGridLines(true)
                     .elasticY(true)
-                    //.xAxis().ticks(d3.timeMonth)
                     .compose([
                         dc.lineChart(compositeChart)
                             .colors('black')
@@ -364,7 +327,6 @@ queue()
                     })
                     .projection(projection)
                     .title(function (p) {
-                        console.log(p);
                         return "Country: " + p["key"]
                             + "\n"
                             + "Total Travellers: " + Math.round(p.value);
@@ -390,12 +352,12 @@ queue()
             function show_row_chart(ndx_travelMap) {
                 var countryDim = ndx_travelMap.dimension(dc.pluck('Country'));
                 var group = countryDim.group().reduceSum(dc.pluck('Count'));
-                
+
+                //https://github.com/dc-js/dc.js/wiki/FAQ#remove-empty-bins
                 function remove_empty_bins(source_group) {
             return {
                 all:function () {
                     return source_group.all().filter(function(d) {
-                        console.log("d.value:"+d.value)
                         return d.value != 0;
                     });
                 }
@@ -445,7 +407,6 @@ queue()
                 return {
                     all:function () {
                         return source_group.all().filter(function(d) {
-                            console.log("d.value:"+d.value)
                             return d.value >= .001;
                         });
                     }
@@ -462,7 +423,6 @@ queue()
                         .height(400)
                         .dimension(dateDim)
                         .group(filtered_group)
-                        //.x(d3.time.scale().domain([minDate, maxDate]))
                         .elasticX(true)
                         .x(d3.time.scale())
                         .yAxisLabel("Food Price Index Value")
@@ -522,7 +482,7 @@ queue()
                 .dimension(dateDim)
                 .group(dataValueGroup)
                 .x(d3.scale.ordinal().domain(yearsMovingAverage))
-                .xUnits(dc.units.ordinal)  // required for graph to display correctly with ordinal scale
+                .xUnits(dc.units.ordinal)
                 .yAxisLabel("Number of Serious Injuries")
                 .elasticY(true)
                 .brushOn(false);
@@ -546,8 +506,6 @@ queue()
                     .dimension(populationTypeDim)
                     .group(numPopulationType)
                     .legend(dc.legend());
-                  // example of formatting the legend via svg
-                  // http://stackoverflow.com/questions/38430632/how-can-we-add-legends-value-beside-of-legend-with-proper-alignment
                   populationTypePieChart.on('pretransition', function(populationTypePieChart) {
                     populationTypePieChart.selectAll('.dc-legend-item text')
                           .text('')
@@ -576,8 +534,6 @@ queue()
                     .dimension(ageDim)
                     .group(ageType)
                     .legend(dc.legend());
-                  // example of formatting the legend via svg
-                  // http://stackoverflow.com/questions/38430632/how-can-we-add-legends-value-beside-of-legend-with-proper-alignment
                   agePieChart.on('pretransition', function(agePieChart) {
                     agePieChart.selectAll('.dc-legend-item text')
                           .text('')
@@ -663,8 +619,6 @@ queue()
     
         function show_labour_gender_composite_chart(ndx_labour){
             var dateDim = ndx_labour.dimension(dc.pluck("Period"));
-            //var minDate = dateDim.bottom(1)[0].Period;
-            //var maxDate = dateDim.top(1)[0].Period;
             
             var genderMale = dateDim.group().reduceSum(function (d) {
                 console.log("d="+d);
@@ -703,15 +657,12 @@ queue()
                     .width(1090)
                     .height(400)
                     .dimension(dateDim)
-                    //.x(d3.time.scale().domain([minDate, maxDate]))
                     .elasticX(true)
                     .x(d3.time.scale())
-                    //.yAxisLabel("Earnings in Dollars")
                     .margins({top: 10, right: 10, bottom: 30, left: 70})
                     .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
                     .renderHorizontalGridLines(true)
                     .elasticY(true)
-                    //.xAxis().ticks(d3.timeMonth)
                     .compose([
                         dc.lineChart(compositeChart)
                             .colors('indigo')
